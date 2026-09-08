@@ -1,0 +1,141 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import pals from "../../data/palworld_pals.json";
+
+export function getStaticPaths() {
+  return pals.map((p: any) => ({ params: { slug: p.slug }, props: { pal: p } }));
+}
+
+const { pal } = Astro.props;
+const all = pals as any[];
+
+// related: same primary element pals (strongest first), plus key tools
+const sameElement = all
+  .filter((p: any) => p.slug !== pal.slug && (p.elements || []).some((e: string) => (pal.elements || []).includes(e)))
+  .sort((a: any, b: any) => (b.attack ?? 0) - (a.attack ?? 0))
+  .slice(0, 6);
+
+const stats = [
+  ["HP", pal.hp], ["Alpha HP", pal.alpha_hp],
+  ["Attack", pal.attack], ["Defense", pal.defense],
+  ["Work Speed", pal.work_speed], ["Stamina", pal.stamina],
+  ["Run Speed", pal.run_speed], ["Ride Sprint Speed", pal.ride_sprint_speed],
+  ["Transport Speed", pal.transport_speed], ["Capture Rate", pal.capture_rate],
+  ["Hunger", pal.hunger], ["Sell Price", pal.sell_price],
+];
+---
+
+<Base
+  title={`${pal.title} — Pal #${pal.no} Stats, Drops & Breeding Rank`}
+  description={`${pal.title} (${(pal.elements || []).join("/")}) in Palworld: base HP ${pal.hp}, attack ${pal.attack}, defense ${pal.defense}, work suitability, drops and breeding rank.`}
+>
+  <div class="icon-h1">
+    {pal.icon && <img src={pal.icon} alt={pal.title} loading="lazy" />}
+    <h1>{pal.title}</h1>
+  </div>
+  <p class="muted">
+    {pal.no && `Pal #${pal.no} · `}
+    {(pal.elements || []).join(" / ")}
+    {pal.pal_size && ` · Size ${pal.pal_size}`}
+    {pal.internal_name && ` · internal: ${pal.internal_name}`}
+  </p>
+
+  <div class="card answer-card" style="margin:1rem 0">
+    <div class="stat-row">
+      <div><div class="stat-num">{pal.hp ?? "—"}</div><div class="stat-label">Base HP</div></div>
+      <div><div class="stat-num">{pal.attack ?? "—"}</div><div class="stat-label">Attack</div></div>
+      <div><div class="stat-num">{pal.defense ?? "—"}</div><div class="stat-label">Defense</div></div>
+      <div><div class="stat-num">{pal.breeding?.rank ?? "—"}</div><div class="stat-label">Breeding rank</div></div>
+      {pal.alpha_hp && <div><div class="stat-num">{pal.alpha_hp}</div><div class="stat-label">Alpha HP</div></div>}
+    </div>
+    {pal.flavor && <p class="muted" style="margin:0.8rem 0 0;font-size:0.92rem">{pal.flavor}</p>}
+  </div>
+
+  {pal.partner_skill_name && (
+    <section>
+      <h2>Partner Skill — {pal.partner_skill_name}</h2>
+      <div class="card"><p style="margin:0">{pal.partner_skill_desc || "—"}</p></div>
+    </section>
+  )}
+
+  <section>
+    <h2>Work suitability</h2>
+    {(pal.work_suitability || []).length ? (
+      <p>
+        {(pal.work_suitability || []).map((w: any) => (
+          <span class="tag" style="margin:0.15rem;font-size:0.9rem">{w.name} Lv.{w.level ?? "?"}</span>
+        ))}
+      </p>
+    ) : <p class="muted">No work suitability.</p>}
+  </section>
+
+  <section>
+    <h2>Active skills (learned by level)</h2>
+    <table>
+      <thead><tr><th>Level</th><th>Skill</th></tr></thead>
+      <tbody>
+        {(pal.active_skills || []).map((s: any) => (
+          <tr><td>{s.level ?? "—"}</td><td>{s.name}</td></tr>
+        ))}
+        {!(pal.active_skills || []).length && <tr><td>—</td><td class="muted">No active skills listed.</td></tr>}
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Drops</h2>
+    {(() => {
+      const groups: [string, any[]][] = [["Normal drops", pal.drops?.normal || []], ["Alpha drops", pal.drops?.alpha || []]];
+      return groups.map(([label, drops]) => drops.length > 0 && (
+        <div>
+          <h3 style="margin-bottom:0.3rem">{label}</h3>
+          <table>
+            <thead><tr><th>Item</th><th>Amount</th><th>Chance</th></tr></thead>
+            <tbody>
+              {drops.map((d: any) => (
+                <tr>
+                  <td>{d.name}</td>
+                  <td>{d.min === d.max ? d.min : `${d.min}–${d.max}`}</td>
+                  <td>{d.chance}%</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      ));
+    })()}
+    {!(pal.drops?.normal || []).length && !(pal.drops?.alpha || []).length && <p class="muted">No drop table on the wiki for this Pal.</p>}
+  </section>
+
+  <section>
+    <h2>Full stats</h2>
+    <table>
+      <tbody>
+        {stats.filter(([, v]) => v !== null && v !== undefined).map(([k, v]) => (
+          <tr><td class="muted">{k}</td><td><strong>{v}</strong></td></tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Breeding</h2>
+    <p>
+      Breeding rank <strong>{pal.breeding?.rank ?? "unknown"}</strong>
+      {pal.breeding?.egg && <> · egg: {pal.breeding.egg}</>}. Pair it in the{" "}
+      <a href="/breeding-calculator/">Breeding Calculator</a> to see what it produces
+      {pal.alpha_title && <> · Alpha boss form: {pal.alpha_title}</>}.
+    </p>
+  </section>
+
+  {pal.intro && <section><h2>About</h2><p>{pal.intro}</p></section>}
+
+  <Related
+    links={[
+      ...sameElement.map((p: any) => ({ href: `/pals/${p.slug}/`, title: p.title, sub: `${(p.elements || []).join("/")} · ATK ${p.attack ?? "?"}`, icon: p.icon })),
+      { href: "/breeding-calculator/", title: "Breeding Calculator", sub: `What does ${pal.title} breed into?`, tool: true },
+      { href: "/rankings/", title: "Pal Rankings", sub: "Strongest pals by stat", tool: true },
+    ]}
+  />
+</Base>

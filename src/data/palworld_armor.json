@@ -1,0 +1,4323 @@
+[
+ {
+  "title": "Advanced Shield",
+  "slug": "advanced-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Advanced Shield icon.png",
+   "Advanced Shield.png"
+  ],
+  "intro": "}}",
+  "description": "Strange shield made with advanced technology. It automatically repairs itself after not taking damage for a while.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Epic",
+  "weight": 5.0,
+  "technology": "Advanced Shield",
+  "ammo": [],
+  "qualities": {
+   "Epic": {
+    "sell": 12.0,
+    "durability": 21.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 50
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 200
+   },
+   {
+    "name": "Hexolite",
+    "count": 50
+   },
+   {
+    "name": "Thermal Core",
+    "count": 5
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/advanced_shield.png"
+ },
+ {
+  "title": "Axel Hat",
+  "slug": "axel-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Axel Hat icon.png",
+   "Axel Hat.png"
+  ],
+  "intro": "* Beat Axel and Orserk on Hard Difficulty.",
+  "description": "Dress up like Axel using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/axel_hat.png"
+ },
+ {
+  "title": "Bjorn Hat",
+  "slug": "bjorn-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Bjorn Hat icon.png",
+   "Bjorn Hat.png"
+  ],
+  "intro": "}}",
+  "description": "Dress up like Bjorn using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/bjorn_hat.png"
+ },
+ {
+  "title": "Bowler Hat",
+  "slug": "bowler-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Bowler Hat icon.png",
+   "Bowler Hat.png"
+  ],
+  "intro": "}}",
+  "description": "A tough, round hat. It was sold with the guarantee that it wouldn't break even if a Mammorest stepped on it.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Neutral Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": null
+   }
+  ],
+  "icon": "/icons/bowler_hat.png"
+ },
+ {
+  "title": "Cattiva Hat",
+  "slug": "cattiva-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cattiva Hat icon.png",
+   "Cattiva Hat.png"
+  ],
+  "intro": "}}",
+  "description": "Hat shaped like a Cattiva.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Neutral Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/cattiva_hat.png"
+ },
+ {
+  "title": "Cawgnito Hat",
+  "slug": "cawgnito-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cawgnito Hat icon.png",
+   "Cawgnito Hat.png"
+  ],
+  "intro": "}}",
+  "description": "Hat shaped like a Cawgnito.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Dark Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/cawgnito_hat.png"
+ },
+ {
+  "title": "Cloth Hat",
+  "slug": "cloth-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cloth Hat icon.png",
+   "Cloth Hat.png"
+  ],
+  "intro": "}}",
+  "description": "Cloth Hat",
+  "item_type": "Armor",
+  "subtype": "",
+  "rarity": "Common",
+  "weight": 2.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 16.0,
+    "durability": 150.0,
+    "defense": 5.0,
+    "health": 30.0
+   }
+  },
+  "top_defense": 5.0,
+  "top_durability": 150.0,
+  "ingredients": [],
+  "icon": "/icons/cloth_hat.png"
+ },
+ {
+  "title": "Cloth Outfit",
+  "slug": "cloth-outfit",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cloth Outfit icon.png",
+   "Cloth Outfit.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Clothes made from Cloth. Protects against cold nights.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 4.0,
+  "technology": "Cloth Outfit",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 32.0,
+    "durability": 150.0,
+    "defense": 15.0,
+    "health": 70.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 41.6,
+    "durability": 400.0,
+    "defense": 19.0,
+    "health": 91.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 48.0,
+    "durability": 500.0,
+    "defense": 21.0,
+    "health": 98.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 54.4,
+    "durability": 600.0,
+    "defense": 22.0,
+    "health": 105.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 60.8,
+    "durability": 700.0,
+    "defense": 24.0,
+    "health": 112.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 24.0,
+  "top_durability": 700.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/cloth_outfit.png"
+ },
+ {
+  "title": "Cold Resistant Hexolite Armor",
+  "slug": "cold-resistant-hexolite-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cold Resistant Hexolite Armor icon.png",
+   "Cold Resistant Hexolite Armor.png"
+  ],
+  "intro": "}}",
+  "description": "Improved Hexolite Armor. Useful for surviving in cold climates.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 600.0,
+    "health": 1750.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 4000.0,
+    "durability": 27000.0,
+    "defense": 660.0,
+    "health": 1925.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 4000.0,
+    "durability": 36000.0,
+    "defense": 690.0,
+    "health": 2012.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 4000.0,
+    "durability": 54000.0,
+    "defense": 720.0,
+    "health": 2100.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 4000.0,
+    "durability": 72000.0,
+    "defense": 780.0,
+    "health": 2275.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 780.0,
+  "top_durability": 72000.0,
+  "ingredients": [
+   {
+    "name": "Hexolite",
+    "count": 50
+   },
+   {
+    "name": "Plasteel",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   },
+   {
+    "name": "Ice Organ",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/cold_resistant_hexolite_armor.png"
+ },
+ {
+  "title": "Cold Resistant Metal Armor",
+  "slug": "cold-resistant-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cold Resistant Metal Armor icon.png",
+   "Cold Resistant Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Improved Metal Armor. Useful for activities in cold regions.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 30.0,
+  "technology": "Cold Resistant Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 492.0,
+    "durability": 1400.0,
+    "defense": 105.0,
+    "health": 250.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 590.4,
+    "durability": 1680.0,
+    "defense": 136.0,
+    "health": 325.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 738.0,
+    "durability": 2100.0,
+    "defense": 147.0,
+    "health": 350.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 885.6,
+    "durability": 2520.0,
+    "defense": 157.0,
+    "health": 375.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 1082.4,
+    "durability": 3080.0,
+    "defense": 168.0,
+    "health": 400.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 168.0,
+  "top_durability": 3080.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 40
+   },
+   {
+    "name": "Leather",
+    "count": 13
+   },
+   {
+    "name": "Cloth",
+    "count": 8
+   },
+   {
+    "name": "Ice Organ",
+    "count": 8
+   }
+  ],
+  "icon": "/icons/cold_resistant_metal_armor.png"
+ },
+ {
+  "title": "Cold Resistant Pal Metal Armor",
+  "slug": "cold-resistant-pal-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cold Resistant Pal Metal Armor icon.png",
+   "Cold Resistant Pal Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Improved Pal Metal Armor. Useful for activities in cold regions.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 40.0,
+  "technology": "Cold Resistant Pal Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3230.0,
+    "durability": 10000.0,
+    "defense": 250.0,
+    "health": 750.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 3876.0,
+    "durability": 12000.0,
+    "defense": 325.0,
+    "health": 975.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 4845.0,
+    "durability": 15000.0,
+    "defense": 350.0,
+    "health": 1050.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 5814.0,
+    "durability": 18000.0,
+    "defense": 375.0,
+    "health": 1125.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 7106.0,
+    "durability": 22000.0,
+    "defense": 400.0,
+    "health": 1200.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 400.0,
+  "top_durability": 22000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "Leather",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 6
+   },
+   {
+    "name": "Ice Organ",
+    "count": 16
+   }
+  ],
+  "icon": "/icons/cold_resistant_pal_metal_armor.png"
+ },
+ {
+  "title": "Cold Resistant Pelt Armor",
+  "slug": "cold-resistant-pelt-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cold Resistant Pelt Armor icon.png",
+   "Cold Resistant Pelt Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A Pelt Armor produced in cold regions. Can withstand freezing cold temperatures.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Cold Resistant Pelt Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 300.0,
+    "durability": 600.0,
+    "defense": 45.0,
+    "health": 140.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 360.0,
+    "durability": 720.0,
+    "defense": 58.0,
+    "health": 182.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Rare": {
+    "sell": 450.0,
+    "durability": 900.0,
+    "defense": 63.0,
+    "health": 196.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Epic": {
+    "sell": 540.0,
+    "durability": 1080.0,
+    "defense": 67.0,
+    "health": 210.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Legendary": {
+    "sell": 660.0,
+    "durability": 1320.0,
+    "defense": 72.0,
+    "health": 224.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   }
+  },
+  "top_defense": 72.0,
+  "top_durability": 1320.0,
+  "ingredients": [
+   {
+    "name": "Leather",
+    "count": 15
+   },
+   {
+    "name": "Ice Organ",
+    "count": 4
+   }
+  ],
+  "icon": "/icons/cold_resistant_pelt_armor.png"
+ },
+ {
+  "title": "Cold Resistant Plasteel Armor",
+  "slug": "cold-resistant-plasteel-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cold Resistant Plasteel Armor icon.png",
+   "Cold Resistant Plasteel Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "An advanced variant of designed for extreme cold. This armor offers exceptional protection while providing superior resistance to freezing environments.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 400.0,
+    "health": 1300.0
+   },
+   "Uncommon": {
+    "sell": 3500.0,
+    "durability": 21600.0,
+    "defense": 520.0,
+    "health": 1560.0
+   },
+   "Rare": {
+    "sell": 3500.0,
+    "durability": 23400.0,
+    "defense": 560.0,
+    "health": 1690.0
+   },
+   "Epic": {
+    "sell": 3500.0,
+    "durability": 25200.0,
+    "defense": 600.0,
+    "health": 1820.0
+   },
+   "Legendary": {
+    "sell": 3500.0,
+    "durability": 36000.0,
+    "defense": 640.0,
+    "health": 1950.0
+   }
+  },
+  "top_defense": 640.0,
+  "top_durability": 36000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 50
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 10
+   },
+   {
+    "name": "Ice Organ",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/cold_resistant_plasteel_armor.png"
+ },
+ {
+  "title": "Cold Resistant Refined Metal Armor",
+  "slug": "cold-resistant-refined-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Cold Resistant Refined Metal Armor icon.png",
+   "Cold Resistant Refined Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Improved Refined Metal Armor. Useful for activities in cold regions.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 35.0,
+  "technology": "Cold Resistant Refined Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 984.0,
+    "durability": 3000.0,
+    "defense": 180.0,
+    "health": 500.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 1180.0,
+    "durability": 3600.0,
+    "defense": 234.0,
+    "health": 650.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 1476.0,
+    "durability": 4500.0,
+    "defense": 252.0,
+    "health": 700.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 1771.2,
+    "durability": 5400.0,
+    "defense": 270.0,
+    "health": 750.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 2164.8,
+    "durability": 6600.0,
+    "defense": 288.0,
+    "health": 800.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 288.0,
+  "top_durability": 6600.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 40
+   },
+   {
+    "name": "Leather",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 3
+   },
+   {
+    "name": "Ice Organ",
+    "count": 12
+   }
+  ],
+  "icon": "/icons/cold_resistant_refined_metal_armor.png"
+ },
+ {
+  "title": "Common Shield",
+  "slug": "common-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Common Shield icon.png",
+   "Common Shield.png"
+  ],
+  "intro": "Equipping the shield in the inventory will charge up the shield. While charged, the shield will absorb any attacks at the cost of some of its charge. It does not absorb fall damage and starvation damage. When the player is not attacked for 25 seconds, the shield recharges itself automatically.",
+  "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "Common Shield",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 80.0,
+    "durability": 1000.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 10
+   },
+   {
+    "name": "Wood",
+    "count": 20
+   },
+   {
+    "name": "stone",
+    "count": 20
+   },
+   {
+    "name": "Fiber",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/common_shield.png"
+ },
+ {
+  "title": "Crown of Salvation",
+  "slug": "crown-of-salvation",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Crown of Salvation icon.png",
+   "Crown of Salvation.png"
+  ],
+  "intro": "}}",
+  "description": "Imbued with the ominous power of Hartalis (Ultra). Extremely difficult to obtain.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Electric Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 5000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/crown_of_salvation.png"
+ },
+ {
+  "title": "Dazzi Hat",
+  "slug": "dazzi-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Dazzi Hat icon.png",
+   "Dazzi Hat.png"
+  ],
+  "intro": "Requires Dazzi Hat Schematic 1, which can be purchased for 500 gold from the (Green Coat) Wandering Merchant in Fisherman's Point.",
+  "description": "Hat shaped like a Dazzi.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Electric Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Dazzi Cloud",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/dazzi_hat.png"
+ },
+ {
+  "title": "Depresso Armor",
+  "slug": "depresso-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Depresso Armor icon.png",
+   "Depresso Armor.png"
+  ],
+  "intro": "}}",
+  "description": "A costume bodypiece modeled after Depresso.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Legendary",
+  "weight": 30.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 639.6,
+    "durability": 1800.0,
+    "defense": 50.0,
+    "health": 100.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 50.0,
+  "top_durability": 1800.0,
+  "ingredients": [
+   {
+    "name": "High Quality Cloth",
+    "count": 15
+   },
+   {
+    "name": "Venom Gland",
+    "count": 75
+   }
+  ],
+  "icon": "/icons/depresso_armor.png"
+ },
+ {
+  "title": "Depresso Helmet",
+  "slug": "depresso-helmet",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Depresso Helmet icon.png",
+   "Depresso Helmet.png"
+  ],
+  "intro": "}}",
+  "description": "A costume headpiece modeled after Depresso. Slightly decreases incoming Dark damage.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 10.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 246.0,
+    "durability": 700.0,
+    "defense": 70.0,
+    "health": 250.0,
+    "equip_effect": "Dark Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 70.0,
+  "top_durability": 700.0,
+  "ingredients": [
+   {
+    "name": "High Quality Cloth",
+    "count": 5
+   },
+   {
+    "name": "Venom Gland",
+    "count": 25
+   }
+  ],
+  "icon": "/icons/depresso_helmet.png"
+ },
+ {
+  "title": "Dumud Helm",
+  "slug": "dumud-helm",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Dumud Helm icon.png",
+   "Dumud Helm.png"
+  ],
+  "intro": "}}",
+  "description": "Helm shaped like a Dumud.",
+  "item_type": "Armor",
+  "subtype": "",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Earth Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/dumud_helm.png"
+ },
+ {
+  "title": "Explorer Cap",
+  "slug": "explorer-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Explorer Cap icon.png",
+   "Explorer Cap.png"
+  ],
+  "intro": "}}",
+  "description": "A cap for explorers. It protects from the bright rays of the sun.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 3.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 270.0,
+    "defense": 25.0,
+    "health": 70.0,
+    "equip_effect": "Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 25.0,
+  "top_durability": 270.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 10
+   },
+   {
+    "name": "Leather",
+    "count": 3
+   },
+   {
+    "name": "Ingot",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/explorer_cap.png"
+ },
+ {
+  "title": "Eye of Cthulhu Mask",
+  "slug": "eye-of-cthulhu-mask",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Eye of Cthulhu Mask icon.png",
+   "Eye of Cthulhu Mask.png"
+  ],
+  "intro": "}}",
+  "description": "[Tides of Terraria] Pulsing with Eye of Cthulhu's sinister energy. A rarity only the most fortunate may obtain.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 15.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 2.0,
+    "durability": 20000.0,
+    "defense": 350.0,
+    "health": 800.0
+   }
+  },
+  "top_defense": 350.0,
+  "top_durability": 20000.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/eye_of_cthulhu_mask.png"
+ },
+ {
+  "title": "Farming Hat",
+  "slug": "farming-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Farming Hat icon.png",
+   "Farming Hat.png"
+  ],
+  "intro": "}}",
+  "description": "A hat for working in the fields. It protects from the bright rays of the sun.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 3.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 270.0,
+    "defense": 10.0,
+    "health": 30.0,
+    "equip_effect": "Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 10.0,
+  "top_durability": 270.0,
+  "ingredients": [
+   {
+    "name": "Fiber",
+    "count": 30
+   },
+   {
+    "name": "Wood",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/farming_hat.png"
+ },
+ {
+  "title": "Feathered Hair Band",
+  "slug": "feathered-hair-band",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Feathered Hair Band icon.png",
+   "Feathered Hair Band.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A beautiful feathered headband. Though improbable, it somehow seems to protect its wearer from lethal head injuries.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "Feathered Hair Band",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 200.0,
+    "defense": 15.0,
+    "health": 60.0
+   },
+   "Uncommon": {
+    "sell": 23.4,
+    "durability": 520.0,
+    "defense": 19.0,
+    "health": 78.0
+   },
+   "Rare": {
+    "sell": 27.0,
+    "durability": 600.0,
+    "defense": 21.0,
+    "health": 84.0
+   },
+   "Epic": {
+    "sell": 30.6,
+    "durability": 680.0,
+    "defense": 22.0,
+    "health": 90.0
+   },
+   "Legendary": {
+    "sell": 34.2,
+    "durability": 760.0,
+    "defense": 24.0,
+    "health": 96.0
+   }
+  },
+  "top_defense": 24.0,
+  "top_durability": 760.0,
+  "ingredients": [
+   {
+    "name": "Fiber",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/feathered_hair_band.png"
+ },
+ {
+  "title": "Giga Shield",
+  "slug": "giga-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Giga Shield icon.png",
+   "Giga Shield.png"
+  ],
+  "intro": "Equipping the shield charges it. While charged, the shield absorbs incoming attacks at the cost of shield charge. It does not absorb fall damage or starvation damage. If the player avoids taking damage for a short period, the shield automatically begins recharging.",
+  "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. Modifications have enhanced its effectiveness even further.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Uncommon",
+  "weight": 5.0,
+  "technology": "Giga Shield",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 6.0,
+    "durability": 2250.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 50
+   },
+   {
+    "name": "Ingot",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/giga_shield.png"
+ },
+ {
+  "title": "Golden Crown",
+  "slug": "golden-crown",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Golden Crown icon.png",
+   "Golden Crown.png"
+  ],
+  "intro": "}}",
+  "description": "A rare golden crown. Just wearing it makes you feel like royalty.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 6.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 450.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Ice Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 450.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 25
+   }
+  ],
+  "icon": "/icons/golden_crown.png"
+ },
+ {
+  "title": "Graduation Cap",
+  "slug": "graduation-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Graduation Cap icon.png",
+   "Graduation Cap.png"
+  ],
+  "intro": "}}",
+  "description": "A cap that makes its wearer feel smarter. Was there once a school on this island?",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Speedy Worker Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 20
+   },
+   {
+    "name": "Fiber",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/graduation_cap.png"
+ },
+ {
+  "title": "Grinning Tocotoco Cap",
+  "slug": "grinning-tocotoco-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Grinning Tocotoco Cap icon.png",
+   "Grinning Tocotoco Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Tocotoco. It makes those who wear it smile uncontrollably.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Neutral Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Tocotoco Feather",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/grinning_tocotoco_cap.png"
+ },
+ {
+  "title": "Gumoss Cap",
+  "slug": "gumoss-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Gumoss Cap icon.png",
+   "Gumoss Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Gumoss.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Grass Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Gumoss Leaf",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/gumoss_cap.png"
+ },
+ {
+  "title": "Hallowed Headgear",
+  "slug": "hallowed-headgear",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hallowed Headgear icon.png",
+   "Hallowed Headgear.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Nightglow.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 13.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 4500.0,
+    "defense": 140.0,
+    "health": 320.0,
+    "equip_effect": "Hallowed Power: Magic"
+   },
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 6000.0,
+    "defense": 154.0,
+    "health": 352.0,
+    "equip_effect": "Hallowed Power: Magic"
+   },
+   "Rare": {
+    "sell": 2000.0,
+    "durability": 7500.0,
+    "defense": 161.0,
+    "health": 368.0,
+    "equip_effect": "Hallowed Power: Magic"
+   },
+   "Epic": {
+    "sell": 2000.0,
+    "durability": 10500.0,
+    "defense": 168.0,
+    "health": 384.0,
+    "equip_effect": "Hallowed Power: Magic"
+   },
+   "Legendary": {
+    "sell": 2000.0,
+    "durability": 13500.0,
+    "defense": 182.0,
+    "health": 416.0,
+    "equip_effect": "Hallowed Power: Magic"
+   }
+  },
+  "top_defense": 182.0,
+  "top_durability": 13500.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/hallowed_headgear.png"
+ },
+ {
+  "title": "Hallowed Helmet",
+  "slug": "hallowed-helmet",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hallowed Helmet icon.png",
+   "Hallowed Helmet.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Vortex Beater.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 13.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 4500.0,
+    "defense": 140.0,
+    "health": 320.0,
+    "equip_effect": "Hallowed Power: Ranged"
+   },
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 6000.0,
+    "defense": 154.0,
+    "health": 352.0,
+    "equip_effect": "Hallowed Power: Ranged"
+   },
+   "Rare": {
+    "sell": 2000.0,
+    "durability": 7500.0,
+    "defense": 161.0,
+    "health": 368.0,
+    "equip_effect": "Hallowed Power: Ranged"
+   },
+   "Epic": {
+    "sell": 2000.0,
+    "durability": 10500.0,
+    "defense": 168.0,
+    "health": 384.0,
+    "equip_effect": "Hallowed Power: Ranged"
+   },
+   "Legendary": {
+    "sell": 2000.0,
+    "durability": 13500.0,
+    "defense": 182.0,
+    "health": 416.0,
+    "equip_effect": "Hallowed Power: Ranged"
+   }
+  },
+  "top_defense": 182.0,
+  "top_durability": 13500.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/hallowed_helmet.png"
+ },
+ {
+  "title": "Hallowed Hood",
+  "slug": "hallowed-hood",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hallowed Hood icon.png",
+   "Hallowed Hood.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Terraprisma.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 13.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 4500.0,
+    "defense": 140.0,
+    "health": 320.0,
+    "equip_effect": "Hallowed Power: Summon"
+   },
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 6000.0,
+    "defense": 154.0,
+    "health": 352.0,
+    "equip_effect": "Hallowed Power: Summon"
+   },
+   "Rare": {
+    "sell": 2000.0,
+    "durability": 7500.0,
+    "defense": 161.0,
+    "health": 368.0,
+    "equip_effect": "Hallowed Power: Summon"
+   },
+   "Epic": {
+    "sell": 2000.0,
+    "durability": 10500.0,
+    "defense": 168.0,
+    "health": 384.0,
+    "equip_effect": "Hallowed Power: Summon"
+   },
+   "Legendary": {
+    "sell": 2000.0,
+    "durability": 13500.0,
+    "defense": 182.0,
+    "health": 416.0,
+    "equip_effect": "Hallowed Power: Summon"
+   }
+  },
+  "top_defense": 182.0,
+  "top_durability": 13500.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/hallowed_hood.png"
+ },
+ {
+  "title": "Hallowed Mask",
+  "slug": "hallowed-mask",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hallowed Mask icon.png",
+   "Hallowed Mask.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Meowmere, Excalibur, Terra Blade, and Legendary Meowmere.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 13.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 4500.0,
+    "defense": 140.0,
+    "health": 320.0,
+    "equip_effect": "Hallowed Power: Close Range"
+   },
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 6000.0,
+    "defense": 154.0,
+    "health": 352.0,
+    "equip_effect": "Hallowed Power: Close Range"
+   },
+   "Rare": {
+    "sell": 2000.0,
+    "durability": 7500.0,
+    "defense": 161.0,
+    "health": 368.0,
+    "equip_effect": "Hallowed Power: Close Range"
+   },
+   "Epic": {
+    "sell": 2000.0,
+    "durability": 10500.0,
+    "defense": 168.0,
+    "health": 384.0,
+    "equip_effect": "Hallowed Power: Close Range"
+   },
+   "Legendary": {
+    "sell": 2000.0,
+    "durability": 13500.0,
+    "defense": 182.0,
+    "health": 416.0,
+    "equip_effect": "Hallowed Power: Close Range"
+   }
+  },
+  "top_defense": 182.0,
+  "top_durability": 13500.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/hallowed_mask.png"
+ },
+ {
+  "title": "Hallowed Plate Mail",
+  "slug": "hallowed-plate-mail",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hallowed Plate Mail icon.png",
+   "Hallowed Plate Mail.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "[Tides of Terraria] Armor forged from Hallowed Bar. Enveloped in divine power, it lessens damage from [Tides of Terraria] monsters.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 37.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 4500.0,
+    "defense": 200.0,
+    "health": 650.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Hallowed Guard"
+   },
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 6000.0,
+    "defense": 260.0,
+    "health": 845.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Hallowed Guard"
+   },
+   "Rare": {
+    "sell": 2000.0,
+    "durability": 7500.0,
+    "defense": 280.0,
+    "health": 910.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Hallowed Guard"
+   },
+   "Epic": {
+    "sell": 2000.0,
+    "durability": 10500.0,
+    "defense": 300.0,
+    "health": 975.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Hallowed Guard"
+   },
+   "Legendary": {
+    "sell": 2000.0,
+    "durability": 13500.0,
+    "defense": 320.0,
+    "health": 1040.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Hallowed Guard"
+   }
+  },
+  "top_defense": 320.0,
+  "top_durability": 13500.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/hallowed_plate_mail.png"
+ },
+ {
+  "title": "Heat Resistant Hexolite Armor",
+  "slug": "heat-resistant-hexolite-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Heat Resistant Hexolite Armor icon.png",
+   "Heat Resistant Hexolite Armor.png"
+  ],
+  "intro": "}}",
+  "description": "Improved Hexolite Armor. Boasts high heat resistance.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 600.0,
+    "health": 1750.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 4000.0,
+    "durability": 27000.0,
+    "defense": 660.0,
+    "health": 1925.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 2"
+   },
+   "Rare": {
+    "sell": 4000.0,
+    "durability": 36000.0,
+    "defense": 690.0,
+    "health": 2012.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 2"
+   },
+   "Epic": {
+    "sell": 4000.0,
+    "durability": 54000.0,
+    "defense": 720.0,
+    "health": 2100.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 2"
+   },
+   "Legendary": {
+    "sell": 4000.0,
+    "durability": 72000.0,
+    "defense": 780.0,
+    "health": 2275.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 2"
+   }
+  },
+  "top_defense": 780.0,
+  "top_durability": 72000.0,
+  "ingredients": [
+   {
+    "name": "Hexolite",
+    "count": 50
+   },
+   {
+    "name": "Plasteel",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   },
+   {
+    "name": "Flame Organ",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/heat_resistant_hexolite_armor.png"
+ },
+ {
+  "title": "Heat Resistant Metal Armor",
+  "slug": "heat-resistant-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Heat Resistant Metal Armor icon.png",
+   "Heat Resistant Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Improved Metal Armor. Boasts high heat resistance.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Heat Resistant Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 492.0,
+    "durability": 1400.0,
+    "defense": 105.0,
+    "health": 250.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 590.4,
+    "durability": 2100.0,
+    "defense": 136.0,
+    "health": 325.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 738.0,
+    "durability": 2800.0,
+    "defense": 147.0,
+    "health": 350.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 885.6,
+    "durability": 4200.0,
+    "defense": 157.0,
+    "health": 375.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 1082.4,
+    "durability": 5600.0,
+    "defense": 168.0,
+    "health": 400.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 168.0,
+  "top_durability": 5600.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 40
+   },
+   {
+    "name": "Leather",
+    "count": 13
+   },
+   {
+    "name": "Cloth",
+    "count": 8
+   },
+   {
+    "name": "Flame Organ",
+    "count": 8
+   }
+  ],
+  "icon": "/icons/heat_resistant_metal_armor.png"
+ },
+ {
+  "title": "Heat Resistant Pal Metal Armor",
+  "slug": "heat-resistant-pal-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Heat Resistant Pal Metal Armor icon.png",
+   "Heat Resistant Pal Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Improved Pal Metal Armor. Proudly boasts a high heat resistance.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 40.0,
+  "technology": "Heat Resistant Pal Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3230.0,
+    "durability": 10000.0,
+    "defense": 250.0,
+    "health": 750.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 3876.0,
+    "durability": 12000.0,
+    "defense": 325.0,
+    "health": 975.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 4845.0,
+    "durability": 15000.0,
+    "defense": 350.0,
+    "health": 1050.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 5814.0,
+    "durability": 18000.0,
+    "defense": 375.0,
+    "health": 1125.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 7106.0,
+    "durability": 22000.0,
+    "defense": 400.0,
+    "health": 1200.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 400.0,
+  "top_durability": 22000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "Leather",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 6
+   },
+   {
+    "name": "Flame Organ",
+    "count": 16
+   }
+  ],
+  "icon": "/icons/heat_resistant_pal_metal_armor.png"
+ },
+ {
+  "title": "Heat Resistant Pelt Armor",
+  "slug": "heat-resistant-pelt-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Heat Resistant Pelt Armor icon.png",
+   "Heat Resistant Pelt Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A Pelt Armor produced in hot regions. Can withstand some heat.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Heat Resistant Pelt Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 300.0,
+    "durability": 600.0,
+    "defense": 45.0,
+    "health": 140.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 360.0,
+    "durability": 720.0,
+    "defense": 58.0,
+    "health": 182.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Rare": {
+    "sell": 450.0,
+    "durability": 900.0,
+    "defense": 63.0,
+    "health": 196.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Epic": {
+    "sell": 540.0,
+    "durability": 1080.0,
+    "defense": 67.0,
+    "health": 210.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Legendary": {
+    "sell": 660.0,
+    "durability": 1320.0,
+    "defense": 72.0,
+    "health": 224.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   }
+  },
+  "top_defense": 72.0,
+  "top_durability": 1320.0,
+  "ingredients": [
+   {
+    "name": "Leather",
+    "count": 15
+   },
+   {
+    "name": "Flame Organ",
+    "count": 4
+   }
+  ],
+  "icon": "/icons/heat_resistant_pelt_armor.png"
+ },
+ {
+  "title": "Heat Resistant Plasteel Armor",
+  "slug": "heat-resistant-plasteel-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Heat Resistant Plasteel Armor icon.png",
+   "Heat Resistant Plasteel Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "An advanced variant of engineered for extreme heat. This armor provides exceptional protection while offering superior resistance to hot environments.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 400.0,
+    "health": 1300.0
+   },
+   "Uncommon": {
+    "sell": 3500.0,
+    "durability": 21600.0,
+    "defense": 520.0,
+    "health": 1560.0
+   },
+   "Rare": {
+    "sell": 3500.0,
+    "durability": 23400.0,
+    "defense": 560.0,
+    "health": 1690.0
+   },
+   "Epic": {
+    "sell": 3500.0,
+    "durability": 25200.0,
+    "defense": 600.0,
+    "health": 1820.0
+   },
+   "Legendary": {
+    "sell": 3500.0,
+    "durability": 36000.0,
+    "defense": 640.0,
+    "health": 1950.0
+   }
+  },
+  "top_defense": 640.0,
+  "top_durability": 36000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 50
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 10
+   },
+   {
+    "name": "Flame Organ",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/heat_resistant_plasteel_armor.png"
+ },
+ {
+  "title": "Heat Resistant Refined Metal Armor",
+  "slug": "heat-resistant-refined-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Heat Resistant Refined Metal Armor icon.png",
+   "Heat Resistant Refined Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Improved Refined Metal Armor. Proudly boasts a high heat resistance.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 35.0,
+  "technology": "Heat Resistant Refined Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 984.0,
+    "durability": 3000.0,
+    "defense": 180.0,
+    "health": 500.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 1180.8,
+    "durability": 3600.0,
+    "defense": 234.0,
+    "health": 650.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 1476.0,
+    "durability": 4500.0,
+    "defense": 252.0,
+    "health": 700.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 1771.2,
+    "durability": 5400.0,
+    "defense": 270.0,
+    "health": 750.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 2164.8,
+    "durability": 6600.0,
+    "defense": 288.0,
+    "health": 800.0,
+    "equip_effect": "Heat Resistant Lv. 2 / Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 288.0,
+  "top_durability": 6600.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 40
+   },
+   {
+    "name": "Leather",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 3
+   },
+   {
+    "name": "Flame Organ",
+    "count": 12
+   }
+  ],
+  "icon": "/icons/heat_resistant_refined_metal_armor.png"
+ },
+ {
+  "title": "Helmet",
+  "slug": "helmet",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Helmet icon.png",
+   "Helmet.png"
+  ],
+  "intro": "}}",
+  "description": "A tough helmet that protects its wearer's head. It was apparently made after a number of people injured their heads after taking a tumble off a Eikthyrdeer.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 600.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Electric Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 600.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 20
+   },
+   {
+    "name": "Wool",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/helmet.png"
+ },
+ {
+  "title": "Hexolite Armor",
+  "slug": "hexolite-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hexolite Armor icon.png",
+   "Hexolite Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Armor made of Hexolite. Possesses overwhelming durability and defense.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 40.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 4000.0,
+    "durability": 20000.0,
+    "defense": 580.0,
+    "health": 1750.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 4000.0,
+    "durability": 30000.0,
+    "defense": 638.0,
+    "health": 1925.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 4000.0,
+    "durability": 40000.0,
+    "defense": 667.0,
+    "health": 2012.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 4000.0,
+    "durability": 60000.0,
+    "defense": 696.0,
+    "health": 2100.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 4000.0,
+    "durability": 80000.0,
+    "defense": 754.0,
+    "health": 2275.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 754.0,
+  "top_durability": 80000.0,
+  "ingredients": [
+   {
+    "name": "Hexolite",
+    "count": 50
+   },
+   {
+    "name": "Plasteel",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/hexolite_armor.png"
+ },
+ {
+  "title": "Hexolite Helmet",
+  "slug": "hexolite-helmet",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hexolite Helmet icon.png",
+   "Hexolite Helmet.png"
+  ],
+  "intro": "}}",
+  "description": "Helmet made of Hexolite. Combines incredible strength and lightness.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 20000.0,
+    "defense": 350.0,
+    "health": 800.0
+   },
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 30000.0,
+    "defense": 385.0,
+    "health": 880.0
+   },
+   "Rare": {
+    "sell": 2000.0,
+    "durability": 40000.0,
+    "defense": 402.0,
+    "health": 920.0
+   },
+   "Epic": {
+    "sell": 2000.0,
+    "durability": 60000.0,
+    "defense": 420.0,
+    "health": 960.0
+   },
+   "Legendary": {
+    "sell": 2000.0,
+    "durability": 80000.0,
+    "defense": 455.0,
+    "health": 1040.0
+   }
+  },
+  "top_defense": 455.0,
+  "top_durability": 80000.0,
+  "ingredients": [
+   {
+    "name": "Hexolite",
+    "count": 40
+   },
+   {
+    "name": "Plasteel",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/hexolite_helmet.png"
+ },
+ {
+  "title": "Horns of Supremacy",
+  "slug": "horns-of-supremacy",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Horns of Supremacy icon.png",
+   "Horns of Supremacy.png"
+  ],
+  "intro": "*Requires the player to beat on its (Ultra) Difficulty.",
+  "description": "Bursts with the ominous power of Blazamut Ryu (Ultra). To possess this is exceedingly rare.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Water Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/horns_of_supremacy.png"
+ },
+ {
+  "title": "Hyper Shield",
+  "slug": "hyper-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Hyper Shield icon.png",
+   "Hyper Shield.png"
+  ],
+  "intro": "Equipping the shield charges it. While charged, the shield absorbs incoming attacks at the cost of shield charge. It does not absorb fall damage or starvation damage. If the player avoids taking damage for a short period, the shield automatically begins recharging.",
+  "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. Through repeated testing, the highest quality has been achieved.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Rare",
+  "weight": 5.0,
+  "technology": "Hyper Shield",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 10.0,
+    "durability": 3500.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 20
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 100
+   },
+   {
+    "name": "Ingot",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/hyper_shield.png"
+ },
+ {
+  "title": "Katress Cap",
+  "slug": "katress-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Katress Cap icon.png",
+   "Katress Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Katress.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Dark Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Katress Hair",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/katress_cap.png"
+ },
+ {
+  "title": "Killamari Cap",
+  "slug": "killamari-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Killamari Cap icon.png",
+   "Killamari Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Killamari.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Dark Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Killamari Tentacle",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/killamari_cap.png"
+ },
+ {
+  "title": "Lamball Helm",
+  "slug": "lamball-helm",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Lamball Helm icon.png",
+   "Lamball Helm.png"
+  ],
+  "intro": "}}",
+  "description": "Helm shaped like a Lamball.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Neutral Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/lamball_helm.png"
+ },
+ {
+  "title": "Leezpunk Hood",
+  "slug": "leezpunk-hood",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Leezpunk Hood icon.png",
+   "Leezpunk Hood.png"
+  ],
+  "intro": "}}",
+  "description": "Hood shaped like a Leezpunk.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Dark Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Leezpunk Crest",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/leezpunk_hood.png"
+ },
+ {
+  "title": "Lightweight Hexolite Armor",
+  "slug": "lightweight-hexolite-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Lightweight Hexolite Armor icon.png",
+   "Lightweight Hexolite Armor.png"
+  ],
+  "intro": "}}",
+  "description": "Improved Hexolite Armor. Increases carrying capacity.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 600.0,
+    "health": 1750.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Max Carrying Capacity Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 4000.0,
+    "durability": 27000.0,
+    "defense": 660.0,
+    "health": 1925.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Max Carrying Capacity Lv. 2"
+   },
+   "Rare": {
+    "sell": 4000.0,
+    "durability": 36000.0,
+    "defense": 690.0,
+    "health": 2012.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Max Carrying Capacity Lv. 2"
+   },
+   "Epic": {
+    "sell": 4000.0,
+    "durability": 54000.0,
+    "defense": 720.0,
+    "health": 2100.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Max Carrying Capacity Lv. 2"
+   },
+   "Legendary": {
+    "sell": 4000.0,
+    "durability": 72000.0,
+    "defense": 780.0,
+    "health": 2275.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Max Carrying Capacity Lv. 2"
+   }
+  },
+  "top_defense": 780.0,
+  "top_durability": 72000.0,
+  "ingredients": [
+   {
+    "name": "Hexolite",
+    "count": 100
+   },
+   {
+    "name": "Plasteel",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/lightweight_hexolite_armor.png"
+ },
+ {
+  "title": "Lightweight Plasteel Armor",
+  "slug": "lightweight-plasteel-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Lightweight Plasteel Armor icon.png",
+   "Lightweight Plasteel Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A refined variant of designed to reduce encumbrance while maintaining strong defensive performance. This armor improves carrying capacity, making it ideal for long expeditions and general-purpose exploration.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 400.0,
+    "health": 1300.0
+   },
+   "Uncommon": {
+    "sell": 3500.0,
+    "durability": 21600.0,
+    "defense": 520.0,
+    "health": 1560.0
+   },
+   "Rare": {
+    "sell": 3500.0,
+    "durability": 23400.0,
+    "defense": 560.0,
+    "health": 1690.0
+   },
+   "Epic": {
+    "sell": 3500.0,
+    "durability": 25200.0,
+    "defense": 600.0,
+    "health": 1820.0
+   },
+   "Legendary": {
+    "sell": 3500.0,
+    "durability": 36000.0,
+    "defense": 640.0,
+    "health": 1950.0
+   }
+  },
+  "top_defense": 640.0,
+  "top_durability": 36000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 100
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/lightweight_plasteel_armor.png"
+ },
+ {
+  "title": "Lightz Helmet",
+  "slug": "lightz-helmet",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Lightz Helmet icon.png",
+   "Lightz Helmet.png"
+  ],
+  "intro": "}}",
+  "description": "Lightz Helmet",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 500.0,
+    "defense": 125.0,
+    "health": 300.0
+   }
+  },
+  "top_defense": 125.0,
+  "top_durability": 500.0,
+  "ingredients": [],
+  "icon": "/icons/lightz_helmet.png"
+ },
+ {
+  "title": "Lily Hat",
+  "slug": "lily-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Lily Hat icon.png",
+   "Lily Hat.png"
+  ],
+  "intro": "*Requires defeating Lily and Lyleen on Hard difficulty.",
+  "description": "Dress up like Lily using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/lily_hat.png"
+ },
+ {
+  "title": "Long-Eared Headband",
+  "slug": "long-eared-headband",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Long-Eared Headband icon.png",
+   "Long-Eared Headband.png"
+  ],
+  "intro": "}}",
+  "description": "A cute headband with ears modeled after a Ribbuny. It doesn't provide much head protection.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 2.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 225.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Grass Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 225.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 12
+   },
+   {
+    "name": "Ingot",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/long_eared_headband.png"
+ },
+ {
+  "title": "Lyleen Floral Cap",
+  "slug": "lyleen-floral-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Lyleen Floral Cap icon.png",
+   "Lyleen Floral Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Floral cap shaped like a Lyleen.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Grass Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/lyleen_floral_cap.png"
+ },
+ {
+  "title": "Marcus Hat",
+  "slug": "marcus-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Marcus Hat icon.png",
+   "Marcus Hat.png"
+  ],
+  "intro": "*Requires defeating Marcus and Faleris on Hard difficulty.",
+  "description": "Dress up like Marcus using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/marcus_hat.png"
+ },
+ {
+  "title": "Mega Shield",
+  "slug": "mega-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Mega Shield icon.png",
+   "Mega Shield.png"
+  ],
+  "intro": "Equipping the shield charges it. While charged, the shield absorbs incoming attacks at the cost of shield charge. It does not absorb fall damage or starvation damage. If the player avoids taking damage for a short period, the shield automatically begins recharging.",
+  "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. The new model has been improved, enhancing its defense.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Uncommon",
+  "weight": 5.0,
+  "technology": "Mega Shield",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 3.0,
+    "durability": 1500.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 5
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 30
+   },
+   {
+    "name": "Ingot",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/mega_shield.png"
+ },
+ {
+  "title": "Metal Armor",
+  "slug": "metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Metal Armor icon.png",
+   "Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Armor made of metal. Somewhat heavy, but provides good defense.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 492.0,
+    "durability": 700.0,
+    "defense": 70.0,
+    "health": 250.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 639.6,
+    "durability": 1800.0,
+    "defense": 91.0,
+    "health": 325.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 738.0,
+    "durability": 2200.0,
+    "defense": 98.0,
+    "health": 350.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 836.4,
+    "durability": 2600.0,
+    "defense": 105.0,
+    "health": 375.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 934.8,
+    "durability": 3000.0,
+    "defense": 112.0,
+    "health": 400.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1"
+   }
+  },
+  "top_defense": 112.0,
+  "top_durability": 3000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Leather",
+    "count": 10
+   },
+   {
+    "name": "Cloth",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/metal_armor.png"
+ },
+ {
+  "title": "Metal Helm",
+  "slug": "metal-helm",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Metal Helm icon.png",
+   "Metal Helm.png"
+  ],
+  "intro": "!Rarity !!!!!!",
+  "description": "A helm made of metal. A reliable piece of armor that protects your head, and all the thoughts within.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 10.0,
+  "technology": "Metal Helm",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 246.0,
+    "durability": 700.0,
+    "defense": 50.0,
+    "health": 100.0
+   },
+   "Uncommon": {
+    "sell": 319.8,
+    "durability": 1820.0,
+    "defense": 65.0,
+    "health": 130.0
+   },
+   "Rare": {
+    "sell": 369.0,
+    "durability": 2100.0,
+    "defense": 70.0,
+    "health": 140.0
+   },
+   "Epic": {
+    "sell": 418.2,
+    "durability": 2380.0,
+    "defense": 75.0,
+    "health": 150.0
+   },
+   "Legendary": {
+    "sell": 467.4,
+    "durability": 2800.0,
+    "defense": 80.0,
+    "health": 160.0
+   }
+  },
+  "top_defense": 80.0,
+  "top_durability": 2800.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 20
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/metal_helm.png"
+ },
+ {
+  "title": "Monarch's Crown",
+  "slug": "monarch-s-crown",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Monarch's Crown icon.png",
+   "Monarch's Crown.png"
+  ],
+  "intro": "}}",
+  "description": "A crown for those who possess a high ranking. Being quite heavy, it's not suited for practical use.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 525.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Dragon Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 525.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 20
+   },
+   {
+    "name": "Cloth",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/monarch_s_crown.png"
+ },
+ {
+  "title": "Moon Lord Mask",
+  "slug": "moon-lord-mask",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Moon Lord Mask icon.png",
+   "Moon Lord Mask.png"
+  ],
+  "intro": "*Defeating Moon Lord.",
+  "description": "[Tides of Terraria] Pulsing with Moon Lord's sinister energy. A rarity only the most fortunate may obtain.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 15.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 2.0,
+    "durability": 20.0,
+    "defense": 350.0,
+    "health": 800.0
+   }
+  },
+  "top_defense": 350.0,
+  "top_durability": 20.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/moon_lord_mask.png"
+ },
+ {
+  "title": "Pal Metal Armor",
+  "slug": "pal-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Pal Metal Armor icon.png",
+   "Pal Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Armor made from . High defense, but extremely heavy. Equipment for a hero, it exudes bravery.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 40.0,
+  "technology": "Pal Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3230.0,
+    "durability": 5000.0,
+    "defense": 220.0,
+    "health": 750.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 4199.0,
+    "durability": 14000.0,
+    "defense": 286.0,
+    "health": 975.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 4845.0,
+    "durability": 18000.0,
+    "defense": 308.0,
+    "health": 1050.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 5491.0,
+    "durability": 22000.0,
+    "defense": 330.0,
+    "health": 1125.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 6137.0,
+    "durability": 26000.0,
+    "defense": 352.0,
+    "health": 1200.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 352.0,
+  "top_durability": 26000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   },
+   {
+    "name": "Leather",
+    "count": 20
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 4
+   }
+  ],
+  "icon": "/icons/pal_metal_armor.png"
+ },
+ {
+  "title": "Pal Metal Helm",
+  "slug": "pal-metal-helm",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Pal Metal Helm icon.png",
+   "Pal Metal Helm.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A helm made from . Envied for its immaculate quality, it is proof of a chosen warrior.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "Common",
+  "weight": 15.0,
+  "technology": "Pal Metal Helm",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1618.0,
+    "durability": 5000.0,
+    "defense": 150.0,
+    "health": 350.0
+   },
+   "Uncommon": {
+    "sell": 2103.4,
+    "durability": 13000.0,
+    "defense": 195.0,
+    "health": 455.0
+   },
+   "Rare": {
+    "sell": 2427.0,
+    "durability": 15000.0,
+    "defense": 210.0,
+    "health": 490.0
+   },
+   "Epic": {
+    "sell": 2750.6,
+    "durability": 17000.0,
+    "defense": 225.0,
+    "health": 525.0
+   },
+   "Legendary": {
+    "sell": 3074.2,
+    "durability": 19000.0,
+    "defense": 240.0,
+    "health": 560.0
+   }
+  },
+  "top_defense": 240.0,
+  "top_durability": 19000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/pal_metal_helm.png"
+ },
+ {
+  "title": "Pelt Armor",
+  "slug": "pelt-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Pelt Armor icon.png",
+   "Pelt Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Armor made from Leather. Its warmth and defense have been improved.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 10.0,
+  "technology": "Pelt Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 36.0,
+    "durability": 300.0,
+    "defense": 35.0,
+    "health": 140.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 46.8,
+    "durability": 800.0,
+    "defense": 45.0,
+    "health": 182.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 54.0,
+    "durability": 1000.0,
+    "defense": 49.0,
+    "health": 196.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 61.2,
+    "durability": 1200.0,
+    "defense": 52.0,
+    "health": 210.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 68.4,
+    "durability": 1400.0,
+    "defense": 56.0,
+    "health": 224.0,
+    "equip_effect": "Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 56.0,
+  "top_durability": 1400.0,
+  "ingredients": [
+   {
+    "name": "Leather",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/pelt_armor.png"
+ },
+ {
+  "title": "Penking Cap",
+  "slug": "penking-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Penking Cap icon.png",
+   "Penking Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Penking.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Ice Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Penking Plume",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/penking_cap.png"
+ },
+ {
+  "title": "Plasteel Armor",
+  "slug": "plasteel-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Plasteel Armor icon.png",
+   "Plasteel Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Armor made from that combines exceptional defense with reduced weight. This advanced armor pushes the limits of modern technology while maintaining balanced elemental resistance.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 35.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3500.0,
+    "durability": 18000.0,
+    "defense": 385.0,
+    "health": 1300.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 3500.0,
+    "durability": 21600.0,
+    "defense": 500.0,
+    "health": 1560.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 3500.0,
+    "durability": 23400.0,
+    "defense": 539.0,
+    "health": 1690.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 3500.0,
+    "durability": 25200.0,
+    "defense": 577.0,
+    "health": 1820.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 3500.0,
+    "durability": 36000.0,
+    "defense": 616.0,
+    "health": 1950.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 616.0,
+  "top_durability": 36000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 50
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/plasteel_armor.png"
+ },
+ {
+  "title": "Plasteel Helmet",
+  "slug": "plasteel-helmet",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Plasteel Helmet icon.png",
+   "Plasteel Helmet.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A helmet forged from that combines exceptional defense with reduced weight. This advanced headgear represents the pinnacle of modern armor technology.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "",
+  "weight": 12.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1800.0,
+    "durability": 18000.0,
+    "defense": 260.0,
+    "health": 600.0
+   },
+   "Uncommon": {
+    "sell": 1800.0,
+    "durability": 21600.0,
+    "defense": 312.0,
+    "health": 720.0
+   },
+   "Rare": {
+    "sell": 1800.0,
+    "durability": 23400.0,
+    "defense": 338.0,
+    "health": 780.0
+   },
+   "Epic": {
+    "sell": 1800.0,
+    "durability": 25200.0,
+    "defense": 364.0,
+    "health": 840.0
+   },
+   "Legendary": {
+    "sell": 1800.0,
+    "durability": 36000.0,
+    "defense": 390.0,
+    "health": 900.0
+   }
+  },
+  "top_defense": 390.0,
+  "top_durability": 36000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 25
+   }
+  ],
+  "icon": "/icons/plasteel_helmet.png"
+ },
+ {
+  "title": "Refined Metal Armor",
+  "slug": "refined-metal-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Refined Metal Armor icon.png",
+   "Refined Metal Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "Armor made from high quality metal. It boasts high defense, if you can bear the weight.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 35.0,
+  "technology": "Refined Metal Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 984.0,
+    "durability": 1500.0,
+    "defense": 150.0,
+    "health": 500.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Uncommon": {
+    "sell": 1279.2,
+    "durability": 4000.0,
+    "defense": 195.0,
+    "health": 650.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Rare": {
+    "sell": 1476.0,
+    "durability": 5000.0,
+    "defense": 210.0,
+    "health": 700.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Epic": {
+    "sell": 1672.8,
+    "durability": 6000.0,
+    "defense": 225.0,
+    "health": 750.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   },
+   "Legendary": {
+    "sell": 1869.6,
+    "durability": 7000.0,
+    "defense": 240.0,
+    "health": 800.0,
+    "equip_effect": "Heat Resistant Lv. 1 / Cold Resistant Lv. 1"
+   }
+  },
+  "top_defense": 240.0,
+  "top_durability": 7000.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 30
+   },
+   {
+    "name": "Leather",
+    "count": 15
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/refined_metal_armor.png"
+ },
+ {
+  "title": "Refined Metal Helm",
+  "slug": "refined-metal-helm",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Refined Metal Helm icon.png",
+   "Refined Metal Helm.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A helm made from high quality metal. The luster from the polished metal gives the wearer that added boost of confidence.",
+  "item_type": "Armor",
+  "subtype": "Head Armor",
+  "rarity": "Common",
+  "weight": 12.0,
+  "technology": "Refined Metal Helm",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 524.0,
+    "durability": 1500.0,
+    "defense": 100.0,
+    "health": 250.0
+   },
+   "Uncommon": {
+    "sell": 681.2,
+    "durability": 3900.0,
+    "defense": 130.0,
+    "health": 325.0
+   },
+   "Rare": {
+    "sell": 786.0,
+    "durability": 4500.0,
+    "defense": 140.0,
+    "health": 350.0
+   },
+   "Epic": {
+    "sell": 890.8,
+    "durability": 5100.0,
+    "defense": 150.0,
+    "health": 375.0
+   },
+   "Legendary": {
+    "sell": 995.6,
+    "durability": 5700.0,
+    "defense": 160.0,
+    "health": 400.0
+   }
+  },
+  "top_defense": 160.0,
+  "top_durability": 5700.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 20
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/refined_metal_helm.png"
+ },
+ {
+  "title": "Ribbuny Headband",
+  "slug": "ribbuny-headband",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Ribbuny Headband icon.png",
+   "Ribbuny Headband.png"
+  ],
+  "intro": "}}",
+  "description": "Headband shaped like a Ribbuny.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Neutral Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Ribbuny Ribbon",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/ribbuny_headband.png"
+ },
+ {
+  "title": "Saya Hat",
+  "slug": "saya-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Saya Hat icon.png",
+   "Saya Hat.png"
+  ],
+  "intro": "Requires the player to beat Saya and Selyne on Hard Difficulty.",
+  "description": "Dress up like Saya using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/saya_hat.png"
+ },
+ {
+  "title": "Sibelyx Hat",
+  "slug": "sibelyx-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Sibelyx Hat icon.png",
+   "Sibelyx Hat.png"
+  ],
+  "intro": "}}",
+  "description": "Hat shaped like a Sibelyx.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Ice Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/sibelyx_hat.png"
+ },
+ {
+  "title": "Silk Hat",
+  "slug": "silk-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Silk Hat icon.png",
+   "Silk Hat.png"
+  ],
+  "intro": "}}",
+  "description": "A gentleman's cap. Those made from Sibelyx materials are considered luxury items, but those made from Swee materials are of poor quality, and more commonly found.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 25.0,
+    "health": 70.0,
+    "equip_effect": "Fire Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 25.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/silk_hat.png"
+ },
+ {
+  "title": "Soft Hat",
+  "slug": "soft-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Soft Hat icon.png",
+   "Soft Hat.png"
+  ],
+  "intro": "}}",
+  "description": "A light and flexible cap perfect for everyday use. Fashionable, it was once a popular item on the island.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 3.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 270.0,
+    "defense": 25.0,
+    "health": 70.0,
+    "equip_effect": "Earth Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 25.0,
+  "top_durability": 270.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 10
+   },
+   {
+    "name": "Fiber",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/soft_hat.png"
+ },
+ {
+  "title": "Swee Cap",
+  "slug": "swee-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Swee Cap icon.png",
+   "Swee Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Swee.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Ice Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Swee Hair",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/swee_cap.png"
+ },
+ {
+  "title": "Tocotoco Cap",
+  "slug": "tocotoco-cap",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Tocotoco Cap icon.png",
+   "Tocotoco Cap.png"
+  ],
+  "intro": "}}",
+  "description": "Cap shaped like a Tocotoco. Its gaudy design is visible from far away.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Neutral Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Tocotoco Feather",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/tocotoco_cap.png"
+ },
+ {
+  "title": "Tricorne",
+  "slug": "tricorne",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Tricorne icon.png",
+   "Tricorne.png"
+  ],
+  "intro": "* Requires Tricorne Schematic 1, which can be purchased for 500 gold from the (Green Coat) Wandering Merchant in Duneshelter.",
+  "description": "A cap for those who love to fight. Its previous owner nearly drove Azurobe to extinction.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 375.0,
+    "defense": 25.0,
+    "health": 70.0,
+    "equip_effect": "Water Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 25.0,
+  "top_durability": 375.0,
+  "ingredients": [
+   {
+    "name": "Leather",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/tricorne.png"
+ },
+ {
+  "title": "Tropical Outfit",
+  "slug": "tropical-outfit",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Tropical Outfit icon.png",
+   "Tropical Outfit.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A Cloth Outfit produced in hot regions. Can withstand some heat.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "Tropical Outfit",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 32.0,
+    "durability": 300.0,
+    "defense": 25.0,
+    "health": 70.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 38.4,
+    "durability": 360.0,
+    "defense": 32.0,
+    "health": 91.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Rare": {
+    "sell": 48.0,
+    "durability": 450.0,
+    "defense": 35.0,
+    "health": 98.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Epic": {
+    "sell": 57.6,
+    "durability": 540.0,
+    "defense": 37.0,
+    "health": 105.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   },
+   "Legendary": {
+    "sell": 70.4,
+    "durability": 660.0,
+    "defense": 40.0,
+    "health": 112.0,
+    "equip_effect": "Heat Resistant Lv. 2"
+   }
+  },
+  "top_defense": 40.0,
+  "top_durability": 660.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 3
+   },
+   {
+    "name": "Flame Organ",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/tropical_outfit.png"
+ },
+ {
+  "title": "Tundra Outfit",
+  "slug": "tundra-outfit",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Tundra Outfit icon.png",
+   "Tundra Outfit.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "A Cloth Outfit produced in cold regions. Can withstand freezing cold temperatures.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "Tundra Outfit",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 32.0,
+    "durability": 300.0,
+    "defense": 25.0,
+    "health": 70.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 38.4,
+    "durability": 360.0,
+    "defense": 32.0,
+    "health": 91.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Rare": {
+    "sell": 48.0,
+    "durability": 450.0,
+    "defense": 35.0,
+    "health": 98.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Epic": {
+    "sell": 57.6,
+    "durability": 540.0,
+    "defense": 37.0,
+    "health": 105.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   },
+   "Legendary": {
+    "sell": 70.4,
+    "durability": 660.0,
+    "defense": 40.0,
+    "health": 112.0,
+    "equip_effect": "Cold Resistant Lv. 2"
+   }
+  },
+  "top_defense": 40.0,
+  "top_durability": 660.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 3
+   },
+   {
+    "name": "Ice Organ",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/tundra_outfit.png"
+ },
+ {
+  "title": "Ultra Shield",
+  "slug": "ultra-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Ultra Shield icon.png",
+   "Ultra Shield.png"
+  ],
+  "intro": "}}",
+  "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. As a result of further experiments, ultimate quality has been achieved.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Epic",
+  "weight": 5.0,
+  "technology": "Ultra Shield",
+  "ammo": [],
+  "qualities": {
+   "Epic": {
+    "sell": 10.0,
+    "durability": 20.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 30
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 150
+   },
+   {
+    "name": "Plasteel",
+    "count": 50
+   },
+   {
+    "name": "Bio Battery",
+    "count": 10
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/ultra_shield.png"
+ },
+ {
+  "title": "V1 Armor",
+  "slug": "v1-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "V1 Armor icon.png",
+   "V1 Armor.png"
+  ],
+  "intro": "!Rarity !! !! !!",
+  "description": "[ULTRAKILL Collab] Armor modeled after the Final War machine built in a distant land. It features a self-repair system that activates when dealing damage.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "ULTRAKILL Collab Set 1",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3552.0,
+    "durability": 1450.0,
+    "defense": 51.0,
+    "health": 806.0,
+    "equip_effect": "Cold Resistant Lv. 1 / Heat Resistant Lv. 1 / Blood Is Fuel"
+   },
+   "Legendary": {
+    "sell": 11957.0,
+    "durability": 72000.0,
+    "defense": 608.0,
+    "health": 2112.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2 / Blood Is Fuel"
+   }
+  },
+  "top_defense": 608.0,
+  "top_durability": 72000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/v1_armor.png"
+ },
+ {
+  "title": "V2 Armor",
+  "slug": "v2-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "V2 Armor icon.png",
+   "V2 Armor.png"
+  ],
+  "intro": "!Rarity ! ! !",
+  "description": "[ULTRAKILL Collab] Armor modeled after the New Peace machine built in a distant land. Its self-repair system was removed in favor of sturdier plating.",
+  "item_type": "Armor",
+  "subtype": "Body Armor",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "ULTRAKILL Collab Set 2",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 6580.0,
+    "durability": 19000.0,
+    "defense": 600.0,
+    "health": 215.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2"
+   },
+   "Legendary": {
+    "sell": 12500.0,
+    "durability": 72000.0,
+    "defense": 750.0,
+    "health": 1900.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2"
+   }
+  },
+  "top_defense": 750.0,
+  "top_durability": 72000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 40
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/v2_armor.png"
+ },
+ {
+  "title": "Victor Hat",
+  "slug": "victor-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Victor Hat icon.png",
+   "Victor Hat.png"
+  ],
+  "intro": "* Dropped by Victor and Shadowbeak on Hard difficulty.",
+  "description": "Dress up like Victor using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/victor_hat.png"
+ },
+ {
+  "title": "Witch Hat",
+  "slug": "witch-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Witch Hat icon.png",
+   "Witch Hat.png"
+  ],
+  "intro": "}}",
+  "description": "A hat modeled after a Wixen or Katress. It makes you feel like you can use Pal skills.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Common",
+  "weight": 4.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 18.0,
+    "durability": 300.0,
+    "defense": 20.0,
+    "health": 60.0,
+    "equip_effect": "Dark Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Cloth",
+    "count": 10
+   },
+   {
+    "name": "Ingot",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/witch_hat.png"
+ },
+ {
+  "title": "Witch's Crown",
+  "slug": "witch-s-crown",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Witch's Crown icon.png",
+   "Witch's Crown.png"
+  ],
+  "intro": "}}",
+  "description": "Imbued with the ominous power of Bellanoir Libero (Ultra). Extremely difficult to obtain.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Dragon Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 5000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/witch_s_crown.png"
+ },
+ {
+  "title": "Witch's Crown (Ultra)",
+  "slug": "witch-s-crown-ultra",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Witch's Crown (Ultra)",
+   "Witch's Crown (Ultra) icon.png",
+   "Witch's Crown (Ultra).png"
+  ],
+  "intro": "Other Drops * Dropped by on ultra difficulty",
+  "description": "Imbued with the ominous power of Bellanoir Libero (Ultra). Extremely difficult to obtain.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Dragon Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/witch_s_crown_ultra.png"
+ },
+ {
+  "title": "Xenolord's head",
+  "slug": "xenolord-s-head",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Xenolord's head icon.png",
+   "Xenolord's head.png"
+  ],
+  "intro": "}}",
+  "description": "A headgear designed to resemble a Xenolord.",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 30.0,
+    "health": 80.0,
+    "equip_effect": "Ice Damage Reduction Lv. 1"
+   }
+  },
+  "top_defense": 30.0,
+  "top_durability": 5000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/xenolord_s_head.png"
+ },
+ {
+  "title": "Zoe Hat",
+  "slug": "zoe-hat",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Zoe Hat icon.png",
+   "Zoe Hat.png"
+  ],
+  "intro": "* Dropped by Zoe and Grizzbolt on Hard difficulty.",
+  "description": "Dress up like Zoe using this special headpiece!",
+  "item_type": "Armor",
+  "subtype": "Hat",
+  "rarity": "Legendary",
+  "weight": 7.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 18.0,
+    "durability": 5000.0,
+    "defense": 20.0,
+    "health": 60.0
+   }
+  },
+  "top_defense": 20.0,
+  "top_durability": 5000.0,
+  "ingredients": [],
+  "icon": "/icons/zoe_hat.png"
+ }
+]

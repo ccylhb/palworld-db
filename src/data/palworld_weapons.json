@@ -1,0 +1,6232 @@
+[
+ {
+  "title": "Advanced Bow",
+  "slug": "advanced-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Advanced Bow icon.png",
+   "Advanced Bow.png"
+  ],
+  "intro": "!Tier ! !",
+  "description": "A bow reconstructed with advanced technology. Capable of firing extremely powerful arrows.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 25.0,
+  "technology": "Advanced Bow",
+  "ammo": [
+   "Advanced Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 2520.0,
+    "durability": 500.0,
+    "attack": 5800.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 2520.0,
+    "durability": 750.0,
+    "attack": 6670.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 2520.0,
+    "durability": 1000.0,
+    "attack": 7250.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 2520.0,
+    "durability": 1500.0,
+    "attack": 7830.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 2520.0,
+    "durability": 2000.0,
+    "attack": 8700.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 8700.0,
+  "top_durability": 2000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 40
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 25
+   },
+   {
+    "name": "Nightstar Sand",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/advanced_bow.png"
+ },
+ {
+  "title": "Advanced Fishing Rod (Depresso)",
+  "slug": "advanced-fishing-rod-depresso",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Advanced Fishing Rod (Depresso) icon.png",
+   "Advanced Fishing Rod (Depresso).png"
+  ],
+  "intro": "Advanced Fishing Rod (Depresso) can be used to initiate the Fishing Minigames for both Pals and Salvage. It is currently the highest Tier Fishing Rod obtainable in Palworld.",
+  "description": "A fishing rod designed for catching Pals. It's sturdier and offers slightly better performance than Advanced Fishing Rod (Pengullet).",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Rare",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 105.0,
+    "durability": 720.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 720.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 140
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 30
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 60
+   },
+   {
+    "name": "Coralum Ingot",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/advanced_fishing_rod_depresso.png"
+ },
+ {
+  "title": "Advanced Fishing Rod (Pengullet)",
+  "slug": "advanced-fishing-rod-pengullet",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Advanced Fishing Rod (Pengullet) icon.png",
+   "Advanced Fishing Rod (Pengullet).png"
+  ],
+  "intro": "Advanced Fishing Rod (Pengullet) can be used to initiate the Fishing Minigames for both Pals and Salvage.",
+  "description": "A fishing rod designed for catching Pals. Use it with bait near water where shadows are visible to start fishing. It boasts improved performance, making catches vastly easier.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Rare",
+  "weight": 5.0,
+  "technology": "Advanced Fishing Rod (Pengullet)",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 98.0,
+    "durability": 480.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 480.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 70
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 20
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 15
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/advanced_fishing_rod_pengullet.png"
+ },
+ {
+  "title": "Assault Rifle",
+  "slug": "assault-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Assault Rifle icon.png",
+   "Assault Rifle.png"
+  ],
+  "intro": "!Tier !! !! !!Magazine Size",
+  "description": "Mows down enemies with overwhelming force. It excels at rapid-fire and is well suited to taking down powerful foes.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 15.0,
+  "technology": "Assault Rifle",
+  "ammo": [
+   "Assault Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 320.0,
+    "magazine": 20.0
+   },
+   "Uncommon": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 400.0,
+    "magazine": 24.0
+   },
+   "Rare": {
+    "sell": 8240.0,
+    "durability": 4000.0,
+    "attack": 448.0,
+    "magazine": 26.0
+   },
+   "Epic": {
+    "sell": 8240.0,
+    "durability": 5000.0,
+    "attack": 512.0,
+    "magazine": 28.0
+   },
+   "Legendary": {
+    "sell": 8240.0,
+    "durability": 6000.0,
+    "attack": 560.0,
+    "magazine": 30.0
+   }
+  },
+  "top_attack": 560.0,
+  "top_durability": 6000.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 40
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/assault_rifle.png"
+ },
+ {
+  "title": "Axe4",
+  "slug": "axe4",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Axe4 icon.png",
+   "Axe4.png"
+  ],
+  "intro": "}}",
+  "description": "Axe4",
+  "item_type": "Weapon",
+  "subtype": "",
+  "rarity": "Common",
+  "weight": 25.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3.0,
+    "durability": 400.0,
+    "attack": 75.0
+   }
+  },
+  "top_attack": 75.0,
+  "top_durability": 400.0,
+  "ingredients": []
+ },
+ {
+  "title": "Bat",
+  "slug": "bat",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Bat icon.png",
+   "Bat.png"
+  ],
+  "intro": "}}",
+  "description": "Baseball bat for close-range combat. Might be tough to get a home run with a Pal.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 3.0,
+  "technology": "Bat",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 8.0,
+    "durability": 150.0,
+    "attack": 50.0
+   }
+  },
+  "top_attack": 50.0,
+  "top_durability": 150.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 30
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/bat.png"
+ },
+ {
+  "title": "Beam Launcher",
+  "slug": "beam-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Beam Launcher icon.png",
+   "Beam Launcher.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "Fires a high-density beam that causes explosions over a wide area. Caution is required to prevent overheating during rapid fire.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Beam Launcher",
+  "ammo": [
+   "Beam Launcher Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 51370.0,
+    "durability": 3500.0,
+    "attack": 14000.0
+   },
+   "Uncommon": {
+    "sell": 51370.0,
+    "durability": 5250.0,
+    "attack": 14700.0
+   },
+   "Rare": {
+    "sell": 51370.0,
+    "durability": 7000.0,
+    "attack": 15400.0
+   },
+   "Epic": {
+    "sell": 51370.0,
+    "durability": 10500.0,
+    "attack": 16100.0
+   },
+   "Legendary": {
+    "sell": 51370.0,
+    "durability": 14000.0,
+    "attack": 16800.0
+   }
+  },
+  "top_attack": 16800.0,
+  "top_durability": 14000.0,
+  "ingredients": [
+   {
+    "name": "Paloxite Ingot",
+    "count": 100
+   },
+   {
+    "name": "Bio Battery",
+    "count": 50
+   },
+   {
+    "name": "AI Core",
+    "count": 10
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/beam_launcher.png"
+ },
+ {
+  "title": "Beam Scatter",
+  "slug": "beam-scatter",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Beam Scatter icon.png",
+   "Beam Scatter.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A specialized beam weapon for close-range combat. It fires compressed energy in a wide, scattering blast.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "Beam Scatter",
+  "ammo": [
+   "Beam Scatter Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 29336.0,
+    "durability": 950.0,
+    "attack": 508.0,
+    "magazine": 30.0
+   },
+   "Uncommon": {
+    "sell": 29336.0,
+    "durability": 1425.0,
+    "attack": 533.0,
+    "magazine": 32.0
+   },
+   "Rare": {
+    "sell": 29336.0,
+    "durability": 1900.0,
+    "attack": 558.0,
+    "magazine": 34.0
+   },
+   "Epic": {
+    "sell": 29336.0,
+    "durability": 2850.0,
+    "attack": 584.0,
+    "magazine": 36.0
+   },
+   "Legendary": {
+    "sell": 29336.0,
+    "durability": 3800.0,
+    "attack": 609.0,
+    "magazine": 38.0
+   }
+  },
+  "top_attack": 609.0,
+  "top_durability": 3800.0,
+  "ingredients": [
+   {
+    "name": "Paloxite Ingot",
+    "count": 50
+   },
+   {
+    "name": "Soralite Ingot",
+    "count": 50
+   },
+   {
+    "name": "AI Core",
+    "count": 5
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/beam_scatter.png"
+ },
+ {
+  "title": "Beam Sword",
+  "slug": "beam-sword",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Beam Sword icon.png",
+   "Beam Sword.png"
+  ],
+  "intro": "!Tier ! !",
+  "description": "Beam Sword for close-range combat. Slices through opponents, burning them with a high-output laser.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Beam Sword",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1044.0,
+    "durability": 500.0,
+    "attack": 930.0
+   },
+   "Uncommon": {
+    "sell": 1044.0,
+    "durability": 750.0,
+    "attack": 1023.0
+   },
+   "Rare": {
+    "sell": 1044.0,
+    "durability": 1000.0,
+    "attack": 1116.0
+   },
+   "Epic": {
+    "sell": 1044.0,
+    "durability": 1500.0,
+    "attack": 1209.0
+   },
+   "Legendary": {
+    "sell": 1044.0,
+    "durability": 2000.0,
+    "attack": 1395.0
+   }
+  },
+  "top_attack": 1395.0,
+  "top_durability": 2000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 30
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 100
+   },
+   {
+    "name": "Nightstar Sand",
+    "count": 20
+   },
+   {
+    "name": "Computer",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/beam_sword.png"
+ },
+ {
+  "title": "Beegarde's Spear",
+  "slug": "beegarde-s-spear",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Beegarde's Spear",
+   "Beegarde's Spear icon.png",
+   "Beegarde's Spear.png"
+  ],
+  "intro": "}}",
+  "description": "A spear made from the Beegarde's spear, altered for human use. It carries a sense of unwavering loyalty.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Uncommon",
+  "weight": 15.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 2000.0,
+    "durability": 400.0,
+    "attack": 150.0
+   }
+  },
+  "top_attack": 150.0,
+  "top_durability": 400.0,
+  "ingredients": [],
+  "icon": "/icons/beegarde_s_spear.png"
+ },
+ {
+  "title": "Beginner Fishing Rod (Chillet)",
+  "slug": "beginner-fishing-rod-chillet",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Beginner Fishing Rod (Chillet) icon.png",
+   "Beginner Fishing Rod (Chillet).png"
+  ],
+  "intro": "}}",
+  "description": "A fishing rod designed for catching Pals. Use it with bait near water where shadows are visible to start fishing. Perfect for beginners and ideal for reeling in low level Pals.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "Beginner Fishing Set",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 35.0,
+    "durability": 120.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 120.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 10
+   },
+   {
+    "name": "Pal Fluids",
+    "count": 3
+   },
+   {
+    "name": "Ingot",
+    "count": 8
+   },
+   {
+    "name": "Fiber",
+    "count": 8
+   }
+  ],
+  "icon": "/icons/beginner_fishing_rod_chillet.png"
+ },
+ {
+  "title": "Beginner Fishing Rod (Gumoss)",
+  "slug": "beginner-fishing-rod-gumoss",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Beginner Fishing Rod (Gumoss) icon.png",
+   "Beginner Fishing Rod (Gumoss).png"
+  ],
+  "intro": "}}",
+  "description": "A fishing rod designed for catching Pals. It's sturdier and offers slightly better performance than Beginner Fishing Rod (Chillet). Perfect for beginners and ideal for reeling in low level Pals.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 52.0,
+    "durability": 180.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 180.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 20
+   },
+   {
+    "name": "Pal Fluids",
+    "count": 6
+   },
+   {
+    "name": "Ingot",
+    "count": 16
+   },
+   {
+    "name": "Fiber",
+    "count": 16
+   },
+   {
+    "name": "Coralum Ore",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/beginner_fishing_rod_gumoss.png"
+ },
+ {
+  "title": "Boost Gun",
+  "slug": "boost-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Boost Gun icon.png",
+   "Boost Gun.png"
+  ],
+  "intro": "The Boost Gun can be equipped by the Player and used in combat or support roles. It is primarily intended for assisting allied Pals during battles, making it especially useful in prolonged encounters.",
+  "description": "Firing this at a Pal in your team temporarily boosts that Pal's attack and defense. Firing it at an enemy deals damage instead.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Bat",
+  "ammo": [
+   "Boost Gun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3.0,
+    "durability": 400.0,
+    "attack": 250.0,
+    "magazine": 8.0
+   }
+  },
+  "top_attack": 250.0,
+  "top_durability": 400.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 45
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 10
+   },
+   {
+    "name": "Fiber",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/boost_gun.png"
+ },
+ {
+  "title": "Capture Rope",
+  "slug": "capture-rope",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Capture Rope icon.png",
+   "Capture Rope.png"
+  ],
+  "intro": "",
+  "description": "Capture Rope",
+  "item_type": "Weapon",
+  "subtype": "",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 2.0,
+    "durability": 200.0,
+    "attack": 1.0
+   }
+  },
+  "top_attack": 1.0,
+  "top_durability": 200.0,
+  "ingredients": [],
+  "icon": "/icons/capture_rope.png"
+ },
+ {
+  "title": "Charge Rifle",
+  "slug": "charge-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Charge Rifle icon.png",
+   "Charge Rifle.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A beam rifle crafted with advanced technology. Charges energy to deliver one powerful shot.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "Charge Rifle",
+  "ammo": [
+   "Charge Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3760.0,
+    "durability": 200.0,
+    "attack": 12500.0,
+    "magazine": 6.0
+   },
+   "Uncommon": {
+    "sell": 3760.0,
+    "durability": 300.0,
+    "attack": 13125.0,
+    "magazine": 7.0
+   },
+   "Rare": {
+    "sell": 3760.0,
+    "durability": 400.0,
+    "attack": 13750.0,
+    "magazine": 8.0
+   },
+   "Epic": {
+    "sell": 3760.0,
+    "durability": 600.0,
+    "attack": 14375.0,
+    "magazine": 9.0
+   },
+   "Legendary": {
+    "sell": 3760.0,
+    "durability": 800.0,
+    "attack": 15000.0,
+    "magazine": 10.0
+   }
+  },
+  "top_attack": 15000.0,
+  "top_durability": 800.0,
+  "ingredients": [
+   {
+    "name": "Coralum Ingot",
+    "count": 200
+   },
+   {
+    "name": "Bio Battery",
+    "count": 25
+   },
+   {
+    "name": "Thermal Core",
+    "count": 5
+   },
+   {
+    "name": "Computer",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/charge_rifle.png"
+ },
+ {
+  "title": "Combat SMG",
+  "slug": "combat-smg",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Combat SMG icon.png",
+   "Combat SMG.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A submachine gun made from Soralite Ingots. Its improved magazine and ammunition enhance its suppression power.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "Combat SMG",
+  "ammo": [
+   "Combat SMG Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 16936.0,
+    "durability": 8000.0,
+    "attack": 907.0,
+    "magazine": 42.0
+   },
+   "Uncommon": {
+    "sell": 16936.0,
+    "durability": 12000.0,
+    "attack": 1088.0,
+    "magazine": 44.0
+   },
+   "Rare": {
+    "sell": 16936.0,
+    "durability": 16000.0,
+    "attack": 1244.0,
+    "magazine": 46.0
+   },
+   "Epic": {
+    "sell": 16936.0,
+    "durability": 24000.0,
+    "attack": 1360.0,
+    "magazine": 48.0
+   },
+   "Legendary": {
+    "sell": 16936.0,
+    "durability": 32000.0,
+    "attack": 1587.0,
+    "magazine": 50.0
+   }
+  },
+  "top_attack": 1587.0,
+  "top_durability": 32000.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 50
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 30
+   },
+   {
+    "name": "Cryogenic Coolant",
+    "count": 20
+   },
+   {
+    "name": "AI Core",
+    "count": 4
+   }
+  ],
+  "icon": "/icons/combat_smg.png"
+ },
+ {
+  "title": "Compound Bow",
+  "slug": "compound-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Compound Bow icon.png",
+   "Compound Bow.png"
+  ],
+  "intro": "!Tier ! !",
+  "description": "A modernized bow. Capable of firing more powerful arrows.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 17.0,
+  "technology": "Compound Bow",
+  "ammo": [
+   "Reinforced Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 2520.0,
+    "durability": 400.0,
+    "attack": 1100.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 2520.0,
+    "durability": 600.0,
+    "attack": 1265.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 2520.0,
+    "durability": 800.0,
+    "attack": 1375.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 2520.0,
+    "durability": 1200.0,
+    "attack": 1485.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 2520.0,
+    "durability": 1600.0,
+    "attack": 1650.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 1650.0,
+  "top_durability": 1600.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 50
+   },
+   {
+    "name": "Fiber",
+    "count": 40
+   },
+   {
+    "name": "Nail",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/compound_bow.png"
+ },
+ {
+  "title": "Core Eject Shotgun",
+  "slug": "core-eject-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Core Eject Shotgun icon.png",
+   "Core Eject Shotgun.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "[ULTRAKILL Collab] A shotgun powered by heat, capable of firing endlessly. When equipped, throwing a Pal Sphere is replace with Core Eject. Hold to charge and extend its range. Cores hit by shots from Marksman Revolver will explode.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 20.0,
+  "technology": "ULTRAKILL Collab Set 2",
+  "ammo": [
+   "Shotgun Shell"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 15360.0,
+    "durability": 150.0,
+    "attack": 230.0
+   },
+   "Uncommon": {
+    "sell": 17880.0,
+    "durability": 225.0,
+    "attack": 402.0
+   },
+   "Rare": {
+    "sell": 27120.0,
+    "durability": 300.0,
+    "attack": 460.0
+   },
+   "Epic": {
+    "sell": 41280.0,
+    "durability": 450.0,
+    "attack": 517.0
+   },
+   "Legendary": {
+    "sell": 61877.0,
+    "durability": 600.0,
+    "attack": 575.0
+   }
+  },
+  "top_attack": 575.0,
+  "top_durability": 600.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 80
+   },
+   {
+    "name": "Plasteel",
+    "count": 65
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 32
+   },
+   {
+    "name": "Flame Organ",
+    "count": 40
+   }
+  ],
+  "icon": "/icons/core_eject_shotgun.png"
+ },
+ {
+  "title": "Dark Grenade",
+  "slug": "dark-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Dark Grenade icon.png",
+   "Dark Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Dark Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Dark damage to enemies.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Dark Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Corrosive Solvent",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/dark_grenade.png"
+ },
+ {
+  "title": "Decal Gun 1",
+  "slug": "decal-gun-1",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Decal Gun 1 icon.png",
+   "Decal Gun 1.png"
+  ],
+  "intro": "}}",
+  "description": "Strange gun that paints a picture of Cattiva where it is fired. Have some fun and paint the walls or ceilings!",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Decal Gun Set",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 15
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/decal_gun_1.png"
+ },
+ {
+  "title": "Decal Gun 2",
+  "slug": "decal-gun-2",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Decal Gun 2 icon.png",
+   "Decal Gun 2.png"
+  ],
+  "intro": "}}",
+  "description": "Strange gun that paints a picture of Lamball where it is fired. Have some fun and paint the walls or ceilings!",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Decal Gun Set",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 15
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/decal_gun_2.png"
+ },
+ {
+  "title": "Decal Gun 3",
+  "slug": "decal-gun-3",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Decal Gun 3 icon.png",
+   "Decal Gun 3.png"
+  ],
+  "intro": "}}",
+  "description": "Strange gun that paints a picture of Melpaca where it is fired. Have some fun and paint the walls or ceilings!",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Decal Gun Set",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 15
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/decal_gun_3.png"
+ },
+ {
+  "title": "Decal Gun 4",
+  "slug": "decal-gun-4",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Decal Gun 4 icon.png",
+   "Decal Gun 4.png"
+  ],
+  "intro": "}}",
+  "description": "Strange gun that paints a picture of Anubis where it is fired. Have some fun and paint the walls or ceilings!",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Decal Gun Set",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 15
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/decal_gun_4.png"
+ },
+ {
+  "title": "Decal Gun 5",
+  "slug": "decal-gun-5",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Decal Gun 5 icon.png",
+   "Decal Gun 5.png"
+  ],
+  "intro": "}}",
+  "description": "Strange gun that paints a picture of Relaxaurus where it is fired. Have some fun and paint the walls or ceilings!",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Decal Gun Set",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 15
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/decal_gun_5.png"
+ },
+ {
+  "title": "Double-Barreled Shotgun",
+  "slug": "double-barreled-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Double-Barreled Shotgun icon.png",
+   "Double-Barreled Shotgun.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine",
+  "description": "Wreaks havoc at close range. Can fire twice before reloading. Despite the limited load capacity, it still packs a punch.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 24.0,
+  "technology": "Double-Barreled Shotgun",
+  "ammo": [
+   "Shotgun Shell"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 5520.0,
+    "durability": 200.0,
+    "attack": 190.0,
+    "magazine": 2.0
+   },
+   "Uncommon": {
+    "sell": 5520.0,
+    "durability": 400.0,
+    "attack": 285.0,
+    "magazine": 2.0
+   },
+   "Rare": {
+    "sell": 5520.0,
+    "durability": 500.0,
+    "attack": 323.0,
+    "magazine": 2.0
+   },
+   "Epic": {
+    "sell": 5520.0,
+    "durability": 600.0,
+    "attack": 361.0,
+    "magazine": 2.0
+   },
+   "Legendary": {
+    "sell": 5520.0,
+    "durability": 800.0,
+    "attack": 399.0,
+    "magazine": 2.0
+   }
+  },
+  "top_attack": 399.0,
+  "top_durability": 800.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 7
+   },
+   {
+    "name": "Hardwood",
+    "count": 25
+   }
+  ],
+  "icon": "/icons/double_barreled_shotgun.png"
+ },
+ {
+  "title": "Dragon Grenade",
+  "slug": "dragon-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Dragon Grenade icon.png",
+   "Dragon Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Dragon Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Dragon damage to enemies.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Dragon Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   },
+   {
+    "name": "Horn",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/dragon_grenade.png"
+ },
+ {
+  "title": "Drone Launcher",
+  "slug": "drone-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Drone Launcher icon.png",
+   "Drone Launcher.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "A launcher that fires drones which perform autonomous attacks. Capable of deploying up to 9 units, enabling sustained suppression.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 5.0,
+  "technology": "Drone Launcher",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 40410.0,
+    "durability": 6500.0,
+    "attack": 200.0
+   },
+   "Uncommon": {
+    "sell": 40410.0,
+    "durability": 9750.0,
+    "attack": 210.0
+   },
+   "Rare": {
+    "sell": 40410.0,
+    "durability": 13000.0,
+    "attack": 220.0
+   },
+   "Epic": {
+    "sell": 40410.0,
+    "durability": 19500.0,
+    "attack": 230.0
+   },
+   "Legendary": {
+    "sell": 40410.0,
+    "durability": 26000.0,
+    "attack": 240.0
+   }
+  },
+  "top_attack": 240.0,
+  "top_durability": 26000.0,
+  "ingredients": [
+   {
+    "name": "Paloxite Ingot",
+    "count": 70
+   },
+   {
+    "name": "World Tree Holy Water",
+    "count": 40
+   },
+   {
+    "name": "AI Core",
+    "count": 8
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/drone_launcher.png"
+ },
+ {
+  "title": "Elizabee's Staff",
+  "slug": "elizabee-s-staff",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Elizabee's Staff icon.png",
+   "Elizabee's Staff.png"
+  ],
+  "intro": "}}",
+  "description": "A spear made from Elizabee's staff, altered for human use. It is imbued with Elizabee's indomitable spirit.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Uncommon",
+  "weight": 20.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 2.0,
+    "durability": 300.0,
+    "attack": 150.0
+   }
+  },
+  "top_attack": 150.0,
+  "top_durability": 300.0,
+  "ingredients": [],
+  "icon": "/icons/elizabee_s_staff.png"
+ },
+ {
+  "title": "Energy Shotgun",
+  "slug": "energy-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Energy Shotgun icon.png",
+   "Energy Shotgun.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A shotgun that fires volatile energy rounds. Designed for rapid fire at close range, it delivers devastating bursts of damage at the cost of range.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "",
+  "ammo": [
+   "Energy Shotgun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 15360.0,
+    "durability": 300.0,
+    "attack": 402.0,
+    "magazine": 10.0
+   },
+   "Uncommon": {
+    "durability": 450.0,
+    "attack": 422.0,
+    "magazine": 11.0
+   },
+   "Rare": {
+    "durability": 600.0,
+    "attack": 442.0,
+    "magazine": 12.0
+   },
+   "Epic": {
+    "durability": 900.0,
+    "attack": 462.0,
+    "magazine": 13.0
+   },
+   "Legendary": {
+    "durability": 1200.0,
+    "attack": 482.0,
+    "magazine": 14.0
+   }
+  },
+  "top_attack": 482.0,
+  "top_durability": 1200.0,
+  "ingredients": [
+   {
+    "name": "Coralum Ingot",
+    "count": 155
+   },
+   {
+    "name": "Hexolite",
+    "count": 130
+   },
+   {
+    "name": "Thermal Core",
+    "count": 5
+   },
+   {
+    "name": "Computer",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/energy_shotgun.png"
+ },
+ {
+  "title": "Enhanced Lily's Spear",
+  "slug": "enhanced-lily-s-spear",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Enhanced Lily's Spear icon.png",
+   "Enhanced Lily's Spear.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "An enhanced version of Lily's beloved spear. Pierces those who neglect their Pals.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "",
+  "weight": 10.0,
+  "technology": "Enhanced Lily's Spear",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 5085.0,
+    "durability": 600.0,
+    "attack": 1200.0
+   },
+   "Legendary": {
+    "sell": 5085.0,
+    "durability": 2400.0,
+    "attack": 1500.0
+   }
+  },
+  "top_attack": 1500.0,
+  "top_durability": 2400.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 20
+   },
+   {
+    "name": "Soralite Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   },
+   {
+    "name": "High Quality Wooden Board",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/enhanced_lily_s_spear.png"
+ },
+ {
+  "title": "Excalibur",
+  "slug": "excalibur",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Excalibur icon.png",
+   "Excalibur.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "[Tides of Terraria] A sacred sword that gleams with golden light. Swinging it unleashes shockwaves around you.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "",
+  "weight": 10.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1000.0,
+    "durability": 600.0,
+    "attack": 360.0
+   },
+   "Uncommon": {
+    "sell": 20.0,
+    "durability": 900.0,
+    "attack": 396.0
+   },
+   "Rare": {
+    "sell": 20.0,
+    "durability": 1200.0,
+    "attack": 432.0
+   },
+   "Epic": {
+    "sell": 20.0,
+    "durability": 1800.0,
+    "attack": 468.0
+   },
+   "Legendary": {
+    "sell": 20.0,
+    "durability": 2400.0,
+    "attack": 540.0
+   }
+  },
+  "top_attack": 540.0,
+  "top_durability": 2400.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/excalibur.png"
+ },
+ {
+  "title": "Fire Arrow Crossbow",
+  "slug": "fire-arrow-crossbow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Fire Arrow Crossbow icon.png",
+   "Fire Arrow Crossbow.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "A Crossbow that deals Fire damage. Burns Pals with fire arrows, making them easier to capture.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 13.0,
+  "technology": "Fire Arrow Crossbow",
+  "ammo": [
+   "Fire Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 2520.0,
+    "durability": 300.0,
+    "attack": 280.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 2520.0,
+    "durability": 800.0,
+    "attack": 364.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 2520.0,
+    "durability": 1000.0,
+    "attack": 406.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 2520.0,
+    "durability": 1200.0,
+    "attack": 448.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 2520.0,
+    "durability": 1400.0,
+    "attack": 490.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 490.0,
+  "top_durability": 1400.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 50
+   },
+   {
+    "name": "Stone",
+    "count": 50
+   },
+   {
+    "name": "Ingot",
+    "count": 15
+   },
+   {
+    "name": "Nail",
+    "count": 5
+   },
+   {
+    "name": "Flame Organ",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/fire_arrow_crossbow.png"
+ },
+ {
+  "title": "Fire Bow",
+  "slug": "fire-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Fire Bow icon.png",
+   "Fire Bow.png"
+  ],
+  "intro": "}}",
+  "description": "A bow that deals Fire damage. Burns Pals with fire arrows, making them easier to capture. Requires Fire Arrow.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 6.0,
+  "technology": "Fire Bow",
+  "ammo": [
+   "Fire Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 48.0,
+    "durability": 150.0,
+    "attack": 65.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 65.0,
+  "top_durability": 150.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 40
+   },
+   {
+    "name": "Stone",
+    "count": 8
+   },
+   {
+    "name": "Fiber",
+    "count": 20
+   },
+   {
+    "name": "Flame Organ",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/fire_bow.png"
+ },
+ {
+  "title": "Five Shot Bow",
+  "slug": "five-shot-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Five Shot Bow icon.png",
+   "Five Shot Bow.png"
+  ],
+  "intro": "}}",
+  "description": "An enhanced bow that allows five arrows to be fired simultaneously. By some strange mechanism, it only consumes a single Arrow when fired.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [],
+  "icon": "/icons/five_shot_bow.png"
+ },
+ {
+  "title": "Flamethrower",
+  "slug": "flamethrower",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Flamethrower icon.png",
+   "Flamethrower.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A heavy flamethrower that projects sustained streams of fire over long distances. Effective for crowd control and applying burning damage over time.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 45.0,
+  "technology": "Flamethrower",
+  "ammo": [
+   "Flamethrower Fuel"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 6000.0,
+    "attack": 636.0,
+    "magazine": 100.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 9000.0,
+    "attack": 731.0,
+    "magazine": 100.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 12000.0,
+    "attack": 795.0,
+    "magazine": 100.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 18000.0,
+    "attack": 858.0,
+    "magazine": 100.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 24000.0,
+    "attack": 954.0,
+    "magazine": 100.0
+   }
+  },
+  "top_attack": 954.0,
+  "top_durability": 24000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 40
+   },
+   {
+    "name": "Plasteel",
+    "count": 30
+   },
+   {
+    "name": "Cryogenic Coolant",
+    "count": 13
+   },
+   {
+    "name": "Flame Organ",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/flamethrower.png"
+ },
+ {
+  "title": "Frag Grenade Mk2",
+  "slug": "frag-grenade-mk2",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Frag Grenade Mk2 icon.png",
+   "Frag Grenade Mk2.png"
+  ],
+  "intro": "}}",
+  "description": "Improved frag grenade. When thrown, it explodes and causes great deal of damage to the enemy.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Frag Grenade Mk2",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 4000.0
+   }
+  },
+  "top_attack": 4000.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 3
+   },
+   {
+    "name": "Crude Oil",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/frag_grenade_mk2.png"
+ },
+ {
+  "title": "Gatling Gun",
+  "slug": "gatling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Gatling Gun icon.png",
+   "Gatling Gun.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A Gatling gun capable of sustained rapid fire. Designed to overwhelm enemies with continuous suppressive fire.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 50.0,
+  "technology": "Gatling Gun",
+  "ammo": [
+   "Gatling Gun Bullet"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 6000.0,
+    "attack": 375.0,
+    "magazine": 100.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 9000.0,
+    "attack": 431.0,
+    "magazine": 100.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 12000.0,
+    "attack": 468.0,
+    "magazine": 100.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 18000.0,
+    "attack": 506.0,
+    "magazine": 100.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 24000.0,
+    "attack": 562.0,
+    "magazine": 100.0
+   }
+  },
+  "top_attack": 562.0,
+  "top_durability": 24000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 150
+   },
+   {
+    "name": "Plasteel",
+    "count": 70
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 70
+   }
+  ],
+  "icon": "/icons/gatling_gun.png"
+ },
+ {
+  "title": "Giga Grappling Gun",
+  "slug": "giga-grappling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Giga Grappling Gun icon.png",
+   "Giga Grappling Gun.png"
+  ],
+  "intro": "}}",
+  "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. Using data from prototype versions, its capabilities have been further increased.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Rare",
+  "weight": 1.0,
+  "technology": "Giga Grappling Gun",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 1.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 30
+   },
+   {
+    "name": "Ingot",
+    "count": 30
+   },
+   {
+    "name": "Fiber",
+    "count": 80
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 8
+   }
+  ],
+  "icon": "/icons/giga_grappling_gun.png"
+ },
+ {
+  "title": "Grappling Gun",
+  "slug": "grappling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Grappling Gun icon.png",
+   "Grappling Gun.png"
+  ],
+  "intro": "}}",
+  "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. It allows for easy movement between places with varying elevation.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 1.0,
+  "technology": "Grappling Gun",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 10
+   },
+   {
+    "name": "Ingot",
+    "count": 10
+   },
+   {
+    "name": "Fiber",
+    "count": 30
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/grappling_gun.png"
+ },
+ {
+  "title": "Grass Grenade",
+  "slug": "grass-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Grass Grenade icon.png",
+   "Grass Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Grass Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Grass damage to enemies.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Grass Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Hardwood",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/grass_grenade.png"
+ },
+ {
+  "title": "Grenade Launcher",
+  "slug": "grenade-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Grenade Launcher icon.png",
+   "Grenade Launcher.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "Fires explosive grenades that deal heavy area damage. Especially effective against groups of enemies and clustered targets.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Grenade Launcher",
+  "ammo": [
+   "Grenade Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 600.0,
+    "attack": 3000.0,
+    "magazine": 5.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 900.0,
+    "attack": 3450.0,
+    "magazine": 5.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 1200.0,
+    "attack": 3750.0,
+    "magazine": 5.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 1800.0,
+    "attack": 4050.0,
+    "magazine": 5.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 2400.0,
+    "attack": 4500.0,
+    "magazine": 5.0
+   }
+  },
+  "top_attack": 4500.0,
+  "top_durability": 2400.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 75
+   },
+   {
+    "name": "Plasteel",
+    "count": 60
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/grenade_launcher.png"
+ },
+ {
+  "title": "Ground Grenade",
+  "slug": "ground-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Ground Grenade icon.png",
+   "Ground Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Ground Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Ground damage to enemies.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Ground Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   },
+   {
+    "name": "Ore",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/ground_grenade.png"
+ },
+ {
+  "title": "Guided Missile Launcher",
+  "slug": "guided-missile-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Guided Missile Launcher icon.png",
+   "Guided Missile Launcher.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A guided missile launcher that fires homing missiles which track enemies before detonating on impact. Its explosions deal massive damage over a wide area, making it effective against powerful or clustered targets.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Guided Missile Launcher",
+  "ammo": [
+   "Missile Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 300.0,
+    "attack": 5900.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 450.0,
+    "attack": 6785.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 600.0,
+    "attack": 7375.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 900.0,
+    "attack": 7965.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 1200.0,
+    "attack": 8850.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 8850.0,
+  "top_durability": 1200.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 100
+   },
+   {
+    "name": "Plasteel",
+    "count": 50
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 25
+   },
+   {
+    "name": "Computer",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/guided_missile_launcher.png"
+ },
+ {
+  "title": "Hand-Held Torch",
+  "slug": "hand-held-torch",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Hand-Held Torch icon.png",
+   "Hand-Held Torch.png"
+  ],
+  "intro": "The",
+  "description": "Lights up dark areas and keeps you warm. Can also be used for close range combat in a pinch.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "Hand-held Torch",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 8.0,
+    "durability": 100.0,
+    "attack": 10.0
+   }
+  },
+  "top_attack": 10.0,
+  "top_durability": 100.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 2
+   },
+   {
+    "name": "Stone",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/hand_held_torch.png"
+ },
+ {
+  "title": "Handgun",
+  "slug": "handgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Handgun icon.png",
+   "Handgun.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine",
+  "description": "A handgun with improved capacity and rapid-fire capabilities. Has more immediate firepower than a Makeshift Handgun.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 8.0,
+  "technology": "Handgun",
+  "ammo": [
+   "Handgun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3300.0,
+    "durability": 400.0,
+    "attack": 250.0,
+    "magazine": 8.0
+   },
+   "Uncommon": {
+    "sell": 3300.0,
+    "durability": 1200.0,
+    "attack": 437.0,
+    "magazine": 10.0
+   },
+   "Rare": {
+    "sell": 3300.0,
+    "durability": 1600.0,
+    "attack": 500.0,
+    "magazine": 12.0
+   },
+   "Epic": {
+    "sell": 3300.0,
+    "durability": 2000.0,
+    "attack": 562.0,
+    "magazine": 14.0
+   },
+   "Legendary": {
+    "sell": 3300.0,
+    "durability": 2400.0,
+    "attack": 625.0,
+    "magazine": 16.0
+   }
+  },
+  "top_attack": 625.0,
+  "top_durability": 2400.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 50
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/handgun.png"
+ },
+ {
+  "title": "Heavy Assault Rifle",
+  "slug": "heavy-assault-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Heavy Assault Rifle icon.png",
+   "Heavy Assault Rifle.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "An assault rifle made from Soralite Ingots. It has been enhanced to handle powerful ammo while maintaining its versatility.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 5.0,
+  "technology": "Heavy Assault Rifle",
+  "ammo": [
+   "Heavy Assault Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 25123.0,
+    "durability": 5500.0,
+    "attack": 1615.0,
+    "magazine": 30.0
+   },
+   "Uncommon": {
+    "sell": 25123.0,
+    "durability": 8250.0,
+    "attack": 1695.0,
+    "magazine": 34.0
+   },
+   "Rare": {
+    "sell": 25123.0,
+    "durability": 11000.0,
+    "attack": 1776.0,
+    "magazine": 38.0
+   },
+   "Epic": {
+    "sell": 25123.0,
+    "durability": 16500.0,
+    "attack": 1857.0,
+    "magazine": 42.0
+   },
+   "Legendary": {
+    "sell": 25123.0,
+    "durability": 22000.0,
+    "attack": 1938.0,
+    "magazine": 46.0
+   }
+  },
+  "top_attack": 1938.0,
+  "top_durability": 22000.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 100
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 50
+   },
+   {
+    "name": "Bio Battery",
+    "count": 30
+   },
+   {
+    "name": "AI Core",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/heavy_assault_rifle.png"
+ },
+ {
+  "title": "Homing Sphere Launcher",
+  "slug": "homing-sphere-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Homing Sphere Launcher icon.png",
+   "Homing Sphere Launcher.png"
+  ],
+  "intro": "}}",
+  "description": "A launcher for firing spheres. Fired spheres home in on Pals.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 30.0,
+  "technology": "Homing Sphere Launcher",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 46.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 100
+   },
+   {
+    "name": "Polymer",
+    "count": 50
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 200
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 50
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/homing_sphere_launcher.png"
+ },
+ {
+  "title": "Hyper Grappling Gun",
+  "slug": "hyper-grappling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Hyper Grappling Gun icon.png",
+   "Hyper Grappling Gun.png"
+  ],
+  "intro": "}}",
+  "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. As a result of research, it has achieved overwhelming mobility.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Epic",
+  "weight": 1.0,
+  "technology": "Hyper Grappling Gun",
+  "ammo": [],
+  "qualities": {
+   "Epic": {
+    "sell": 1.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 40
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 30
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 20
+   },
+   {
+    "name": "Polymer",
+    "count": 20
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/hyper_grappling_gun.png"
+ },
+ {
+  "title": "Ice Grenade",
+  "slug": "ice-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Ice Grenade icon.png",
+   "Ice Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Ice Grenade useful for mid-range combat. It detonates a few seconds after being thrown, freezing the surrounding area.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Ice Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   },
+   {
+    "name": "Ice Organ",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/ice_grenade.png"
+ },
+ {
+  "title": "Incendiary Grenade",
+  "slug": "incendiary-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Incendiary Grenade icon.png",
+   "Incendiary Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Incendiary Grenade useful for mid-range combat. It detonates a few seconds after being thrown, setting the surrounding area on fire.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Incendiary Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   },
+   {
+    "name": "Flame Organ",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/incendiary_grenade.png"
+ },
+ {
+  "title": "Intermediate Fishing Rod (Cattiva)",
+  "slug": "intermediate-fishing-rod-cattiva",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Intermediate Fishing Rod (Cattiva) icon.png",
+   "Intermediate Fishing Rod (Cattiva).png"
+  ],
+  "intro": "It can be crafted after obtaining the Beginner Fishing Set Technology.",
+  "description": "A fishing rod designed for catching Pals. Use it with bait near water where shadows are visible to start fishing. It boasts improved performance, making catches a bit easier.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Uncommon",
+  "weight": 5.0,
+  "technology": "Intermediate Fishing Rod (Cattiva)",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 80.0,
+    "durability": 240.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 240.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 30
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 10
+   },
+   {
+    "name": "Cement",
+    "count": 10
+   },
+   {
+    "name": "Fiber",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/intermediate_fishing_rod_cattiva.png"
+ },
+ {
+  "title": "Intermediate Fishing Rod (Croajiro)",
+  "slug": "intermediate-fishing-rod-croajiro",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Intermediate Fishing Rod (Croajiro) icon.png",
+   "Intermediate Fishing Rod (Croajiro).png"
+  ],
+  "intro": "It can be crafted after obtaining an Intermediate Fishing Rod (Croajiro) Schematic.",
+  "description": "A fishing rod designed for catching Pals. It's sturdier and offers slightly better performance than Intermediate Fishing Rod (Cattiva).",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Uncommon",
+  "weight": 5.0,
+  "technology": "Intermediate Fishing Rod (Croajiro)",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 84.0,
+    "durability": 360.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 360.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 60
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 20
+   },
+   {
+    "name": "Cement",
+    "count": 20
+   },
+   {
+    "name": "Fiber",
+    "count": 60
+   },
+   {
+    "name": "Coralum Ore",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/intermediate_fishing_rod_croajiro.png"
+ },
+ {
+  "title": "Katana",
+  "slug": "katana",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Katana icon.png",
+   "Katana.png"
+  ],
+  "intro": "!Tier ! !",
+  "description": "Katana for close-range combat. Slices through with razor-sharp precision, cutting cleanly in one strike.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Katana",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1044.0,
+    "durability": 500.0,
+    "attack": 780.0
+   },
+   "Uncommon": {
+    "sell": 1044.0,
+    "durability": 750.0,
+    "attack": 858.0
+   },
+   "Rare": {
+    "sell": 1044.0,
+    "durability": 1000.0,
+    "attack": 936.0
+   },
+   "Epic": {
+    "sell": 1044.0,
+    "durability": 1500.0,
+    "attack": 1014.0
+   },
+   "Legendary": {
+    "sell": 1044.0,
+    "durability": 2000.0,
+    "attack": 1170.0
+   }
+  },
+  "top_attack": 1170.0,
+  "top_durability": 2000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   },
+   {
+    "name": "High Quality Wooden Board",
+    "count": 2
+   },
+   {
+    "name": "Corrosive Solvent",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/katana.png"
+ },
+ {
+  "title": "Laser Gatling Gun",
+  "slug": "laser-gatling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Laser Gatling Gun icon.png",
+   "Laser Gatling Gun.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "Fires beam-like energy blasts at high speed. Its overwhelming firepower can take down multiple enemies at once.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 50.0,
+  "technology": "Laser Gatling Gun",
+  "ammo": [
+   "Laser Gatling Cartridge"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 8000.0,
+    "attack": 530.0,
+    "magazine": 100.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 12000.0,
+    "attack": 583.0,
+    "magazine": 100.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 16000.0,
+    "attack": 609.0,
+    "magazine": 100.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 24000.0,
+    "attack": 636.0,
+    "magazine": 100.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 32000.0,
+    "attack": 689.0,
+    "magazine": 100.0
+   }
+  },
+  "top_attack": 689.0,
+  "top_durability": 32000.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 110
+   },
+   {
+    "name": "Hexolite",
+    "count": 100
+   },
+   {
+    "name": "Computer",
+    "count": 10
+   },
+   {
+    "name": "Thermal Core",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/laser_gatling_gun.png"
+ },
+ {
+  "title": "Laser Rifle",
+  "slug": "laser-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Laser Rifle icon.png",
+   "Laser Rifle.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A weapon that fires high-energy lasers. It has impressive firepower and is easy to handle.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 18.0,
+  "technology": "Laser Rifle",
+  "ammo": [
+   "Energy Cartridge"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 3000.0,
+    "attack": 1250.0,
+    "magazine": 30.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 3600.0,
+    "attack": 1437.0,
+    "magazine": 30.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 3900.0,
+    "attack": 1562.0,
+    "magazine": 30.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 4200.0,
+    "attack": 1687.0,
+    "magazine": 30.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 6000.0,
+    "attack": 1875.0,
+    "magazine": 30.0
+   }
+  },
+  "top_attack": 1875.0,
+  "top_durability": 6000.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 50
+   },
+   {
+    "name": "Plasteel",
+    "count": 40
+   },
+   {
+    "name": "Bio Battery",
+    "count": 5
+   },
+   {
+    "name": "Computer",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/laser_rifle.png"
+ },
+ {
+  "title": "Laser Sword",
+  "slug": "laser-sword",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Laser Sword icon.png",
+   "Laser Sword.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "A Beam Sword made from Soralite Ingots. A close-range weapon that instantly cuts targets using its high-output energy blade.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "",
+  "weight": 10.0,
+  "technology": "Laser Sword",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 14438.0,
+    "durability": 1200.0,
+    "attack": 2000.0
+   },
+   "Uncommon": {
+    "sell": 14438.0,
+    "durability": 1800.0,
+    "attack": 2100.0
+   },
+   "Rare": {
+    "sell": 14438.0,
+    "durability": 2400.0,
+    "attack": 2200.0
+   },
+   "Epic": {
+    "sell": 14438.0,
+    "durability": 3600.0,
+    "attack": 2300.0
+   },
+   "Legendary": {
+    "sell": 14438.0,
+    "durability": 4800.0,
+    "attack": 2400.0
+   }
+  },
+  "top_attack": 2400.0,
+  "top_durability": 4800.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 50
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 250
+   },
+   {
+    "name": "Bio Battery",
+    "count": 30
+   },
+   {
+    "name": "AI Core",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/laser_sword.png"
+ },
+ {
+  "title": "Legendary Meowmere",
+  "slug": "legendary-meowmere",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Legendary Meowmere icon.png",
+   "Legendary Meowmere.png"
+  ],
+  "intro": "}}",
+  "description": "[Tides of Terraria] A legendary Meowmere forged from Luminite Bar. Swinging it launches cat projectiles that ricochet and attack foes.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Legendary",
+  "weight": 22.0,
+  "technology": "0",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 1000.0,
+    "durability": 22222.0,
+    "attack": 222.0
+   }
+  },
+  "top_attack": 222.0,
+  "top_durability": 22222.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 22
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 22
+   },
+   {
+    "name": "Coal",
+    "count": 22
+   }
+  ],
+  "icon": "/icons/legendary_meowmere.png"
+ },
+ {
+  "title": "Lily's Spear",
+  "slug": "lily-s-spear",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Lily's Spear",
+   "Lily's Spear icon.png",
+   "Lily's Spear.png"
+  ],
+  "intro": "!Tier ! !",
+  "description": "The spear cherished by Lily. Punishes those who neglect their Pals.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Rare",
+  "weight": 10.0,
+  "technology": "Lily's Spear",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "durability": 500.0,
+    "attack": 860.0
+   },
+   "Legendary": {
+    "durability": 2000.0,
+    "attack": 1075.0
+   }
+  },
+  "top_attack": 1075.0,
+  "top_durability": 2000.0,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 20
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 30
+   },
+   {
+    "name": "High Quality Cloth",
+    "count": 20
+   },
+   {
+    "name": "High Quality Wooden Board",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/lily_s_spear.png"
+ },
+ {
+  "title": "Makeshift Assault Rifle",
+  "slug": "makeshift-assault-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Makeshift Assault Rifle icon.png",
+   "Makeshift Assault Rifle.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "An assault rifle handmade from scraps. It excels in rate of fire and long range, but its single-shot power is low.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "Makeshift Assault Rifle",
+  "ammo": [
+   "Coarse Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 8240.0,
+    "durability": 1500.0,
+    "attack": 170.0,
+    "magazine": 15.0
+   },
+   "Uncommon": {
+    "sell": 8240.0,
+    "durability": 2250.0,
+    "attack": 204.0,
+    "magazine": 17.0
+   },
+   "Rare": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 229.0,
+    "magazine": 19.0
+   },
+   "Epic": {
+    "sell": 8240.0,
+    "durability": 4500.0,
+    "attack": 255.0,
+    "magazine": 21.0
+   },
+   "Legendary": {
+    "sell": 8240.0,
+    "durability": 6000.0,
+    "attack": 297.0,
+    "magazine": 23.0
+   }
+  },
+  "top_attack": 297.0,
+  "top_durability": 6000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 70
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 20
+   },
+   {
+    "name": "Fiber",
+    "count": 60
+   }
+  ],
+  "icon": "/icons/makeshift_assault_rifle.png"
+ },
+ {
+  "title": "Makeshift Handgun",
+  "slug": "makeshift-handgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Makeshift Handgun icon.png",
+   "Makeshift Handgun.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine",
+  "description": "A handgun created from spare parts. Relatively well suited for close-quarters combat, but can only fire one shot before needing to reload.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Makeshift Handgun",
+  "ammo": [
+   "Coarse Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 1660.0,
+    "durability": 300.0,
+    "attack": 320.0,
+    "magazine": 6.0
+   },
+   "Uncommon": {
+    "sell": 1660.0,
+    "durability": 600.0,
+    "attack": 560.0,
+    "magazine": 6.0
+   },
+   "Rare": {
+    "sell": 1660.0,
+    "durability": 900.0,
+    "attack": 640.0,
+    "magazine": 6.0
+   },
+   "Epic": {
+    "sell": 1660.0,
+    "durability": 1200.0,
+    "attack": 720.0,
+    "magazine": 6.0
+   },
+   "Legendary": {
+    "sell": 1660.0,
+    "durability": 1500.0,
+    "attack": 800.0,
+    "magazine": 6.0
+   }
+  },
+  "top_attack": 800.0,
+  "top_durability": 1500.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 35
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 10
+   },
+   {
+    "name": "Fiber",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/makeshift_handgun.png"
+ },
+ {
+  "title": "Makeshift Shotgun",
+  "slug": "makeshift-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Makeshift Shotgun icon.png",
+   "Makeshift Shotgun.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A shotgun handmade from scraps. It has a short range but excels in close-range combat",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 24.0,
+  "technology": "Makeshift Shotgun",
+  "ammo": [
+   "Coarse Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 5520.0,
+    "durability": 200.0,
+    "attack": 215.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 5520.0,
+    "durability": 300.0,
+    "attack": 258.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 5520.0,
+    "durability": 400.0,
+    "attack": 290.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 5520.0,
+    "durability": 600.0,
+    "attack": 322.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 5520.0,
+    "durability": 800.0,
+    "attack": 376.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 376.0,
+  "top_durability": 800.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 60
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 15
+   },
+   {
+    "name": "Fiber",
+    "count": 50
+   }
+  ],
+  "icon": "/icons/makeshift_shotgun.png"
+ },
+ {
+  "title": "Makeshift SMG",
+  "slug": "makeshift-smg",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Makeshift SMG icon.png",
+   "Makeshift SMG.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A submachine gun handmade from scraps. It excels in rate of fire, but its single-shot power is low.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "Makeshift SMG",
+  "ammo": [
+   "Coarse Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 8240.0,
+    "durability": 1000.0,
+    "attack": 100.0,
+    "magazine": 24.0
+   },
+   "Uncommon": {
+    "sell": 8240.0,
+    "durability": 1500.0,
+    "attack": 120.0,
+    "magazine": 26.0
+   },
+   "Rare": {
+    "sell": 8240.0,
+    "durability": 2000.0,
+    "attack": 135.0,
+    "magazine": 28.0
+   },
+   "Epic": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 150.0,
+    "magazine": 30.0
+   },
+   "Legendary": {
+    "sell": 8240.0,
+    "durability": 4000.0,
+    "attack": 175.0,
+    "magazine": 32.0
+   }
+  },
+  "top_attack": 175.0,
+  "top_durability": 4000.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 40
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 10
+   },
+   {
+    "name": "Fiber",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/makeshift_smg.png"
+ },
+ {
+  "title": "Marksman Revolver",
+  "slug": "marksman-revolver",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Marksman Revolver icon.png",
+   "Marksman Revolver.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "[ULTRAKILL Collab] An electrically powered revolver capable of firing endlessly. When equipped, Pal Sphere throws are replaced with Coin Toss. Hitting a coin with the Marksman Revolver causes the bullet to ricochet toward enemies.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 8.0,
+  "technology": "ULTRAKILL Collab Set 1",
+  "ammo": [
+   "Handgun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3300.0,
+    "durability": 400.0,
+    "attack": 250.0,
+    "magazine": null
+   },
+   "Uncommon": {
+    "sell": 5040.0,
+    "durability": 1200.0,
+    "attack": 437.0,
+    "magazine": null
+   },
+   "Rare": {
+    "sell": 7620.0,
+    "durability": 1600.0,
+    "attack": 500.0,
+    "magazine": null
+   },
+   "Epic": {
+    "sell": 11340.0,
+    "durability": 2000.0,
+    "attack": 562.0,
+    "magazine": null
+   },
+   "Legendary": {
+    "sell": 17368.0,
+    "durability": 2400.0,
+    "attack": 625.0,
+    "magazine": null
+   }
+  },
+  "top_attack": 625.0,
+  "top_durability": 2400.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 60
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 15
+   },
+   {
+    "name": "Gold Coin",
+    "count": 1
+   },
+   {
+    "name": "Electric Organ",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/marksman_revolver.png"
+ },
+ {
+  "title": "Meat Cleaver",
+  "slug": "meat-cleaver",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Meat Cleaver icon.png",
+   "Meat Cleaver.png"
+  ],
+  "intro": "}}",
+  "description": "Knife for butchering Pals. When equipped, the Pet command becomes Butcher. Butchered Pals will be gone for good.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Meat Cleaver",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 10.0,
+    "durability": 300.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 5
+   },
+   {
+    "name": "Wood",
+    "count": 20
+   },
+   {
+    "name": "Stone",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/meat_cleaver.png"
+ },
+ {
+  "title": "Mechanical Bow",
+  "slug": "mechanical-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Mechanical Bow icon.png",
+   "Mechanical Bow.png"
+  ],
+  "intro": "!Tier ! !",
+  "description": "A bow crafted from Soralite Ingots. With greatly enhanced initial velocity and piercing power, this high-precision weapon excels at ranged combat.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 6.0,
+  "technology": "Mechanical Bow",
+  "ammo": [
+   "Mechanical Bow Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 12931.0,
+    "durability": 2000.0,
+    "attack": 20000.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 12931.0,
+    "durability": 3000.0,
+    "attack": 21000.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 12931.0,
+    "durability": 4000.0,
+    "attack": 22000.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 12931.0,
+    "durability": 6000.0,
+    "attack": 23000.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 12931.0,
+    "durability": 8000.0,
+    "attack": 24000.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 24000.0,
+  "top_durability": 8000.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 40
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 20
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 200
+   },
+   {
+    "name": "AI Core",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/mechanical_bow.png"
+ },
+ {
+  "title": "Mega Grappling Gun",
+  "slug": "mega-grappling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Mega Grappling Gun icon.png",
+   "Mega Grappling Gun.png"
+  ],
+  "intro": "}}",
+  "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. Since it's upgraded, it now has greater range.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Uncommon",
+  "weight": 1.0,
+  "technology": "Mega Grappling Gun",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 1.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 20
+   },
+   {
+    "name": "Ingot",
+    "count": 20
+   },
+   {
+    "name": "Fiber",
+    "count": 50
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 4
+   }
+  ],
+  "icon": "/icons/mega_grappling_gun.png"
+ },
+ {
+  "title": "Megaboost Gun",
+  "slug": "megaboost-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Megaboost Gun icon.png",
+   "Megaboost Gun.png"
+  ],
+  "intro": "}}",
+  "description": "Firing it at an allied Pal boosts their attack and defense, while hitting an enemy deals damage. Thanks to improvements, the boost is stronger and lasts longer, and it deals more damage to enemies.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3300.0,
+    "durability": 400.0,
+    "attack": 250.0,
+    "magazine": 8.0
+   }
+  },
+  "top_attack": 250.0,
+  "top_durability": 400.0,
+  "ingredients": [
+   {
+    "name": "Coralum Ingot",
+    "count": 150
+   },
+   {
+    "name": "Hexolite",
+    "count": 120
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 200
+   },
+   {
+    "name": "Circuit Board",
+    "count": 100
+   }
+  ],
+  "icon": "/icons/megaboost_gun.png"
+ },
+ {
+  "title": "Meowmere",
+  "slug": "meowmere",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Meowmere icon.png",
+   "Meowmere.png"
+  ],
+  "intro": "}}",
+  "description": "[Tides of Terraria] According to the legend, this sword was brought back from a distant land by Croajiro. Why? We have no idea... Fires a bouncing cat projectile with each swing to attack enemies.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Legendary",
+  "weight": 22.0,
+  "technology": "Meowmere",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 20.0,
+    "durability": 2222.0,
+    "attack": 200.0
+   }
+  },
+  "top_attack": 200.0,
+  "top_durability": 2222.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 22
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 22
+   },
+   {
+    "name": "Coal",
+    "count": 22
+   }
+  ],
+  "icon": "/icons/meowmere.png"
+ },
+ {
+  "title": "Metal Axe",
+  "slug": "metal-axe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Metal Axe icon.png",
+   "Metal Axe.png"
+  ],
+  "intro": "}}",
+  "description": "An axe for cutting wood. Made from metal, its sharpness has improved.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Uncommon",
+  "weight": 15.0,
+  "technology": "Metal Axe",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 280.0,
+    "durability": 250.0,
+    "attack": 30.0,
+    "equip_effect": "Logging Yield Up Lv. 1"
+   }
+  },
+  "top_attack": 30.0,
+  "top_durability": 250.0,
+  "ingredients": [
+   {
+    "name": "Stone",
+    "count": 15
+   },
+   {
+    "name": "Wood",
+    "count": 20
+   },
+   {
+    "name": "Ingot",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/metal_axe.png"
+ },
+ {
+  "title": "Metal Bat",
+  "slug": "metal-bat",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Metal Bat icon.png",
+   "Metal Bat.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "A Metal Bat that works well in close combat. Use it to beat down anyone you don't like.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "",
+  "weight": 3.0,
+  "technology": "Metal Bat",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 208.0,
+    "durability": 500.0,
+    "attack": 500.0
+   },
+   "Uncommon": {
+    "sell": 208.0,
+    "durability": 750.0,
+    "attack": 550.0
+   },
+   "Rare": {
+    "sell": 208.0,
+    "durability": 1000.0,
+    "attack": 600.0
+   },
+   "Epic": {
+    "sell": 208.0,
+    "durability": 1500.0,
+    "attack": 650.0
+   },
+   "Legendary": {
+    "sell": 208.0,
+    "durability": 2000.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": 2000.0,
+  "ingredients": [
+   {
+    "name": "Hardwood",
+    "count": 30
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/metal_bat.png"
+ },
+ {
+  "title": "Metal Detector",
+  "slug": "metal-detector",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Metal Detector icon.png",
+   "Metal Detector.png"
+  ],
+  "intro": "}}",
+  "description": "Holding it allows you to detect hidden ores nearby. It marks the metal when close to the ore, but the mark disappears if you move away.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 25.0,
+  "technology": "Metal Detector",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 3300.0,
+    "durability": 400.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 30
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 100
+   },
+   {
+    "name": "Circuit Board",
+    "count": 30
+   },
+   {
+    "name": "Nightstar Sand",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/metal_detector.png"
+ },
+ {
+  "title": "Metal Pickaxe",
+  "slug": "metal-pickaxe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Metal Pickaxe icon.png",
+   "Metal Pickaxe.png"
+  ],
+  "intro": "}}",
+  "description": "A pickaxe used for mining. Made from metal, its durability and efficiency have improved.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Uncommon",
+  "weight": 15.0,
+  "technology": "Metal Pickaxe",
+  "ammo": [],
+  "qualities": {
+   "Uncommon": {
+    "sell": 280.0,
+    "durability": 250.0,
+    "attack": 30.0,
+    "equip_effect": "Mining Yield Up Lv. 1"
+   }
+  },
+  "top_attack": 30.0,
+  "top_durability": 250.0,
+  "ingredients": [
+   {
+    "name": "Stone",
+    "count": 15
+   },
+   {
+    "name": "Wood",
+    "count": 20
+   },
+   {
+    "name": "Ingot",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/metal_pickaxe.png"
+ },
+ {
+  "title": "Metal Spear",
+  "slug": "metal-spear",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Metal Spear icon.png",
+   "Metal Spear.png"
+  ],
+  "intro": "}}",
+  "description": "Useful for close-range combat. The metal tip gives it increased attack power, and its length allows you to stand further away when attacking.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 15.0,
+  "technology": "Metal Spear",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 878.0,
+    "durability": 250.0,
+    "attack": 80.0
+   }
+  },
+  "top_attack": 80.0,
+  "top_durability": 250.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 27
+   },
+   {
+    "name": "Stone",
+    "count": 12
+   },
+   {
+    "name": "Ingot",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/metal_spear.png"
+ },
+ {
+  "title": "Meteor Launcher",
+  "slug": "meteor-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Meteor Launcher icon.png",
+   "Meteor Launcher.png"
+  ],
+  "intro": "!Tier !! !!",
+  "description": "A phenomenal weapon that fires a meteor. Upon striking its target, it creates an explosion similar to a meteorite impact.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 30.0,
+  "technology": "Meteor Launcher",
+  "ammo": [
+   "Meteorite Bullet"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 300.0,
+    "attack": 2000.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 450.0,
+    "attack": 10500.0
+   }
+  },
+  "top_attack": 10500.0,
+  "top_durability": 450.0,
+  "ingredients": [
+   {
+    "name": "Meteorite Fragment",
+    "count": 100
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 30
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 20
+   },
+   {
+    "name": "Corrosive Solvent",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/meteor_launcher.png"
+ },
+ {
+  "title": "Multi Guided Missile Launcher",
+  "slug": "multi-guided-missile-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Multi Guided Missile Launcher icon.png",
+   "Multi Guided Missile Launcher.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A multi-lock missile launcher that fires guided missiles capable of tracking enemies. Designed for overwhelming burst damage against high-value targets.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "",
+  "ammo": [
+   "Missile Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 300.0,
+    "attack": 5900.0,
+    "magazine": 4.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 450.0,
+    "attack": 6785.0,
+    "magazine": 4.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 600.0,
+    "attack": 7375.0,
+    "magazine": 4.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 900.0,
+    "attack": 7965.0,
+    "magazine": 4.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 1200.0,
+    "attack": 8850.0,
+    "magazine": 4.0
+   }
+  },
+  "top_attack": 8850.0,
+  "top_durability": 1200.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 150
+   },
+   {
+    "name": "Plasteel",
+    "count": 80
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 30
+   },
+   {
+    "name": "Computer",
+    "count": 8
+   }
+  ],
+  "icon": "/icons/multi_guided_missile_launcher.png"
+ },
+ {
+  "title": "Musket",
+  "slug": "musket",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Musket icon.png",
+   "Musket.png"
+  ],
+  "intro": "!Tier !! !!",
+  "description": "Simple, old fashioned gun. Fires a single, powerful shot at the expense of a long reload time.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 20.0,
+  "technology": "Musket",
+  "ammo": [
+   "Coarse Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3760.0,
+    "durability": 200.0,
+    "attack": 1000.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 3760.0,
+    "durability": 400.0,
+    "attack": 1400.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 3760.0,
+    "durability": 500.0,
+    "attack": 1600.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 3760.0,
+    "durability": 600.0,
+    "attack": 1800.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 3760.0,
+    "durability": 800.0,
+    "attack": 2000.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 2000.0,
+  "top_durability": 800.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 25
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 5
+   },
+   {
+    "name": "Wooden Board",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/musket.png"
+ },
+ {
+  "title": "Nightglow",
+  "slug": "nightglow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Nightglow icon.png",
+   "Nightglow.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "[Tides of Terraria] A lantern that radiates a rainbow-hued light. Holding it aloft releases homing light projectiles that strike enemies multiple times.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1000.0,
+    "durability": 3000.0,
+    "attack": 50.0
+   },
+   "Uncommon": {
+    "sell": 1000.0,
+    "durability": 3000.0,
+    "attack": 60.0
+   },
+   "Rare": {
+    "sell": 1000.0,
+    "durability": 4000.0,
+    "attack": 70.0
+   },
+   "Epic": {
+    "sell": 1000.0,
+    "durability": 5000.0,
+    "attack": 80.0
+   },
+   "Legendary": {
+    "sell": 1000.0,
+    "durability": 6000.0,
+    "attack": 100.0
+   }
+  },
+  "top_attack": 100.0,
+  "top_durability": 6000.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/nightglow.png"
+ },
+ {
+  "title": "Old Bow",
+  "slug": "old-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Old Bow icon.png",
+   "Old Bow.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "Primitive long range weapon. Hastily put together, it isn't very powerful.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 6.0,
+  "technology": "Old Bow",
+  "ammo": [
+   "Arrow",
+   "Fire Arrow",
+   "Poison Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 36.0,
+    "durability": 150.0,
+    "attack": 65.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 36.0,
+    "durability": 400.0,
+    "attack": 130.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 36.0,
+    "durability": 500.0,
+    "attack": 169.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 36.0,
+    "durability": 600.0,
+    "attack": 208.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 36.0,
+    "durability": 700.0,
+    "attack": 247.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 247.0,
+  "top_durability": 700.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 30
+   },
+   {
+    "name": "Stone",
+    "count": 5
+   },
+   {
+    "name": "Fiber",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/old_bow.png"
+ },
+ {
+  "title": "Old Revolver",
+  "slug": "old-revolver",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Old Revolver icon.png",
+   "Old Revolver.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A slightly outdated revolving handgun. Compared to Handgun, it excels in single-shot power.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 8.0,
+  "technology": "Old Revolver",
+  "ammo": [
+   "Handgun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3300.0,
+    "durability": 400.0,
+    "attack": 600.0,
+    "magazine": 6.0
+   },
+   "Uncommon": {
+    "sell": 3300.0,
+    "durability": 600.0,
+    "attack": 1050.0,
+    "magazine": 6.0
+   },
+   "Rare": {
+    "sell": 3300.0,
+    "durability": 800.0,
+    "attack": 1200.0,
+    "magazine": 6.0
+   },
+   "Epic": {
+    "sell": 3300.0,
+    "durability": 1200.0,
+    "attack": 1350.0,
+    "magazine": 6.0
+   },
+   "Legendary": {
+    "sell": 3300.0,
+    "durability": 1600.0,
+    "attack": 1500.0,
+    "magazine": 6.0
+   }
+  },
+  "top_attack": 1500.0,
+  "top_durability": 1600.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 60
+   },
+   {
+    "name": "High Quality Pal Oil",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/old_revolver.png"
+ },
+ {
+  "title": "Overheat Rifle",
+  "slug": "overheat-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Overheat Rifle icon.png",
+   "Overheat Rifle.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "An assault rifle capable of firing endlessly without reloading. Prolonged bursts cause overheating, leaving you exposed. Use with caution.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "Overheat Rifle",
+  "ammo": [
+   "Overheat Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 1225.0
+   },
+   "Uncommon": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 1286.0
+   },
+   "Rare": {
+    "sell": 8240.0,
+    "durability": 4000.0,
+    "attack": 1347.0
+   },
+   "Epic": {
+    "sell": 8240.0,
+    "durability": 5000.0,
+    "attack": 1408.0
+   },
+   "Legendary": {
+    "sell": 8240.0,
+    "durability": 6000.0,
+    "attack": 1470.0
+   }
+  },
+  "top_attack": 1470.0,
+  "top_durability": 6000.0,
+  "ingredients": [
+   {
+    "name": "Coralum Ingot",
+    "count": 160
+   },
+   {
+    "name": "Hexolite",
+    "count": 135
+   },
+   {
+    "name": "Thermal Core",
+    "count": 5
+   },
+   {
+    "name": "Cryogenic Coolant",
+    "count": 50
+   }
+  ],
+  "icon": "/icons/overheat_rifle.png"
+ },
+ {
+  "title": "Pal Metal Axe",
+  "slug": "pal-metal-axe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Pal Metal Axe icon.png",
+   "Pal Metal Axe.png"
+  ],
+  "intro": "}}",
+  "description": "An axe for chopping wood. It has achieved extraordinary sharpness thanks to Pal Metal. It can slice through high-grade trees from the harshest regions without trouble.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Epic",
+  "weight": 25.0,
+  "technology": "Pal Metal Axe",
+  "ammo": [],
+  "qualities": {
+   "Epic": {
+    "sell": 3300.0,
+    "durability": 400.0,
+    "attack": 120.0,
+    "equip_effect": "Logging Yield Up Lv. 4"
+   }
+  },
+  "top_attack": 120.0,
+  "top_durability": 400.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 10
+   },
+   {
+    "name": "High Quality Wooden Board",
+    "count": 10
+   },
+   {
+    "name": "Stone",
+    "count": 100
+   },
+   {
+    "name": "Corrosive Solvent",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/pal_metal_axe.png"
+ },
+ {
+  "title": "Pal Metal Pickaxe",
+  "slug": "pal-metal-pickaxe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Pal Metal Pickaxe icon.png",
+   "Pal Metal Pickaxe.png"
+  ],
+  "intro": "}}",
+  "description": "A pickaxe for mining. It has achieved extraordinary efficiency thanks to Pal Metal.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Epic",
+  "weight": 25.0,
+  "technology": "Pal Metal Pickaxe",
+  "ammo": [],
+  "qualities": {
+   "Epic": {
+    "sell": 3.0,
+    "durability": 400.0,
+    "attack": 120.0,
+    "equip_effect": "Mining Yield Up Lv. 4"
+   }
+  },
+  "top_attack": 120.0,
+  "top_durability": 400.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 10
+   },
+   {
+    "name": "High Quality Wooden Board",
+    "count": 10
+   },
+   {
+    "name": "Stone",
+    "count": 100
+   },
+   {
+    "name": "Corrosive Solvent",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/pal_metal_pickaxe.png"
+ },
+ {
+  "title": "Pal Recovery Grenade",
+  "slug": "pal-recovery-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Pal Recovery Grenade icon.png",
+   "Pal Recovery Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Frag Grenade with healing effects. It bursts on impact, restoring HP to allied Pals.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Pal Recovery Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Fiber",
+    "count": 10
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   },
+   {
+    "name": "Cavern Mushroom",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/pal_recovery_grenade.png"
+ },
+ {
+  "title": "Plasma Cannon",
+  "slug": "plasma-cannon",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Plasma Cannon icon.png",
+   "Plasma Cannon.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "Fires high-output energy projectiles. Causes an energy explosion upon impact.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Plasma Cannon",
+  "ammo": [
+   "Plasma Cartridge"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 300.0,
+    "attack": 10000.0,
+    "magazine": 2.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 450.0,
+    "attack": 11000.0,
+    "magazine": 2.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 600.0,
+    "attack": 11500.0,
+    "magazine": 2.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 900.0,
+    "attack": 12000.0,
+    "magazine": 2.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 1200.0,
+    "attack": 13000.0,
+    "magazine": 2.0
+   }
+  },
+  "top_attack": 13000.0,
+  "top_durability": 1200.0,
+  "ingredients": [
+   {
+    "name": "Plasteel",
+    "count": 150
+   },
+   {
+    "name": "Hexolite",
+    "count": 130
+   },
+   {
+    "name": "Thermal Core",
+    "count": 4
+   },
+   {
+    "name": "Computer",
+    "count": 8
+   }
+  ],
+  "icon": "/icons/plasma_cannon.png"
+ },
+ {
+  "title": "Plasma Multicutter",
+  "slug": "plasma-multicutter",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Plasma Multicutter icon.png",
+   "Plasma Multicutter.png"
+  ],
+  "intro": "}}",
+  "description": "A portable plasma cutter that concentrates and emits plasma energy. It supports a wide range of uses, from ore excavation to tree cutting. Its high-output energy also allows for the mining of special ores.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Legendary",
+  "weight": 50.0,
+  "technology": "Plasma Multicutter",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 58440.0,
+    "durability": 850.0,
+    "attack": 250.0
+   }
+  },
+  "top_attack": 250.0,
+  "top_durability": 850.0,
+  "ingredients": [
+   {
+    "name": "Pal Metal Ingot",
+    "count": 50
+   },
+   {
+    "name": "Plasteel",
+    "count": 50
+   },
+   {
+    "name": "Bio Battery",
+    "count": 30
+   },
+   {
+    "name": "Computer",
+    "count": 10
+   },
+   {
+    "name": "Cryogenic Coolant",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/plasma_multicutter.png"
+ },
+ {
+  "title": "Plasma Rifle",
+  "slug": "plasma-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Plasma Rifle icon.png",
+   "Plasma Rifle.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A rifle that releases an electrical discharge from the point of impact, which chains to multiple enemies.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 5.0,
+  "technology": "Plasma Rifle",
+  "ammo": [
+   "Plasma Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 41340.0,
+    "durability": 25000.0,
+    "attack": 1860.0,
+    "magazine": 38.0
+   },
+   "Uncommon": {
+    "sell": 41340.0,
+    "durability": 37500.0,
+    "attack": 1953.0,
+    "magazine": 40.0
+   },
+   "Rare": {
+    "sell": 41340.0,
+    "durability": 50000.0,
+    "attack": 2046.0,
+    "magazine": 42.0
+   },
+   "Epic": {
+    "sell": 41340.0,
+    "durability": 75000.0,
+    "attack": 2139.0,
+    "magazine": 44.0
+   },
+   "Legendary": {
+    "sell": 41340.0,
+    "durability": 100000.0,
+    "attack": 2232.0,
+    "magazine": 46.0
+   }
+  },
+  "top_attack": 2232.0,
+  "top_durability": 100000.0,
+  "ingredients": [
+   {
+    "name": "Paloxite Ingot",
+    "count": 80
+   },
+   {
+    "name": "Bio Battery",
+    "count": 50
+   },
+   {
+    "name": "AI Core",
+    "count": 8
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 7
+   }
+  ],
+  "icon": "/icons/plasma_rifle.png"
+ },
+ {
+  "title": "Poison Arrow Crossbow",
+  "slug": "poison-arrow-crossbow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Poison Arrow Crossbow icon.png",
+   "Poison Arrow Crossbow.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "A Crossbow that inflicts poison on its target. Poisoned Pals are easier to capture.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 13.0,
+  "technology": "Poison Arrow Crossbow",
+  "ammo": [
+   "Poison Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 2520.0,
+    "durability": 300.0,
+    "attack": 280.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 2520.0,
+    "durability": 800.0,
+    "attack": 364.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 2520.0,
+    "durability": 1000.0,
+    "attack": 406.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 2520.0,
+    "durability": 1200.0,
+    "attack": 448.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 2520.0,
+    "durability": 1400.0,
+    "attack": 490.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 490.0,
+  "top_durability": 1400.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 50
+   },
+   {
+    "name": "Stone",
+    "count": 50
+   },
+   {
+    "name": "Ingot",
+    "count": 15
+   },
+   {
+    "name": "Nail",
+    "count": 5
+   },
+   {
+    "name": "Venom Gland",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/poison_arrow_crossbow.png"
+ },
+ {
+  "title": "Poison Bow",
+  "slug": "poison-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Poison Bow icon.png",
+   "Poison Bow.png"
+  ],
+  "intro": "}}",
+  "description": "Frightening bow that poisons its target. Poisoned Pals are easier to capture. Requires Poison Arrow.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 6.0,
+  "technology": "Poison Bow",
+  "ammo": [
+   "Poison Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 48.0,
+    "durability": 150.0,
+    "attack": 65.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 65.0,
+  "top_durability": 150.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 40
+   },
+   {
+    "name": "Stone",
+    "count": 8
+   },
+   {
+    "name": "Fiber",
+    "count": 20
+   },
+   {
+    "name": "Venom Gland",
+    "count": 2
+   }
+  ],
+  "icon": "/icons/poison_bow.png"
+ },
+ {
+  "title": "Primitive Sword",
+  "slug": "primitive-sword",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Primitive Sword icon.png",
+   "Primitive Sword.png"
+  ],
+  "intro": "}}",
+  "description": "A sword for close-range combat. Not bad for a battered sword. Perfect for getting up close and personal.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Primitive Sword",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 516.0,
+    "durability": 500.0,
+    "attack": 180.0
+   }
+  },
+  "top_attack": 180.0,
+  "top_durability": 500.0,
+  "ingredients": [
+   {
+    "name": "Wooden Board",
+    "count": 2
+   },
+   {
+    "name": "Stone",
+    "count": 15
+   },
+   {
+    "name": "Ingot",
+    "count": 15
+   }
+  ],
+  "icon": "/icons/primitive_sword.png"
+ },
+ {
+  "title": "Prototype Shotgun",
+  "slug": "prototype-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Prototype Shotgun icon.png",
+   "Prototype Shotgun.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A shotgun made from Soralite Ingots. It delivers overwhelming firepower at close range, and its special magazine also provides high sustained combat capability.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "Prototype Shotgun",
+  "ammo": [
+   "Prototype Shotgun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 21501.0,
+    "durability": 6000.0,
+    "attack": 1167.0,
+    "magazine": 12.0
+   },
+   "Uncommon": {
+    "sell": 21501.0,
+    "durability": 9000.0,
+    "attack": 1225.0,
+    "magazine": 14.0
+   },
+   "Rare": {
+    "sell": 21501.0,
+    "durability": 12000.0,
+    "attack": 1283.0,
+    "magazine": 16.0
+   },
+   "Epic": {
+    "sell": 21501.0,
+    "durability": 18000.0,
+    "attack": 1342.0,
+    "magazine": 18.0
+   },
+   "Legendary": {
+    "sell": 21501.0,
+    "durability": 24000.0,
+    "attack": 1400.0,
+    "magazine": 20.0
+   }
+  },
+  "top_attack": 1400.0,
+  "top_durability": 24000.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 60
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 40
+   },
+   {
+    "name": "Thermal Core",
+    "count": 5
+   },
+   {
+    "name": "AI Core",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/prototype_shotgun.png"
+ },
+ {
+  "title": "Pump-action Shotgun",
+  "slug": "pump-action-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Pump-action Shotgun icon.png",
+   "Pump-action Shotgun.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine",
+  "description": "A high capacity, powerful shotgun. It has outstanding close range DPS.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 20.0,
+  "technology": "Pump-action Shotgun",
+  "ammo": [
+   "Shotgun Shell"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 15360.0,
+    "durability": 150.0,
+    "attack": 220.0,
+    "magazine": 8.0
+   },
+   "Uncommon": {
+    "sell": 15360.0,
+    "durability": 500.0,
+    "attack": 275.0,
+    "magazine": 9.0
+   },
+   "Rare": {
+    "sell": 15360.0,
+    "durability": 600.0,
+    "attack": 308.0,
+    "magazine": 10.0
+   },
+   "Epic": {
+    "sell": 15360.0,
+    "durability": 700.0,
+    "attack": 352.0,
+    "magazine": 11.0
+   },
+   "Legendary": {
+    "sell": 15360.0,
+    "durability": 800.0,
+    "attack": 385.0,
+    "magazine": 12.0
+   }
+  },
+  "top_attack": 385.0,
+  "top_durability": 800.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 30
+   },
+   {
+    "name": "Polymer",
+    "count": 20
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/pump_action_shotgun.png"
+ },
+ {
+  "title": "Refined Metal Axe",
+  "slug": "refined-metal-axe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Refined Metal Axe icon.png",
+   "Refined Metal Axe.png"
+  ],
+  "intro": "}}",
+  "description": "An axe for cutting wood. Made from high quality metal, its sharpness and durability has improved even further. It can harvest Hardwood from sturdy trees that grow in unforgiving lands.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Rare",
+  "weight": 20.0,
+  "technology": "Refined Metal Axe",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 700.0,
+    "durability": 300.0,
+    "attack": 60.0,
+    "equip_effect": "Logging Yield Up Lv. 2"
+   }
+  },
+  "top_attack": 60.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Stone",
+    "count": 30
+   },
+   {
+    "name": "Wooden Board",
+    "count": 4
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/refined_metal_axe.png"
+ },
+ {
+  "title": "Refined Metal Pickaxe",
+  "slug": "refined-metal-pickaxe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Refined Metal Pickaxe icon.png",
+   "Refined Metal Pickaxe.png"
+  ],
+  "intro": "}}",
+  "description": "A pickaxe used for mining. Its durability and efficiency have further improved.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Rare",
+  "weight": 20.0,
+  "technology": "Refined Metal Pickaxe",
+  "ammo": [],
+  "qualities": {
+   "Rare": {
+    "sell": 700.0,
+    "durability": 300.0,
+    "attack": 60.0,
+    "equip_effect": "Mining Yield Up Lv. 2"
+   }
+  },
+  "top_attack": 60.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Stone",
+    "count": 30
+   },
+   {
+    "name": "Wooden Board",
+    "count": 4
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/refined_metal_pickaxe.png"
+ },
+ {
+  "title": "Refined Metal Spear",
+  "slug": "refined-metal-spear",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Refined Metal Spear icon.png",
+   "Refined Metal Spear.png"
+  ],
+  "intro": "}}",
+  "description": "Useful for close-range combat. The high-quality metal tip gives it greatly increased attack power, while its length allows you to stand further away when attacking.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 20.0,
+  "technology": "Refined Metal Spear",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1388.0,
+    "durability": 300.0,
+    "attack": 310.0
+   }
+  },
+  "top_attack": 310.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 36
+   },
+   {
+    "name": "Stone",
+    "count": 18
+   },
+   {
+    "name": "Refined Ingot",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/refined_metal_spear.png"
+ },
+ {
+  "title": "Rocket Launcher",
+  "slug": "rocket-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Rocket Launcher icon.png",
+   "Rocket Launcher.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A Rocket Launcher that can fire a powerful round from long distances.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Rocket Launcher",
+  "ammo": [
+   "Rocket Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 32400.0,
+    "durability": 300.0,
+    "attack": 10000.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "sell": 32400.0,
+    "durability": 800.0,
+    "attack": 11000.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "sell": 32400.0,
+    "durability": 1000.0,
+    "attack": 12000.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "sell": 32400.0,
+    "durability": 1200.0,
+    "attack": 13000.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "sell": 32400.0,
+    "durability": 1400.0,
+    "attack": 14000.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 14000.0,
+  "top_durability": 1400.0,
+  "ingredients": [
+   {
+    "name": "Coralum Ingot",
+    "count": 75
+   },
+   {
+    "name": "Polymer",
+    "count": 30
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 25
+   },
+   {
+    "name": "Computer",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/rocket_launcher.png"
+ },
+ {
+  "title": "Scatter Sphere Launcher",
+  "slug": "scatter-sphere-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Scatter Sphere Launcher icon.png",
+   "Scatter Sphere Launcher.png"
+  ],
+  "intro": "}}",
+  "description": "A new type of launcher that fires a large number of spheres. It can easily capture a herd of Pals.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 30.0,
+  "technology": "Scatter Sphere Launcher",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 4.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 50
+   },
+   {
+    "name": "Polymer",
+    "count": 15
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 50
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 30
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/scatter_sphere_launcher.png"
+ },
+ {
+  "title": "Semi-Auto Rifle",
+  "slug": "semi-auto-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Semi-Auto Rifle icon.png",
+   "Semi-Auto Rifle.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A rifle that allows for a certain degree of rapid fire. It’s easy to aim and has high firepower, making it effective for mid-range combat.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "Semi-Auto Rifle",
+  "ammo": [
+   "Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 3760.0,
+    "durability": 1000.0,
+    "attack": 1150.0,
+    "magazine": 8.0
+   },
+   "Uncommon": {
+    "sell": 3760.0,
+    "durability": 1500.0,
+    "attack": 1265.0,
+    "magazine": 9.0
+   },
+   "Rare": {
+    "sell": 3760.0,
+    "durability": 2000.0,
+    "attack": 1380.0,
+    "magazine": 10.0
+   },
+   "Epic": {
+    "sell": 3760.0,
+    "durability": 3000.0,
+    "attack": 1495.0,
+    "magazine": 11.0
+   },
+   "Legendary": {
+    "sell": 3760.0,
+    "durability": 4000.0,
+    "attack": 1610.0,
+    "magazine": 12.0
+   }
+  },
+  "top_attack": 1610.0,
+  "top_durability": 4000.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 35
+   },
+   {
+    "name": "Polymer",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/semi_auto_rifle.png"
+ },
+ {
+  "title": "Semi-Auto Shotgun",
+  "slug": "semi-auto-shotgun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Semi-Auto Shotgun icon.png",
+   "Semi-Auto Shotgun.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A rapid-fire shotgun with immense power. Its close-range damage output is top-notch.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "Semi-Auto Shotgun",
+  "ammo": [
+   "Shotgun Shell"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 15360.0,
+    "durability": 300.0,
+    "attack": 195.0,
+    "magazine": 10.0
+   },
+   "Uncommon": {
+    "sell": 15360.0,
+    "durability": 450.0,
+    "attack": 214.0,
+    "magazine": 11.0
+   },
+   "Rare": {
+    "sell": 15360.0,
+    "durability": 600.0,
+    "attack": 234.0,
+    "magazine": 12.0
+   },
+   "Epic": {
+    "sell": 15360.0,
+    "durability": 900.0,
+    "attack": 253.0,
+    "magazine": 13.0
+   },
+   "Legendary": {
+    "sell": 15360.0,
+    "durability": 1200.0,
+    "attack": 282.0,
+    "magazine": 14.0
+   }
+  },
+  "top_attack": 282.0,
+  "top_durability": 1200.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 50
+   },
+   {
+    "name": "Polymer",
+    "count": 20
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 10
+   }
+  ],
+  "icon": "/icons/semi_auto_shotgun.png"
+ },
+ {
+  "title": "Shock Grenade",
+  "slug": "shock-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Shock Grenade icon.png",
+   "Shock Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Shock Grenade useful for mid-range combat. It detonates a few seconds after being thrown, electrocuting everything in the blast radius.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Shock Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Stone",
+    "count": 10
+   },
+   {
+    "name": "Electric Organ",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/shock_grenade.png"
+ },
+ {
+  "title": "Single-Shot Rifle",
+  "slug": "single-shot-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Single-Shot Rifle icon.png",
+   "Single-Shot Rifle.png"
+  ],
+  "intro": "!Tier !! !!Durability",
+  "description": "A single-shot rifle. Takes time to load. What it lacks in capacity, it makes up for with sheer power.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 20.0,
+  "technology": "Single-shot Rifle",
+  "ammo": [
+   "Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "buy": 37600.0,
+    "sell": 3760.0,
+    "durability": 1000.0,
+    "attack": 1100.0,
+    "magazine": 1.0
+   },
+   "Uncommon": {
+    "buy": 37600.0,
+    "sell": 3760.0,
+    "durability": 2000.0,
+    "attack": 1650.0,
+    "magazine": 1.0
+   },
+   "Rare": {
+    "buy": 37600.0,
+    "sell": 3760.0,
+    "durability": 2500.0,
+    "attack": 1870.0,
+    "magazine": 1.0
+   },
+   "Epic": {
+    "buy": 37600.0,
+    "sell": 3760.0,
+    "durability": 3000.0,
+    "attack": 2090.0,
+    "magazine": 1.0
+   },
+   "Legendary": {
+    "buy": 37600.0,
+    "sell": 3760.0,
+    "durability": 3500.0,
+    "attack": 2310.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 2310.0,
+  "top_durability": 3500.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 20
+   },
+   {
+    "name": "Polymer",
+    "count": 5
+   },
+   {
+    "name": "Hardwood",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/single_shot_rifle.png"
+ },
+ {
+  "title": "Single-Shot Sphere Launcher",
+  "slug": "single-shot-sphere-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Single-Shot Sphere Launcher icon.png",
+   "Single-Shot Sphere Launcher.png"
+  ],
+  "intro": "}}",
+  "description": "A launcher that fires spheres. It can capture Pals from a greater distance.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 30.0,
+  "technology": "Single-Shot Sphere Launcher",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 10.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 50
+   },
+   {
+    "name": "Stone",
+    "count": 100
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 50
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/single_shot_sphere_launcher.png"
+ },
+ {
+  "title": "SMG",
+  "slug": "smg",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "SMG icon.png",
+   "SMG.png"
+  ],
+  "intro": "!Rarity !! !! !! Magazine Size",
+  "description": "A submachine gun with exceptional rate of fire. It’s easy to handle and effective in close-range combat.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "SMG",
+  "ammo": [
+   "Handgun Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 8240.0,
+    "durability": 2000.0,
+    "attack": 130.0,
+    "magazine": 24.0
+   },
+   "Uncommon": {
+    "sell": 8240.0,
+    "durability": 3000.0,
+    "attack": 156.0,
+    "magazine": 26.0
+   },
+   "Rare": {
+    "sell": 8240.0,
+    "durability": 4000.0,
+    "attack": 175.0,
+    "magazine": 28.0
+   },
+   "Epic": {
+    "sell": 8240.0,
+    "durability": 6000.0,
+    "attack": 195.0,
+    "magazine": 30.0
+   },
+   "Legendary": {
+    "sell": 8240.0,
+    "durability": 8000.0,
+    "attack": 227.0,
+    "magazine": 32.0
+   }
+  },
+  "top_attack": 227.0,
+  "top_durability": 8000.0,
+  "ingredients": [
+   {
+    "name": "Refined Ingot",
+    "count": 25
+   },
+   {
+    "name": "Polymer",
+    "count": 6
+   }
+  ],
+  "icon": "/icons/smg.png"
+ },
+ {
+  "title": "Sniper Rifle",
+  "slug": "sniper-rifle",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Sniper Rifle icon.png",
+   "Sniper Rifle.png"
+  ],
+  "intro": "}}",
+  "description": "lang_Text",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 25.0,
+  "technology": "",
+  "ammo": [
+   "Large Bullet"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 2000.0,
+    "durability": 500.0,
+    "attack": 1000.0,
+    "magazine": 4.0
+   }
+  },
+  "top_attack": 1000.0,
+  "top_durability": 500.0,
+  "ingredients": [],
+  "icon": "/icons/sniper_rifle.png"
+ },
+ {
+  "title": "Stone Axe",
+  "slug": "stone-axe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Stone Axe icon.png",
+   "Stone Axe.png"
+  ],
+  "intro": "}}",
+  "description": "An axe for cutting wood. Made from stone, it's not very sharp.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Stone Axe",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 20.0,
+    "durability": 150.0,
+    "attack": 20.0
+   }
+  },
+  "top_attack": 20.0,
+  "top_durability": 150.0,
+  "ingredients": [
+   {
+    "name": "Stone",
+    "count": 5
+   },
+   {
+    "name": "Wood",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/stone_axe.png"
+ },
+ {
+  "title": "Stone Pickaxe",
+  "slug": "stone-pickaxe",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Stone Pickaxe icon.png",
+   "Stone Pickaxe.png"
+  ],
+  "intro": "}}",
+  "description": "A pickaxe used for mining. Made from stone, the efficiency is questionable.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Stone Pickaxe",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 20.0,
+    "durability": 150.0,
+    "attack": 20.0
+   }
+  },
+  "top_attack": 20.0,
+  "top_durability": 150.0,
+  "ingredients": [
+   {
+    "name": "Stone",
+    "count": 5
+   },
+   {
+    "name": "Wood",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/stone_pickaxe.png"
+ },
+ {
+  "title": "Stone Spear",
+  "slug": "stone-spear",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Stone Spear icon.png",
+   "Stone Spear.png"
+  ],
+  "intro": "}}",
+  "description": "Useful for close-range combat. Its length allows you to stand further away when attacking.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Stone Spear",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 48.0,
+    "durability": 200.0,
+    "attack": 35.0
+   }
+  },
+  "top_attack": 35.0,
+  "top_durability": 200.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 18
+   },
+   {
+    "name": "Stone",
+    "count": 6
+   }
+  ],
+  "icon": "/icons/stone_spear.png"
+ },
+ {
+  "title": "Stun Baton",
+  "slug": "stun-baton",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Stun Baton icon.png",
+   "Stun Baton.png"
+  ],
+  "intro": "}}",
+  "description": "Close range weapon that sends out an electric jolt upon contact. Pals are easier to capture when electrocuted.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 10.0,
+  "technology": "Stun Baton",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1900.0,
+    "durability": 300.0,
+    "attack": 10.0
+   }
+  },
+  "top_attack": 10.0,
+  "top_durability": 300.0,
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "count": 20
+   },
+   {
+    "name": "Electric Organ",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/stun_baton.png"
+ },
+ {
+  "title": "Tactical Grenade Launcher",
+  "slug": "tactical-grenade-launcher",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Tactical Grenade Launcher icon.png",
+   "Tactical Grenade Launcher.png"
+  ],
+  "intro": "!Rarity !! !! !!Magazine Size",
+  "description": "A grenade launcher made from Soralite Ingots. Improved trajectory stability allows for precise long-range bombings.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 30.0,
+  "technology": "Tactical Grenade Launcher",
+  "ammo": [
+   "Tactical Grenade Launcher Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 22955.0,
+    "durability": 800.0,
+    "attack": 6722.0,
+    "magazine": 8.0
+   },
+   "Uncommon": {
+    "sell": 22955.0,
+    "durability": 1200.0,
+    "attack": 7058.0,
+    "magazine": 10.0
+   },
+   "Rare": {
+    "sell": 22955.0,
+    "durability": 1600.0,
+    "attack": 7394.0,
+    "magazine": 10.0
+   },
+   "Epic": {
+    "sell": 22955.0,
+    "durability": 2400.0,
+    "attack": 7730.0,
+    "magazine": 12.0
+   },
+   "Legendary": {
+    "sell": 22955.0,
+    "durability": 3200.0,
+    "attack": 8066.0,
+    "magazine": 12.0
+   }
+  },
+  "top_attack": 8066.0,
+  "top_durability": 3200.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 80
+   },
+   {
+    "name": "Corrosive Solvent",
+    "count": 15
+   },
+   {
+    "name": "Thermal Core",
+    "count": 5
+   },
+   {
+    "name": "AI Core",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/tactical_grenade_launcher.png"
+ },
+ {
+  "title": "Terra Blade",
+  "slug": "terra-blade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Terra Blade icon.png",
+   "Terra Blade.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "[Tides of Terraria] This curious sword releases vibrant green shockwaves with each strike, allowing you to hit enemies from afar despite being a melee weapon.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "",
+  "weight": 10.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1000.0,
+    "durability": 757.0,
+    "attack": 425.0
+   },
+   "Uncommon": {
+    "sell": 1000.0,
+    "durability": 1135.0,
+    "attack": 467.0
+   },
+   "Rare": {
+    "sell": 1000.0,
+    "durability": 1514.0,
+    "attack": 510.0
+   },
+   "Epic": {
+    "sell": 1000.0,
+    "durability": 2271.0,
+    "attack": 552.0
+   },
+   "Legendary": {
+    "sell": 1000.0,
+    "durability": 3028.0,
+    "attack": 637.0
+   }
+  },
+  "top_attack": 637.0,
+  "top_durability": 3028.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   }
+  ],
+  "icon": "/icons/terra_blade.png"
+ },
+ {
+  "title": "Terraprisma",
+  "slug": "terraprisma",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Terraprisma icon.png",
+   "Terraprisma.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "[Tides of Terraria] A mystical sword with a rainbow-colored blade. Wielding it lets you summon up to nine blessed swords to fight alongside you.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "",
+  "weight": 5.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1000.0,
+    "durability": 5000.0,
+    "attack": 90.0
+   },
+   "Uncommon": {
+    "sell": 1000.0,
+    "durability": 6000.0,
+    "attack": 100.0
+   },
+   "Rare": {
+    "sell": 1000.0,
+    "durability": 7200.0,
+    "attack": 110.0
+   },
+   "Epic": {
+    "sell": 1000.0,
+    "durability": 8640.0,
+    "attack": 125.0
+   },
+   "Legendary": {
+    "sell": 1000.0,
+    "durability": 10368.0,
+    "attack": 150.0
+   }
+  },
+  "top_attack": 150.0,
+  "top_durability": 10368.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/terraprisma.png"
+ },
+ {
+  "title": "Three Shot Bow",
+  "slug": "three-shot-bow",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Three Shot Bow icon.png",
+   "Three Shot Bow.png"
+  ],
+  "intro": "}}",
+  "description": "An enhanced bow that allows three arrows to be fired simultaneously. By some strange mechanism, it only consumes a single Arrow when fired.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "Common",
+  "weight": 8.0,
+  "technology": "Three Shot Bow",
+  "ammo": [
+   "Arrow",
+   "Fire Arrow",
+   "Poison Arrow"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 100.0,
+    "durability": 250.0,
+    "attack": 40.0,
+    "magazine": 1.0
+   }
+  },
+  "top_attack": 40.0,
+  "top_durability": 250.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 50
+   },
+   {
+    "name": "Stone",
+    "count": 12
+   },
+   {
+    "name": "Fiber",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/three_shot_bow.png"
+ },
+ {
+  "title": "Ultra Grappling Gun",
+  "slug": "ultra-grappling-gun",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Ultra Grappling Gun icon.png",
+   "Ultra Grappling Gun.png"
+  ],
+  "intro": "}}",
+  "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. With new materials, cooldown time has been significantly reduced.",
+  "item_type": "Weapon",
+  "subtype": "Tool",
+  "rarity": "Legendary",
+  "weight": 1.0,
+  "technology": "",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 1.0
+   }
+  },
+  "top_attack": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Paldium Fragment",
+    "count": 100
+   },
+   {
+    "name": "Coralum Ingot",
+    "count": 30
+   },
+   {
+    "name": "Carbon Fiber",
+    "count": 50
+   },
+   {
+    "name": "Polymer",
+    "count": 50
+   },
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 25
+   }
+  ],
+  "icon": "/icons/ultra_grappling_gun.png"
+ },
+ {
+  "title": "Vortex Beater",
+  "slug": "vortex-beater",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Vortex Beater icon.png",
+   "Vortex Beater.png"
+  ],
+  "intro": "!Rarity !! !!",
+  "description": "[Tides of Terraria] A powerful gun fueled by unknown energy. Fires homing missiles at regular intervals that track enemies and explode on impact. Has a 66% chance to not consume ammo when firing.",
+  "item_type": "Weapon",
+  "subtype": "Ranged",
+  "rarity": "",
+  "weight": 15.0,
+  "technology": "",
+  "ammo": [
+   "Assault Rifle Ammo"
+  ],
+  "qualities": {
+   "Common": {
+    "sell": 1000.0,
+    "durability": 3000.0,
+    "attack": 300.0
+   },
+   "Uncommon": {
+    "sell": 1000.0,
+    "durability": 3000.0,
+    "attack": 330.0
+   },
+   "Rare": {
+    "sell": 1000.0,
+    "durability": 4000.0,
+    "attack": 360.0
+   },
+   "Epic": {
+    "sell": 1000.0,
+    "durability": 5000.0,
+    "attack": 390.0
+   },
+   "Legendary": {
+    "sell": 1000.0,
+    "durability": 6000.0,
+    "attack": 450.0
+   }
+  },
+  "top_attack": 450.0,
+  "top_durability": 6000.0,
+  "ingredients": [
+   {
+    "name": "Hallowed Bar",
+    "count": 40
+   },
+   {
+    "name": "Pal Metal Ingot",
+    "count": 20
+   },
+   {
+    "name": "Electric Organ",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/vortex_beater.png"
+ },
+ {
+  "title": "Water Grenade",
+  "slug": "water-grenade",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Water Grenade icon.png",
+   "Water Grenade.png"
+  ],
+  "intro": "}}",
+  "description": "A Water Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Water damage to enemies.",
+  "item_type": "Weapon",
+  "subtype": "Grenade",
+  "rarity": "Common",
+  "weight": 0.1,
+  "technology": "Water Grenade",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1.0,
+    "attack": 750.0
+   }
+  },
+  "top_attack": 750.0,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Gunpowder",
+    "count": 1
+   },
+   {
+    "name": "Cryogenic Coolant",
+    "count": 1
+   }
+  ],
+  "icon": "/icons/water_grenade.png"
+ },
+ {
+  "title": "Wooden Club",
+  "slug": "wooden-club",
+  "category": "Weapon",
+  "infobox": "Item",
+  "images": [
+   "Wooden Club icon.png",
+   "Wooden Club.png"
+  ],
+  "intro": "The",
+  "description": "A Wooden Club for close range combat. Can beat a small Pal to a pulp if need be.",
+  "item_type": "Weapon",
+  "subtype": "Melee",
+  "rarity": "Common",
+  "weight": 5.0,
+  "technology": "Wooden Club",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 8.0,
+    "durability": 150.0,
+    "attack": 25.0
+   }
+  },
+  "top_attack": 25.0,
+  "top_durability": 150.0,
+  "ingredients": [
+   {
+    "name": "Wood",
+    "count": 5
+   }
+  ],
+  "icon": "/icons/wooden_club.png"
+ }
+]

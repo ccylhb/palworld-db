@@ -1,0 +1,155 @@
+---
+import Base from "../layouts/Base.astro";
+import pals from "../data/palworld_pals.json";
+import combos from "../data/palworld_breeding_combos.json";
+
+const all = pals as any[];
+const palData = all
+  .filter((p: any) => p.breeding?.rank != null)
+  .map((p: any) => ({
+    n: p.title, s: p.slug, r: p.breeding.rank, e: (p.elements || []).join("/"), i: p.icon || "",
+  }))
+  .sort((a, b) => a.n.localeCompare(b.n));
+const comboData = (combos as any[]).map((c) => ({ c: c.child, a: c.parents[0], b: c.parents[1] }));
+---
+
+<Base
+  title="Palworld Breeding Calculator — What Do Two Pals Make?"
+  description={`Palworld breeding calculator: pick any two Pals and get the offspring, using all ${palData.length} breeding ranks plus every special parent combination.`}
+>
+  <h1>Breeding Calculator</h1>
+  <p class="muted">
+    The child is the Pal whose <strong>breeding rank</strong> is nearest to the average of both
+    parents (rank = (A + B + 1) / 2, rounded down) — unless the pair is a
+    <a href="#special">special combination</a>, which always wins.
+  </p>
+
+  <div class="card calc-card">
+    <div class="calc-row">
+      <label>Parent A
+        <select id="pa"></select>
+      </label>
+      <span class="calc-x">×</span>
+      <label>Parent B
+        <select id="pb"></select>
+      </label>
+      <button id="go" type="button">Breed!</button>
+    </div>
+    <div id="result" class="calc-result" hidden></div>
+  </div>
+
+  <section>
+    <h2>How it works</h2>
+    <ul>
+      <li>Every Pal species has a hidden <strong>breeding rank</strong> (lower = rarer/stronger).</li>
+      <li>Child rank = <strong>(ParentA + ParentB + 1) / 2</strong>, rounded down; the child is the eligible species with the rank nearest to that number.</li>
+      <li><a href="#special">Special combinations</a> override the rank math entirely.</li>
+      <li>There's a 1% mutation chance for a much rarer Pal, and a 5% chance any bred egg is an <strong>Alpha</strong> (one egg size larger, not inherited).</li>
+    </ul>
+  </section>
+
+  <section id="special">
+    <h2>Special combinations ({comboData.length})</h2>
+    <p class="muted">Fixed parent pairs that always produce the child below, regardless of rank.</p>
+    <div class="combo-grid">
+      {comboData.map((c: any) => (
+        <div class="combo-card">
+          <div class="combo-child">{c.c}</div>
+          <div class="muted combo-parents">{c.a} + {c.b}</div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .calc-card { padding: 1.25rem; margin: 1rem 0; }
+  .calc-row { display: flex; gap: 0.75rem; align-items: end; flex-wrap: wrap; }
+  .calc-row label { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.85rem; color: var(--muted); flex: 1 1 200px; }
+  .calc-row select { width: 100%; }
+  .calc-x { font-size: 1.3rem; color: var(--accent); padding-bottom: 0.5rem; }
+  .calc-result {
+    margin-top: 1.1rem; padding: 1rem;
+    background: color-mix(in srgb, var(--accent) 10%, var(--bg-soft));
+    border: 1px solid color-mix(in srgb, var(--accent) 40%, var(--border));
+    border-radius: 10px;
+    display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
+  }
+  .calc-result img { width: 64px; height: 64px; object-fit: contain; }
+  .calc-result .child-name { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
+  .combo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0.6rem; }
+  .combo-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 0.6rem 0.8rem; }
+  .combo-child { font-weight: 600; color: var(--accent-2); }
+  .combo-parents { font-size: 0.85rem; }
+</style>
+
+<script define:vars={{ palData, comboData }}>
+  const byName = {};
+  palData.forEach((p) => { byName[p.n.toLowerCase()] = p; });
+  const comboMap = {};
+  comboData.forEach((c) => {
+    const k1 = c.a.toLowerCase() + "|" + c.b.toLowerCase();
+    const k2 = c.b.toLowerCase() + "|" + c.a.toLowerCase();
+    comboMap[k1] = c.c; comboMap[k2] = c.c;
+  });
+
+  const pa = document.getElementById("pa");
+  const pb = document.getElementById("pb");
+  const btn = document.getElementById("go");
+  const result = document.getElementById("result");
+
+  palData.forEach((p, i) => {
+    for (const sel of [pa, pb]) {
+      const o = document.createElement("option");
+      o.value = p.n; o.textContent = p.n + "  (rank " + p.r + ")";
+      sel.appendChild(o);
+    }
+  });
+  // sensible default pair
+  const defIdx = (n) => palData.findIndex((p) => p.n.toLowerCase() === n);
+  const anubis = defIdx("anubis"), katress = defIdx("katress");
+  if (anubis >= 0) pa.selectedIndex = anubis;
+  if (katress >= 0) pb.selectedIndex = katress;
+
+  function findChild(nameA, nameB) {
+    const combo = comboMap[nameA.toLowerCase() + "|" + nameB.toLowerCase()];
+    if (combo && byName[combo.toLowerCase()]) {
+      return { pal: byName[combo.toLowerCase()], special: true };
+    }
+    const A = byName[nameA.toLowerCase()], B = byName[nameB.toLowerCase()];
+    if (!A || !B) return null;
+    const target = Math.floor((A.r + B.r + 1) / 2);
+    let best = null, bestDiff = Infinity;
+    for (const p of palData) {
+      const d = Math.abs(p.r - target);
+      if (d < bestDiff || (d === bestDiff && p.r < best.r)) { best = p; bestDiff = d; }
+    }
+    return { pal: best, special: false, target };
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+  }
+
+  function calc() {
+    const res = findChild(pa.value, pb.value);
+    if (!res) { result.hidden = true; return; }
+    const p = res.pal;
+    result.innerHTML =
+      (p.i ? '<img src="' + p.i + '" alt="" />' : "") +
+      '<div><div class="muted" style="font-size:0.8rem;text-transform:uppercase;letter-spacing:0.4px">Child</div>' +
+      '<a class="child-name" href="/pals/' + p.s + '/">' + esc(p.n) + "</a>" +
+      '<div class="muted" style="font-size:0.85rem">' +
+      (res.special
+        ? "⭐ Special combination — always produces " + esc(p.n) + " regardless of rank."
+        : "Rank math: target rank " + res.target + " → nearest is " + esc(p.n) + " (rank " + p.r + ")") +
+      (p.e ? " · " + esc(p.e) : "") +
+      '</div></div>';
+    result.hidden = false;
+  }
+
+  btn.addEventListener("click", calc);
+  [pa, pb].forEach((s) => s.addEventListener("change", calc));
+  calc();
+</script>

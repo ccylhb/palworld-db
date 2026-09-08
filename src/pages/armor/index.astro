@@ -1,0 +1,46 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import armor from "../../data/palworld_armor.json";
+
+const rows = armor
+  .map((a: any) => ({
+    armor: `<img src="${a.icon || ""}" alt="" loading="lazy" style="width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-right:0.4rem" onerror="this.remove()"/><a href="/armor/${a.slug}/">${a.title}</a>`,
+    subtype: a.subtype || "—",
+    defense: a.top_defense ?? "",
+    durability: a.top_durability ?? "",
+    weight: a.weight ?? "",
+    _def: a.top_defense ?? -1,
+  }))
+  .sort((a: any, b: any) => b._def - a._def);
+
+const bySub = armor.reduce((acc: Record<string, number>, a: any) => {
+  const s = a.subtype || "Other";
+  acc[s] = (acc[s] || 0) + 1;
+  return acc;
+}, {});
+---
+
+<Base
+  title={`All ${armor.length} Palworld Armor Pieces — Defense & Effects`}
+  description={`Every Palworld armour piece sorted by defense: body armour, helmets, hats and shields with durability and equip effects. ${armor.length} entries.`}
+>
+  <h1>Armor</h1>
+  <p class="muted">
+    {armor.length} pieces — defense values are the best quality tier available.
+    Slots: {Object.entries(bySub).sort((a, b) => b[1] - a[1]).slice(0, 8).map(([s, n]) => <span class="tag" style="margin:0.1rem">{s} {n}</span>)}
+  </p>
+
+  <DataTable
+    id="armor"
+    searchPlaceholder="Search armour or slot… e.g. helmet"
+    columns={[
+      { key: "armor", label: "Armor" },
+      { key: "subtype", label: "Slot" },
+      { key: "defense", label: "Defense (best)", type: "number" },
+      { key: "durability", label: "Durability", type: "number" },
+      { key: "weight", label: "Weight", type: "number" },
+    ]}
+    rows={rows as any}
+  />
+</Base>

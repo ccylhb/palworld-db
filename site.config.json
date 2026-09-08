@@ -1,0 +1,30 @@
+{
+  "siteName": "PalworldDB",
+  "siteUrl": "https://palworld-wiki-db.pages.dev",
+  "tagline": "Palworld database — Pal stats, breeding combos & weapon power",
+  "description": "Palworld Pal stats, work suitability, drops and breeding combos, weapon and armour stats — a searchable database with rankings and a breeding calculator.",
+  "adsenseClientId": "ca-pub-3245910354455258",
+  "adsensePublisherId": "pub-3245910354455258",
+  "theme": {
+    "bg": "#0b1220",
+    "bgSoft": "#111a2b",
+    "card": "#16223a",
+    "border": "#26344f",
+    "text": "#eaf1fa",
+    "muted": "#94a6c0",
+    "accent": "#2eb6ff",
+    "accent2": "#f2b23e",
+    "good": "#7bd88f",
+    "bad": "#f26d6d"
+  },
+  "favicon": "🐑",
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Pals", "href": "/pals/", "tool": true },
+    { "label": "Weapons", "href": "/weapons/" },
+    { "label": "Armor", "href": "/armor/" },
+    { "label": "Rankings", "href": "/rankings/", "tool": true },
+    { "label": "Breeding Calculator", "href": "/breeding-calculator/", "tool": true }
+  ],
+  "footerNote": "Fan-made database. Palworld is a trademark of Pocketpair. Not affiliated with the game developer or Palworld Wiki."
+}

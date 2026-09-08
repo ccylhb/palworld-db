@@ -1,0 +1,78 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import armor from "../../data/palworld_armor.json";
+
+export function getStaticPaths() {
+  return armor.map((a: any) => ({ params: { slug: a.slug }, props: { piece: a } }));
+}
+
+const { piece } = Astro.props;
+const all = armor as any[];
+const QUAL_ORDER = ["Common", "Uncommon", "Rare", "Epic", "Legendary"];
+const quals = QUAL_ORDER.filter((q) => piece.qualities?.[q]).map((q) => [q, piece.qualities[q]]);
+
+const sameSlot = all
+  .filter((a: any) => a.slug !== piece.slug && a.subtype === piece.subtype)
+  .sort((a: any, b: any) => (b.top_defense ?? 0) - (a.top_defense ?? 0))
+  .slice(0, 6);
+---
+
+<Base
+  title={`${piece.title} — Palworld Armor Stats (All Quality Tiers)`}
+  description={`${piece.title} in Palworld: ${piece.subtype || "armour"}, best defense ${piece.top_defense ?? "?"}, durability ${piece.top_durability ?? "?"}${piece.qualities?.[Object.keys(piece.qualities||{})[0]]?.equip_effect ? ", equip effect" : ""}.`}
+>
+  <div class="icon-h1">
+    {piece.icon && <img src={piece.icon} alt={piece.title} loading="lazy" />}
+    <h1>{piece.title}</h1>
+  </div>
+  <p class="muted">
+    {piece.subtype || "Armor"}
+    {piece.rarity && ` · ${piece.rarity}`}
+    {piece.weight && ` · weight ${piece.weight}`}
+    {piece.technology && ` · tech: ${piece.technology}`}
+  </p>
+
+  <div class="card answer-card" style="margin:1rem 0">
+    <div class="stat-row">
+      <div><div class="stat-num">{piece.top_defense ?? "—"}</div><div class="stat-label">Defense (best tier)</div></div>
+      <div><div class="stat-num">{piece.top_durability ?? "—"}</div><div class="stat-label">Durability</div></div>
+      {quals[0] && (quals[0][1] as any).health && <div><div class="stat-num">{(quals[0][1] as any).health}</div><div class="stat-label">Bonus HP ({quals[0][0]})</div></div>}
+    </div>
+    {quals[0] && (quals[0][1] as any).equip_effect && (
+      <p style="margin:0.8rem 0 0"><strong>Equip effect:</strong> {(quals[0][1] as any).equip_effect}</p>
+    )}
+    {piece.description && <p class="muted" style="margin:0.8rem 0 0;font-size:0.92rem">{piece.description}</p>}
+  </div>
+
+  <section>
+    <h2>Stats by quality tier</h2>
+    <table>
+      <thead><tr><th>Quality</th><th>Defense</th><th>Health</th><th>Durability</th><th>Sell</th></tr></thead>
+      <tbody>
+        {quals.map(([q, d]: any) => (
+          <tr>
+            <td><strong>{q}</strong></td>
+            <td>{d.defense ?? "—"}</td>
+            <td>{d.health ?? "—"}</td>
+            <td>{d.durability ?? "—"}</td>
+            <td>{d.sell ?? "—"}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    {quals.length > 1 && quals.map(([q, d]: any) => d.equip_effect && (
+      <p class="muted" style="margin:0.4rem 0 0;font-size:0.88rem">{q}: {d.equip_effect}</p>
+    ))}
+  </section>
+
+  {piece.intro && <section><h2>About</h2><p>{piece.intro}</p></section>}
+
+  <Related
+    links={[
+      ...sameSlot.map((a: any) => ({ href: `/armor/${a.slug}/`, title: a.title, sub: `${a.subtype || "armour"} · DEF ${a.top_defense ?? "?"}`, icon: a.icon })),
+      { href: "/rankings/#armor", title: "Armor Rankings", sub: "All armour by defense", tool: true },
+      { href: "/pals/", title: "Browse Pals", sub: "Pal stats, drops and breeding" },
+    ]}
+  />
+</Base>

@@ -1,0 +1,47 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import weapons from "../../data/palworld_weapons.json";
+
+const rows = weapons
+  .map((w: any) => ({
+    weapon: `<img src="${w.icon || ""}" alt="" loading="lazy" style="width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-right:0.4rem" onerror="this.remove()"/><a href="/weapons/${w.slug}/">${w.title}</a>`,
+    subtype: w.subtype || "—",
+    attack: w.top_attack ?? "",
+    durability: w.top_durability ?? "",
+    weight: w.weight ?? "",
+    _atk: w.top_attack ?? -1,
+  }))
+  .sort((a: any, b: any) => b._atk - a._atk);
+
+const bySub = weapons.reduce((acc: Record<string, number>, w: any) => {
+  const s = w.subtype || "Other";
+  acc[s] = (acc[s] || 0) + 1;
+  return acc;
+}, {});
+---
+
+<Base
+  title={`All ${weapons.length} Palworld Weapons — Attack Power & Durability`}
+  description={`Every Palworld weapon sorted by attack power: melee, ranged, shields and tools with durability, ammo and crafting ingredients. ${weapons.length} entries.`}
+>
+  <h1>Weapons</h1>
+  <p class="muted">
+    {weapons.length} weapons — attack values are the best quality tier available.
+    Sort any column, search by type.
+    Types: {Object.entries(bySub).sort((a, b) => b[1] - a[1]).slice(0, 8).map(([s, n]) => <span class="tag" style="margin:0.1rem">{s} {n}</span>)}
+  </p>
+
+  <DataTable
+    id="weapons"
+    searchPlaceholder="Search weapon or type… e.g. bow"
+    columns={[
+      { key: "weapon", label: "Weapon" },
+      { key: "subtype", label: "Type" },
+      { key: "attack", label: "Attack (best)", type: "number" },
+      { key: "durability", label: "Durability", type: "number" },
+      { key: "weight", label: "Weight", type: "number" },
+    ]}
+    rows={rows as any}
+  />
+</Base>

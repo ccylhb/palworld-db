@@ -1,0 +1,85 @@
+---
+import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import weapons from "../../data/palworld_weapons.json";
+import armor from "../../data/palworld_armor.json";
+
+export function getStaticPaths() {
+  return weapons.map((w: any) => ({ params: { slug: w.slug }, props: { weapon: w } }));
+}
+
+const { weapon } = Astro.props;
+const all = weapons as any[];
+const QUAL_ORDER = ["Common", "Uncommon", "Rare", "Epic", "Legendary"];
+const quals = QUAL_ORDER.filter((q) => weapon.qualities?.[q]).map((q) => [q, weapon.qualities[q]]);
+
+const sameType = all
+  .filter((w: any) => w.slug !== weapon.slug && w.subtype === weapon.subtype)
+  .sort((a: any, b: any) => (b.top_attack ?? 0) - (a.top_attack ?? 0))
+  .slice(0, 6);
+---
+
+<Base
+  title={`${weapon.title} — Palworld Weapon Stats (All Quality Tiers)`}
+  description={`${weapon.title} in Palworld: ${weapon.subtype || "weapon"}, best attack ${weapon.top_attack ?? "?"}, durability ${weapon.top_durability ?? "?"}${weapon.ingredients?.length ? ", crafting ingredients" : ""}.`}
+>
+  <div class="icon-h1">
+    {weapon.icon && <img src={weapon.icon} alt={weapon.title} loading="lazy" />}
+    <h1>{weapon.title}</h1>
+  </div>
+  <p class="muted">
+    {weapon.subtype || "Weapon"}
+    {weapon.rarity && ` · ${weapon.rarity}`}
+    {weapon.weight && ` · weight ${weapon.weight}`}
+    {weapon.technology && ` · tech: ${weapon.technology}`}
+  </p>
+
+  <div class="card answer-card" style="margin:1rem 0">
+    <div class="stat-row">
+      <div><div class="stat-num">{weapon.top_attack ?? "—"}</div><div class="stat-label">Attack (best tier)</div></div>
+      <div><div class="stat-num">{weapon.top_durability ?? "—"}</div><div class="stat-label">Durability</div></div>
+      {weapon.qualities?.Legendary?.attack && <div><div class="stat-num">{weapon.qualities.Legendary.attack}</div><div class="stat-label">Legendary ATK</div></div>}
+    </div>
+    {weapon.description && <p class="muted" style="margin:0.8rem 0 0;font-size:0.92rem">{weapon.description}</p>}
+  </div>
+
+  <section>
+    <h2>Stats by quality tier</h2>
+    <table>
+      <thead><tr><th>Quality</th><th>Attack</th><th>Durability</th><th>Magazine</th><th>Sell</th></tr></thead>
+      <tbody>
+        {quals.map(([q, d]: any) => (
+          <tr>
+            <td><strong>{q}</strong></td>
+            <td>{d.attack ?? "—"}</td>
+            <td>{d.durability ?? "—"}</td>
+            <td>{d.magazine ?? "—"}</td>
+            <td>{d.sell ?? "—"}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    {weapon.ammo?.length > 0 && <p class="muted" style="margin-top:0.5rem">Ammo: {weapon.ammo.join(", ")}</p>}
+  </section>
+
+  {weapon.ingredients?.length > 0 && (
+    <section>
+      <h2>Crafting</h2>
+      <p>
+        {weapon.ingredients.map((ing: any, i: number) => (
+          <span class="tag" style="margin:0.15rem;font-size:0.9rem">{ing.name}{ing.count ? ` ×${ing.count}` : ""}</span>
+        ))}
+      </p>
+    </section>
+  )}
+
+  {weapon.intro && <section><h2>About</h2><p>{weapon.intro}</p></section>}
+
+  <Related
+    links={[
+      ...sameType.map((w: any) => ({ href: `/weapons/${w.slug}/`, title: w.title, sub: `${w.subtype || "weapon"} · ATK ${w.top_attack ?? "?"}`, icon: w.icon })),
+      { href: "/rankings/#weapons", title: "Weapon Rankings", sub: "All weapons by attack", tool: true },
+      { href: "/armor/", title: "Browse Armor", sub: `${armor.length} pieces with defense stats` },
+    ]}
+  />
+</Base>

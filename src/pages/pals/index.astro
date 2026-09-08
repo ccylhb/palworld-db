@@ -1,0 +1,58 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import pals from "../../data/palworld_pals.json";
+
+const rows = pals
+  .map((p: any) => {
+    const noNum = parseFloat(String(p.no ?? "9999")) || 9999;
+    const ws = (p.work_suitability || [])
+      .map((w: any) => `${w.name} ${w.level ?? ""}`)
+      .join(", ");
+    return {
+      no: p.no || "—",
+      pal: `<img src="${p.icon || ""}" alt="" loading="lazy" style="width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-right:0.4rem" onerror="this.remove()"/><a href="/pals/${p.slug}/">${p.title}</a>`,
+      elements: (p.elements || []).join(" / ") || "—",
+      hp: p.hp ?? "",
+      attack: p.attack ?? "",
+      defense: p.defense ?? "",
+      work: ws || "—",
+      rank: p.breeding?.rank ?? "",
+      noNum,
+    };
+  })
+  .sort((a: any, b: any) => a.noNum - b.noNum);
+
+const byElement = pals.reduce((acc: Record<string, number>, p: any) => {
+  for (const e of p.elements || []) acc[e] = (acc[e] || 0) + 1;
+  return acc;
+}, {});
+---
+
+<Base
+  title={`All ${pals.length} Pals — Palworld Pal Database with Stats & Drops`}
+  description={`Every Palworld Pal: elements, base HP, attack and defense, work suitability levels, active skills, drops and breeding rank. ${pals.length} entries.`}
+>
+  <h1>Pals</h1>
+  <p class="muted">
+    {pals.length} Pals — every stat on the row. Sort any column; search by name or element.
+    Elements:
+    {Object.entries(byElement).sort((a, b) => b[1] - a[1]).map(([e, n]) => <span class="tag" style="margin:0.1rem">{e} {n}</span>)}
+  </p>
+
+  <DataTable
+    id="pals"
+    searchPlaceholder="Search pal, element, work skill… e.g. kindling"
+    columns={[
+      { key: "no", label: "No." },
+      { key: "pal", label: "Pal" },
+      { key: "elements", label: "Element" },
+      { key: "hp", label: "HP", type: "number" },
+      { key: "attack", label: "Attack", type: "number" },
+      { key: "defense", label: "Defense", type: "number" },
+      { key: "work", label: "Work suitability" },
+      { key: "rank", label: "Breed rank", type: "number" },
+    ]}
+    rows={rows as any}
+  />
+</Base>

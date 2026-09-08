@@ -1,0 +1,93 @@
+---
+import Base from "../layouts/Base.astro";
+import DataTable from "../components/DataTable.astro";
+import pals from "../data/palworld_pals.json";
+import weapons from "../data/palworld_weapons.json";
+import armor from "../data/palworld_armor.json";
+
+const byAttack = [...pals].sort((a: any, b: any) => (b.attack ?? 0) - (a.attack ?? 0)).slice(0, 20);
+const byHp = [...pals].sort((a: any, b: any) => (b.hp ?? 0) - (a.hp ?? 0)).slice(0, 20);
+const WORK_NAMES = ["Kindling", "Watering", "Planting", "Electricity", "Handiwork", "Gathering", "Lumbering", "Mining", "Medicine Production", "Farming", "Transporting", "Funning"];
+// best worker per level: single table sorted by total work levels, showing top skills
+const workPals = [...pals]
+  .map((p: any) => ({
+    ...p,
+    _total: (p.work_suitability || []).reduce((s: number, w: any) => s + (w.level || 0), 0),
+  }))
+  .filter((p: any) => p._total > 0)
+  .sort((a: any, b: any) => b._total - a._total)
+  .slice(0, 25);
+const weaponsByPower = [...weapons].sort((a: any, b: any) => (b.top_attack ?? 0) - (a.top_attack ?? 0)).slice(0, 20);
+const armorByDef = [...armor].sort((a: any, b: any) => (b.top_defense ?? 0) - (a.top_defense ?? 0)).slice(0, 20);
+---
+
+<Base
+  title="Palworld Rankings — Strongest Pals, Best Weapons & Armor"
+  description="Palworld leaderboards: the strongest Pals by attack and HP, the best work suitability Pals, highest attack weapons and highest defense armour."
+>
+  <h1>Rankings</h1>
+  <p class="muted">The numbers sorted — no wiki digging.</p>
+
+  <h2 id="pals">Strongest Pals by base attack</h2>
+  <DataTable
+    id="rk-atk"
+    head={["#", "Pal", "Element", "ATK", "HP", "DEF"]}
+    rows={byAttack.map((p: any, i: number) => [
+      `#${i + 1}`,
+      `<a href="/pals/${p.slug}/">${p.title}</a>`,
+      (p.elements || []).join(" / "),
+      `<strong>${p.attack}</strong>`,
+      p.hp ?? "—",
+      p.defense ?? "—",
+    ])}
+  />
+
+  <h2 id="hp">Highest HP Pals</h2>
+  <DataTable
+    id="rk-hp"
+    head={["#", "Pal", "Element", "HP", "DEF"]}
+    rows={byHp.map((p: any, i: number) => [
+      `#${i + 1}`,
+      `<a href="/pals/${p.slug}/">${p.title}</a>`,
+      (p.elements || []).join(" / "),
+      `<strong>${p.hp}</strong>`,
+      p.defense ?? "—",
+    ])}
+  />
+
+  <h2 id="work">Best work pals (total work levels)</h2>
+  <DataTable
+    id="rk-work"
+    head={["#", "Pal", "Total lv", "Work skills"]}
+    rows={workPals.map((p: any, i: number) => [
+      `#${i + 1}`,
+      `<a href="/pals/${p.slug}/">${p.title}</a>`,
+      `<strong>${p._total}</strong>`,
+      (p.work_suitability || []).map((w: any) => `${w.name} ${w.level ?? ""}`).join(", "),
+    ])}
+  />
+
+  <h2 id="weapons">Highest attack weapons</h2>
+  <DataTable
+    id="rk-weapons"
+    head={["#", "Weapon", "Type", "ATK (best)"]}
+    rows={weaponsByPower.map((w: any, i: number) => [
+      `#${i + 1}`,
+      `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+      w.subtype || "—",
+      `<strong>${w.top_attack}</strong>`,
+    ])}
+  />
+
+  <h2 id="armor">Highest defense armor</h2>
+  <DataTable
+    id="rk-armor"
+    head={["#", "Armor", "Slot", "DEF (best)"]}
+    rows={armorByDef.map((a: any, i: number) => [
+      `#${i + 1}`,
+      `<a href="/armor/${a.slug}/">${a.title}</a>`,
+      a.subtype || "—",
+      `<strong>${a.top_defense}</strong>`,
+    ])}
+  />
+</Base>
