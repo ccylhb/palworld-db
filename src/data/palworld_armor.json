@@ -8,7 +8,7 @@
    "Advanced Shield icon.png",
    "Advanced Shield.png"
   ],
-  "intro": "}}",
+  "intro": "Advanced Shield is a Shield item which can be crafted and equipped by the Player. It grants 1,800 Shield while equipped and has 21,000 durability. It's an upgrade from the Ultra Shield and is superseded by the Ancient Shield. Equipping the shield in the inventory will charge up the shield. While charged, the shield will absorb any attacks at the cost of some of its charge. It does not absorb fall damage and starvation damage. When the player is not attacked for [25 seconds?], the shield recharges itself automatically.",
   "description": "Strange shield made with advanced technology. It automatically repairs itself after not taking damage for a while.",
   "item_type": "Armor",
   "subtype": "Shield",
@@ -45,8 +45,7 @@
     "name": "Ancient Civilization Core",
     "count": 30
    }
-  ],
-  "icon": "/icons/advanced_shield.png"
+  ]
  },
  {
   "title": "Axel Hat",
@@ -57,7 +56,7 @@
    "Axel Hat icon.png",
    "Axel Hat.png"
   ],
-  "intro": "* Beat Axel and Orserk on Hard Difficulty.",
+  "intro": "Axel Hat is a cosmetic armor headpiece. It provides 20 defense and 60 health, and has 5000 durability.",
   "description": "Dress up like Axel using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -75,8 +74,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/axel_hat.png"
+  "ingredients": []
  },
  {
   "title": "Bjorn Hat",
@@ -87,7 +85,7 @@
    "Bjorn Hat icon.png",
    "Bjorn Hat.png"
   ],
-  "intro": "}}",
+  "intro": "Bjorn Hat is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Dress up like Bjorn using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -110,8 +108,7 @@
     "name": "Cloth",
     "count": 1
    }
-  ],
-  "icon": "/icons/bjorn_hat.png"
+  ]
  },
  {
   "title": "Bowler Hat",
@@ -122,7 +119,7 @@
    "Bowler Hat icon.png",
    "Bowler Hat.png"
   ],
-  "intro": "}}",
+  "intro": "The Bowler Hat is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Bowler Hat Schematic 1 through the Wandering Merchant. It provides 20 defense and 60 health, and has 300 durability. It also grants Neutral Damage Reduction Lv. 1.",
   "description": "A tough, round hat. It was sold with the guarantee that it wouldn't break even if a Mammorest stepped on it.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -146,8 +143,7 @@
     "name": "Cloth",
     "count": null
    }
-  ],
-  "icon": "/icons/bowler_hat.png"
+  ]
  },
  {
   "title": "Cattiva Hat",
@@ -158,7 +154,7 @@
    "Cattiva Hat icon.png",
    "Cattiva Hat.png"
   ],
-  "intro": "}}",
+  "intro": "Cattiva Hat is an armor headpiece equipped in the Head slot. It is currently only available as a Common-quality item.",
   "description": "Hat shaped like a Cattiva.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -177,8 +173,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/cattiva_hat.png"
+  "ingredients": []
  },
  {
   "title": "Cawgnito Hat",
@@ -189,7 +184,7 @@
    "Cawgnito Hat icon.png",
    "Cawgnito Hat.png"
   ],
-  "intro": "}}",
+  "intro": "Cawgnito Hat is an armor headpiece equipped in the Head slot. It is currently only available as a Common-quality item.",
   "description": "Hat shaped like a Cawgnito.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -208,8 +203,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/cawgnito_hat.png"
+  "ingredients": []
  },
  {
   "title": "Cloth Hat",
@@ -220,7 +214,7 @@
    "Cloth Hat icon.png",
    "Cloth Hat.png"
   ],
-  "intro": "}}",
+  "intro": "Cloth Hat currently has no use in Palworld and is unobtainable.",
   "description": "Cloth Hat",
   "item_type": "Armor",
   "subtype": "",
@@ -238,8 +232,7 @@
   },
   "top_defense": 5.0,
   "top_durability": 150.0,
-  "ingredients": [],
-  "icon": "/icons/cloth_hat.png"
+  "ingredients": []
  },
  {
   "title": "Cloth Outfit",
@@ -250,7 +243,7 @@
    "Cloth Outfit icon.png",
    "Cloth Outfit.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The Cloth Outfit is an armor piece in Palworld. The Cloth Outfit is an early-game piece of body armor that provides minimal protection as well as Lvl 1 Cold Resistance. While it isn't the best armor for combat, its innate cold protection helps keep the user warm during the cold nights in places like the Windswept Hills. However, it should not be used in especially cold places like the Frostbound Mountains.",
   "description": "Clothes made from Cloth. Protects against cold nights.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -302,8 +295,7 @@
     "name": "Cloth",
     "count": 2
    }
-  ],
-  "icon": "/icons/cloth_outfit.png"
+  ]
  },
  {
   "title": "Cold Resistant Hexolite Armor",
@@ -314,7 +306,7 @@
    "Cold Resistant Hexolite Armor icon.png",
    "Cold Resistant Hexolite Armor.png"
   ],
-  "intro": "}}",
+  "intro": "Cold Resistant Hexolite Armor is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Improved Hexolite Armor. Useful for surviving in cold climates.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -378,8 +370,7 @@
     "name": "Ice Organ",
     "count": 30
    }
-  ],
-  "icon": "/icons/cold_resistant_hexolite_armor.png"
+  ]
  },
  {
   "title": "Cold Resistant Metal Armor",
@@ -390,7 +381,7 @@
    "Cold Resistant Metal Armor icon.png",
    "Cold Resistant Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Cold Resistant Metal Armor is an armor the player can use, designed to provide heavy protection with an emphasis on cold resistance. Armor is worn to improve survivability in combat and exploration, offering increased defense, additional health, and resistance to environmental hazards. As an upgrade to the Cold Resistant Pelt Armor, Cold Resistant Metal Armor significantly improves defense and durability while enhancing cold resistance to Level 2. It also retains Heat Resistant Lv. 1, making it suitable for a wide range of environments while excelling in colder regions. Most armor is unlocked ",
   "description": "Improved Metal Armor. Useful for activities in cold regions.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -454,8 +445,7 @@
     "name": "Ice Organ",
     "count": 8
    }
-  ],
-  "icon": "/icons/cold_resistant_metal_armor.png"
+  ]
  },
  {
   "title": "Cold Resistant Pal Metal Armor",
@@ -466,7 +456,7 @@
    "Cold Resistant Pal Metal Armor icon.png",
    "Cold Resistant Pal Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Cold Resistant Pal Metal Armor is an armor the player can use, built for the harshest cold environments while retaining baseline heat protection. Armor is worn to improve survivability by increasing defense, health, and resistance to environmental hazards. As an upgrade to the Cold Resistant Refined Metal Armor, Cold Resistant Pal Metal Armor represents the pinnacle of cold-focused heavy armor. Its immense weight reflects its reinforced construction, trading mobility for extreme durability and protection while maintaining Cold Resistant Lv. 2 and Heat Resistant Lv. 1. Most armor is unlocked th",
   "description": "Improved Pal Metal Armor. Useful for activities in cold regions.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -530,8 +520,7 @@
     "name": "Ice Organ",
     "count": 16
    }
-  ],
-  "icon": "/icons/cold_resistant_pal_metal_armor.png"
+  ]
  },
  {
   "title": "Cold Resistant Pelt Armor",
@@ -542,7 +531,7 @@
    "Cold Resistant Pelt Armor icon.png",
    "Cold Resistant Pelt Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Cold Resistant Pelt Armor is an armor the player can use, designed to provide increased protection in freezing environments. Armor is worn to improve survivability by increasing defense, health, and resistance to environmental hazards. As an upgrade to the Tundra Outfit, Cold Resistant Pelt Armor offers improved defense and durability while granting Cold Resistant Lv. 2. This makes it well suited for exploration and combat in cold regions, where prolonged exposure to freezing temperatures would otherwise pose a threat. Most armor is unlocked through Technology and crafted at a workbench or spe",
   "description": "A Pelt Armor produced in cold regions. Can withstand freezing cold temperatures.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -598,8 +587,7 @@
     "name": "Ice Organ",
     "count": 4
    }
-  ],
-  "icon": "/icons/cold_resistant_pelt_armor.png"
+  ]
  },
  {
   "title": "Cold Resistant Plasteel Armor",
@@ -610,8 +598,8 @@
    "Cold Resistant Plasteel Armor icon.png",
    "Cold Resistant Plasteel Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "An advanced variant of designed for extreme cold. This armor offers exceptional protection while providing superior resistance to freezing environments.",
+  "intro": "Cold Resistant Plasteel Armor is an armor the player can use. As an upgrade to Cold Resistant Pal Metal Armor, it provides the highest overall protection available for cold climates while retaining limited heat resistance.",
+  "description": "An advanced variant of Plasteel Armor designed for extreme cold. This armor offers exceptional protection while providing superior resistance to freezing environments.",
   "item_type": "Armor",
   "subtype": "Body Armor",
   "rarity": "",
@@ -669,8 +657,7 @@
     "name": "Ice Organ",
     "count": 20
    }
-  ],
-  "icon": "/icons/cold_resistant_plasteel_armor.png"
+  ]
  },
  {
   "title": "Cold Resistant Refined Metal Armor",
@@ -681,7 +668,7 @@
    "Cold Resistant Refined Metal Armor icon.png",
    "Cold Resistant Refined Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Cold Resistant Refined Metal Armor is an armor the player can use, designed for late-game exploration in cold environments while maintaining baseline heat protection. Armor is worn to improve survivability by increasing defense, health, and resistance to environmental hazards. As an upgrade to the Cold Resistant Metal Armor, Cold Resistant Refined Metal Armor significantly enhances defensive performance while increasing Cold Resistance to Lv. 2. Its heavy construction prioritizes durability and protection over mobility, making it well suited for harsh climates and difficult combat encounters. ",
   "description": "Improved Refined Metal Armor. Useful for activities in cold regions.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -745,8 +732,7 @@
     "name": "Ice Organ",
     "count": 12
    }
-  ],
-  "icon": "/icons/cold_resistant_refined_metal_armor.png"
+  ]
  },
  {
   "title": "Common Shield",
@@ -757,7 +743,7 @@
    "Common Shield icon.png",
    "Common Shield.png"
   ],
-  "intro": "Equipping the shield in the inventory will charge up the shield. While charged, the shield will absorb any attacks at the cost of some of its charge. It does not absorb fall damage and starvation damage. When the player is not attacked for 25 seconds, the shield recharges itself automatically.",
+  "intro": "Common Shield is a Shield item which can be crafted and equipped by the Player. It grants 100 Shield while equipped and has 1,000 durability. It is superseded by the Mega Shield.",
   "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while.",
   "item_type": "Armor",
   "subtype": "Shield",
@@ -790,8 +776,7 @@
     "name": "Fiber",
     "count": 10
    }
-  ],
-  "icon": "/icons/common_shield.png"
+  ]
  },
  {
   "title": "Crown of Salvation",
@@ -802,7 +787,7 @@
    "Crown of Salvation icon.png",
    "Crown of Salvation.png"
   ],
-  "intro": "}}",
+  "intro": "Crown of Salvation is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Imbued with the ominous power of Hartalis (Ultra). Extremely difficult to obtain.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -826,8 +811,7 @@
     "name": "Ingot",
     "count": 1
    }
-  ],
-  "icon": "/icons/crown_of_salvation.png"
+  ]
  },
  {
   "title": "Dazzi Hat",
@@ -838,7 +822,7 @@
    "Dazzi Hat icon.png",
    "Dazzi Hat.png"
   ],
-  "intro": "Requires Dazzi Hat Schematic 1, which can be purchased for 500 gold from the (Green Coat) Wandering Merchant in Fisherman's Point.",
+  "intro": "Dazzi Hat is an armor headpiece equipped in the Head slot. It provides 20 defense, 60 health, and grants Electric Damage Reduction Lv. 1.",
   "description": "Hat shaped like a Dazzi.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -862,8 +846,7 @@
     "name": "Dazzi Cloud",
     "count": 5
    }
-  ],
-  "icon": "/icons/dazzi_hat.png"
+  ]
  },
  {
   "title": "Depresso Armor",
@@ -874,7 +857,7 @@
    "Depresso Armor icon.png",
    "Depresso Armor.png"
   ],
-  "intro": "}}",
+  "intro": "Depresso Armor is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "A costume bodypiece modeled after Depresso.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -902,8 +885,7 @@
     "name": "Venom Gland",
     "count": 75
    }
-  ],
-  "icon": "/icons/depresso_armor.png"
+  ]
  },
  {
   "title": "Depresso Helmet",
@@ -914,7 +896,7 @@
    "Depresso Helmet icon.png",
    "Depresso Helmet.png"
   ],
-  "intro": "}}",
+  "intro": "Depresso Helmet is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "A costume headpiece modeled after Depresso. Slightly decreases incoming Dark damage.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -942,8 +924,7 @@
     "name": "Venom Gland",
     "count": 25
    }
-  ],
-  "icon": "/icons/depresso_helmet.png"
+  ]
  },
  {
   "title": "Dumud Helm",
@@ -954,7 +935,7 @@
    "Dumud Helm icon.png",
    "Dumud Helm.png"
   ],
-  "intro": "}}",
+  "intro": "Dumud Helm is an armor headpiece for the Head slot. It provides 20 defense and 60 health, and has 300 durability. It also grants Earth Damage Reduction Lv. 1.",
   "description": "Helm shaped like a Dumud.",
   "item_type": "Armor",
   "subtype": "",
@@ -973,8 +954,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/dumud_helm.png"
+  "ingredients": []
  },
  {
   "title": "Explorer Cap",
@@ -985,7 +965,7 @@
    "Explorer Cap icon.png",
    "Explorer Cap.png"
   ],
-  "intro": "}}",
+  "intro": "Explorer Cap is an armor headpiece for the Head slot. It provides 25 defense and 70 health, and has 270 durability. It also grants Heat Resistant Lv. 1.",
   "description": "A cap for explorers. It protects from the bright rays of the sun.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1017,8 +997,7 @@
     "name": "Ingot",
     "count": 2
    }
-  ],
-  "icon": "/icons/explorer_cap.png"
+  ]
  },
  {
   "title": "Eye of Cthulhu Mask",
@@ -1029,7 +1008,7 @@
    "Eye of Cthulhu Mask icon.png",
    "Eye of Cthulhu Mask.png"
   ],
-  "intro": "}}",
+  "intro": "The Eye of Cthulhu Mask is a helmet in Palworld. The Eye of Cthulhu Mask is a rare helmet obtained from the Eye of Cthulhu. It has very high defensive stats, the same amount as a common-tier Hexolite Helmet. These high stats, combined with its high durability and only needing Hallowed Bar to be repaired, make it a very good armor choice despite its rarity. The Eye of Cthulhu Mask is a part of the Palworld-Terraria crossover.",
   "description": "[Tides of Terraria] Pulsing with Eye of Cthulhu's sinister energy. A rarity only the most fortunate may obtain.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1052,8 +1031,7 @@
     "name": "Hallowed Bar",
     "count": 1
    }
-  ],
-  "icon": "/icons/eye_of_cthulhu_mask.png"
+  ]
  },
  {
   "title": "Farming Hat",
@@ -1064,7 +1042,7 @@
    "Farming Hat icon.png",
    "Farming Hat.png"
   ],
-  "intro": "}}",
+  "intro": "The Farming Hat is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Farming Hat Schematic 1 through the Wandering Merchant. It provides 10 defense and 30 health, and has 270 durability. It also grants Heat Resistant Lv. 1.",
   "description": "A hat for working in the fields. It protects from the bright rays of the sun.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1092,8 +1070,7 @@
     "name": "Wood",
     "count": 10
    }
-  ],
-  "icon": "/icons/farming_hat.png"
+  ]
  },
  {
   "title": "Feathered Hair Band",
@@ -1104,7 +1081,7 @@
    "Feathered Hair Band icon.png",
    "Feathered Hair Band.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Feathered Hair Band is an armor the player can use, designed to provide basic head protection early in progression. Armor is worn to improve survivability by increasing defense, health, or resistance to damage, with different pieces offering varying levels of protection depending on their tier and materials. As a beginner helmet, the Feathered Hair Band provides minimal defense and durability compared to more advanced head armor. However, its low resource cost makes it easy to craft, repair, or replace if lost, making it a practical option when first unlocking armor through Technology. Most ar",
   "description": "A beautiful feathered headband. Though improbable, it somehow seems to protect its wearer from lethal head injuries.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -1155,8 +1132,7 @@
     "name": "Paldium Fragment",
     "count": 5
    }
-  ],
-  "icon": "/icons/feathered_hair_band.png"
+  ]
  },
  {
   "title": "Giga Shield",
@@ -1167,7 +1143,7 @@
    "Giga Shield icon.png",
    "Giga Shield.png"
   ],
-  "intro": "Equipping the shield charges it. While charged, the shield absorbs incoming attacks at the cost of shield charge. It does not absorb fall damage or starvation damage. If the player avoids taking damage for a short period, the shield automatically begins recharging.",
+  "intro": "Giga Shield is a Shield item that can be crafted and equipped by the player. While equipped, it grants 540 shield and has 2,250 durability. It is an upgrade from the Mega Shield and is superseded by the Hyper Shield.",
   "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. Modifications have enhanced its effectiveness even further.",
   "item_type": "Armor",
   "subtype": "Shield",
@@ -1196,8 +1172,7 @@
     "name": "Ingot",
     "count": 20
    }
-  ],
-  "icon": "/icons/giga_shield.png"
+  ]
  },
  {
   "title": "Golden Crown",
@@ -1208,7 +1183,7 @@
    "Golden Crown icon.png",
    "Golden Crown.png"
   ],
-  "intro": "}}",
+  "intro": "Golden Crown is an armor headpiece for the Head slot. It provides 30 defense and 80 health, and has 450 durability. It also grants Ice Damage Reduction Lv. 1.",
   "description": "A rare golden crown. Just wearing it makes you feel like royalty.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1232,8 +1207,7 @@
     "name": "Ingot",
     "count": 25
    }
-  ],
-  "icon": "/icons/golden_crown.png"
+  ]
  },
  {
   "title": "Graduation Cap",
@@ -1244,7 +1218,7 @@
    "Graduation Cap icon.png",
    "Graduation Cap.png"
   ],
-  "intro": "}}",
+  "intro": "Graduation Cap is an armor headpiece for the Head slot. It provides 30 defense and 80 health, and has 300 durability. It also grants Speedy Worker Lv. 1.",
   "description": "A cap that makes its wearer feel smarter. Was there once a school on this island?",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1272,8 +1246,7 @@
     "name": "Fiber",
     "count": 10
    }
-  ],
-  "icon": "/icons/graduation_cap.png"
+  ]
  },
  {
   "title": "Grinning Tocotoco Cap",
@@ -1284,7 +1257,7 @@
    "Grinning Tocotoco Cap icon.png",
    "Grinning Tocotoco Cap.png"
   ],
-  "intro": "}}",
+  "intro": "The Grinning Tocotoco Cap is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Grinning Tocotoco Cap Schematic 1 through the Wandering Merchant. It provides 20 defense and 60 health, and has 300 durability. It also grants Neutral Damage Reduction Lv. 1.",
   "description": "Cap shaped like a Tocotoco. It makes those who wear it smile uncontrollably.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1308,8 +1281,7 @@
     "name": "Tocotoco Feather",
     "count": 5
    }
-  ],
-  "icon": "/icons/grinning_tocotoco_cap.png"
+  ]
  },
  {
   "title": "Gumoss Cap",
@@ -1320,7 +1292,7 @@
    "Gumoss Cap icon.png",
    "Gumoss Cap.png"
   ],
-  "intro": "}}",
+  "intro": "Gumoss Cap is an armor headpiece for the Head slot. It provides 20 defense and 60 health, and has 300 durability. It also grants Grass Damage Reduction Lv. 1.",
   "description": "Cap shaped like a Gumoss.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -1344,8 +1316,7 @@
     "name": "Gumoss Leaf",
     "count": 5
    }
-  ],
-  "icon": "/icons/gumoss_cap.png"
+  ]
  },
  {
   "title": "Hallowed Headgear",
@@ -1356,7 +1327,7 @@
    "Hallowed Headgear icon.png",
    "Hallowed Headgear.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The Hallowed Headgear is an armor piece in Palworld. The Hallowed Headgear is a helmet that can be obtained obtained from chests in the Sealed Realm of Terraria. It offers slightly less protection than a Pal Metal Helm and has less Durability, though it only requires Hallowed Bar to be crafted and repaired, making it far more resource-efficient. Additionally, the Hallowed Headgear increases the damage of the Nightglow. The Hallowed Headgear is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Nightglow.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -1408,8 +1379,7 @@
     "name": "Hallowed Bar",
     "count": 20
    }
-  ],
-  "icon": "/icons/hallowed_headgear.png"
+  ]
  },
  {
   "title": "Hallowed Helmet",
@@ -1420,7 +1390,7 @@
    "Hallowed Helmet icon.png",
    "Hallowed Helmet.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The Hallowed Helmet is an armor piece in Palworld. The Hallowed Helmet is a helmet that can be obtained obtained from chests in the Sealed Realm of Terraria. It offers slightly less protection than a Pal Metal Helm and has less Durability, though it only requires Hallowed Bar to be crafted and repaired, making it far more resource-efficient. Additionally, the Hallowed Helmet increases the damage of the Vortex Beater. The Hallowed Helmet is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Vortex Beater.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -1472,8 +1442,7 @@
     "name": "Hallowed Bar",
     "count": 20
    }
-  ],
-  "icon": "/icons/hallowed_helmet.png"
+  ]
  },
  {
   "title": "Hallowed Hood",
@@ -1484,7 +1453,7 @@
    "Hallowed Hood icon.png",
    "Hallowed Hood.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The Hallowed Hood is an armor piece in Palworld. The Hallowed Hood is a helmet that can be obtained obtained from chests in the Sealed Realm of Terraria. It offers slightly less protection than a Pal Metal Helm and has less Durability, though it only requires Hallowed Bar to be crafted and repaired, making it far more resource-efficient. Additionally, the Hallowed Hood increases the damage of the Terraprisma. The Hallowed Hood is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Terraprisma.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -1536,8 +1505,7 @@
     "name": "Hallowed Bar",
     "count": 20
    }
-  ],
-  "icon": "/icons/hallowed_hood.png"
+  ]
  },
  {
   "title": "Hallowed Mask",
@@ -1548,7 +1516,7 @@
    "Hallowed Mask icon.png",
    "Hallowed Mask.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The Hallowed Mask is an armor piece in Palworld. The Hallowed Mask is a helmet that can be obtained obtained from chests in the Sealed Realm of Terraria. It offers slightly less protection than a Pal Metal Helm and has less Durability, though it only requires Hallowed Bar to be crafted and repaired, making it far more resource-efficient. Additionally, the Hallowed Mask increases the damage of the Meowmere, Legendary Meowmere, Excalibur, and Terra Blade. The Hallowed Mask is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] Helmet forged from Hallowed Bar. Enveloped in divine power, it increases damage dealt by Meowmere, Excalibur, Terra Blade, and Legendary Meowmere.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -1600,8 +1568,7 @@
     "name": "Hallowed Bar",
     "count": 20
    }
-  ],
-  "icon": "/icons/hallowed_mask.png"
+  ]
  },
  {
   "title": "Hallowed Plate Mail",
@@ -1612,7 +1579,7 @@
    "Hallowed Plate Mail icon.png",
    "Hallowed Plate Mail.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The Hallowed Plate Mail is an armor piece in Palworld. The Hallowed Plate Mail is a piece of body armor that can be obtained from chests in the Sealed Realm of Terraria. It offers slightly less protection than Pal Metal Armor and has less Durability, though it only requires Hallowed Bar to be crafted and repaired, making it far more resource-efficient. Additionally, the Hallowed Plate Mail makes the player take less damage from Terraria–themed Pals. The Hallowed Plate Mail is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] Armor forged from Hallowed Bar. Enveloped in divine power, it lessens damage from [Tides of Terraria] monsters.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -1664,8 +1631,7 @@
     "name": "Hallowed Bar",
     "count": 20
    }
-  ],
-  "icon": "/icons/hallowed_plate_mail.png"
+  ]
  },
  {
   "title": "Heat Resistant Hexolite Armor",
@@ -1676,7 +1642,7 @@
    "Heat Resistant Hexolite Armor icon.png",
    "Heat Resistant Hexolite Armor.png"
   ],
-  "intro": "}}",
+  "intro": "Heat Resistant Hexolite Armor is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Improved Hexolite Armor. Boasts high heat resistance.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -1740,8 +1706,7 @@
     "name": "Flame Organ",
     "count": 30
    }
-  ],
-  "icon": "/icons/heat_resistant_hexolite_armor.png"
+  ]
  },
  {
   "title": "Heat Resistant Metal Armor",
@@ -1752,7 +1717,7 @@
    "Heat Resistant Metal Armor icon.png",
    "Heat Resistant Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Heat Resistant Metal Armor is an armor the player can use, designed to provide heavy protection with a strong focus on heat resistance. Armor is worn to improve survivability in combat and exploration, offering increased defense, additional health, and resistance to environmental hazards. As an upgrade to the Heat Resistant Pelt Armor, Heat Resistant Metal Armor significantly improves defense and durability while enhancing heat resistance to Level 2. This makes it especially effective in high-temperature environments, while still retaining Cold Resistant Lv. 1 for broader environmental coverag",
   "description": "Improved Metal Armor. Boasts high heat resistance.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -1816,8 +1781,7 @@
     "name": "Flame Organ",
     "count": 8
    }
-  ],
-  "icon": "/icons/heat_resistant_metal_armor.png"
+  ]
  },
  {
   "title": "Heat Resistant Pal Metal Armor",
@@ -1828,7 +1792,7 @@
    "Heat Resistant Pal Metal Armor icon.png",
    "Heat Resistant Pal Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Heat Resistant Pal Metal Armor is an armor the player can use, built for the harshest high-temperature environments while retaining baseline cold protection. Armor is worn to improve survivability by increasing defense, health, and resistance to environmental hazards. As an upgrade to the Heat Resistant Refined Metal Armor, Heat Resistant Pal Metal Armor represents the apex of heat-focused heavy armor. Its immense weight reflects its reinforced construction, trading mobility for extreme durability and protection while maintaining Heat Resistant Lv. 2 and Cold Resistant Lv. 1. Most armor is unl",
   "description": "Improved Pal Metal Armor. Proudly boasts a high heat resistance.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -1892,8 +1856,7 @@
     "name": "Flame Organ",
     "count": 16
    }
-  ],
-  "icon": "/icons/heat_resistant_pal_metal_armor.png"
+  ]
  },
  {
   "title": "Heat Resistant Pelt Armor",
@@ -1904,7 +1867,7 @@
    "Heat Resistant Pelt Armor icon.png",
    "Heat Resistant Pelt Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Heat Resistant Pelt Armor is an armor the player can use, designed to provide increased protection in hot environments. Armor is worn to improve survivability by increasing defense, health, and resistance to environmental hazards. As an upgrade to the Tropical Outfit, Heat Resistant Pelt Armor offers improved defense and durability while granting Heat Resistant Lv. 2. This makes it well suited for activities in warmer regions, where sustained exposure to heat would otherwise pose a danger. Most armor is unlocked through technology and crafted at a workbench or specialized crafting station. Hea",
   "description": "A Pelt Armor produced in hot regions. Can withstand some heat.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -1960,8 +1923,7 @@
     "name": "Flame Organ",
     "count": 4
    }
-  ],
-  "icon": "/icons/heat_resistant_pelt_armor.png"
+  ]
  },
  {
   "title": "Heat Resistant Plasteel Armor",
@@ -1972,8 +1934,8 @@
    "Heat Resistant Plasteel Armor icon.png",
    "Heat Resistant Plasteel Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "An advanced variant of engineered for extreme heat. This armor provides exceptional protection while offering superior resistance to hot environments.",
+  "intro": "Heat Resistant Plasteel Armor is an armor the player can use. As an upgrade to Heat Resistant Pal Metal Armor, it provides the highest overall protection available for hot climates while maintaining balanced resistance to cold.",
+  "description": "An advanced variant of Plasteel Armor engineered for extreme heat. This armor provides exceptional protection while offering superior resistance to hot environments.",
   "item_type": "Armor",
   "subtype": "Body Armor",
   "rarity": "",
@@ -2031,8 +1993,7 @@
     "name": "Flame Organ",
     "count": 20
    }
-  ],
-  "icon": "/icons/heat_resistant_plasteel_armor.png"
+  ]
  },
  {
   "title": "Heat Resistant Refined Metal Armor",
@@ -2043,7 +2004,7 @@
    "Heat Resistant Refined Metal Armor icon.png",
    "Heat Resistant Refined Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Heat Resistant Refined Metal Armor is an armor the player can use, built for extreme heat conditions while retaining solid cold protection. Armor is worn to improve survivability by increasing defense, health, and resistance to environmental hazards. As an upgrade to the Heat Resistant Metal Armor, Heat Resistant Refined Metal Armor significantly improves defensive capability while increasing Heat Resistance to Lv. 2. Its heavy construction trades mobility for durability, making it ideal for late-game exploration and combat in high-temperature regions. Most armor is unlocked through Technology",
   "description": "Improved Refined Metal Armor. Proudly boasts a high heat resistance.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -2107,8 +2068,7 @@
     "name": "Flame Organ",
     "count": 12
    }
-  ],
-  "icon": "/icons/heat_resistant_refined_metal_armor.png"
+  ]
  },
  {
   "title": "Helmet",
@@ -2119,7 +2079,7 @@
    "Helmet icon.png",
    "Helmet.png"
   ],
-  "intro": "}}",
+  "intro": "Helmet is an armor headpiece for the Head slot. It provides 30 defense and 80 health, and has 600 durability. It also grants Electric Damage Reduction Lv. 1.",
   "description": "A tough helmet that protects its wearer's head. It was apparently made after a number of people injured their heads after taking a tumble off a Eikthyrdeer.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2147,8 +2107,7 @@
     "name": "Wool",
     "count": 5
    }
-  ],
-  "icon": "/icons/helmet.png"
+  ]
  },
  {
   "title": "Hexolite Armor",
@@ -2159,7 +2118,7 @@
    "Hexolite Armor icon.png",
    "Hexolite Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Hexolite Armor is an armor the player can use. It serves as a high-tier defensive upgrade, offering exceptional durability and survivability in harsh environments. Hexolite Armor provides consistent protection across all rarities, granting both Heat Resistant Lv. 1 and Cold Resistant Lv. 1 to help mitigate environmental damage while significantly boosting defense and health.",
   "description": "Armor made of Hexolite. Possesses overwhelming durability and defense.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -2219,8 +2178,7 @@
     "name": "High Quality Cloth",
     "count": 20
    }
-  ],
-  "icon": "/icons/hexolite_armor.png"
+  ]
  },
  {
   "title": "Hexolite Helmet",
@@ -2231,7 +2189,7 @@
    "Hexolite Helmet icon.png",
    "Hexolite Helmet.png"
   ],
-  "intro": "}}",
+  "intro": "Hexolite Helmet is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Helmet made of Hexolite. Combines incredible strength and lightness.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -2282,8 +2240,7 @@
     "name": "Plasteel",
     "count": 15
    }
-  ],
-  "icon": "/icons/hexolite_helmet.png"
+  ]
  },
  {
   "title": "Horns of Supremacy",
@@ -2294,7 +2251,7 @@
    "Horns of Supremacy icon.png",
    "Horns of Supremacy.png"
   ],
-  "intro": "*Requires the player to beat on its (Ultra) Difficulty.",
+  "intro": "Horns of Supremacy is a cosmetic armor headpiece. It provides 30 defense and 80 health, and has 5000 durability. It also provides Water Damage Reduction Lv. 1.",
   "description": "Bursts with the ominous power of Blazamut Ryu (Ultra). To possess this is exceedingly rare.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2313,8 +2270,7 @@
   },
   "top_defense": 30.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/horns_of_supremacy.png"
+  "ingredients": []
  },
  {
   "title": "Hyper Shield",
@@ -2325,7 +2281,7 @@
    "Hyper Shield icon.png",
    "Hyper Shield.png"
   ],
-  "intro": "Equipping the shield charges it. While charged, the shield absorbs incoming attacks at the cost of shield charge. It does not absorb fall damage or starvation damage. If the player avoids taking damage for a short period, the shield automatically begins recharging.",
+  "intro": "Hyper Shield is a Shield item that can be crafted and equipped by the player. While equipped, it grants 1,045 shield and has 3,500 durability. It is an upgrade from the Giga Shield and is superseded by the Ultra Shield.",
   "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. Through repeated testing, the highest quality has been achieved.",
   "item_type": "Armor",
   "subtype": "Shield",
@@ -2354,8 +2310,7 @@
     "name": "Ingot",
     "count": 30
    }
-  ],
-  "icon": "/icons/hyper_shield.png"
+  ]
  },
  {
   "title": "Katress Cap",
@@ -2366,7 +2321,7 @@
    "Katress Cap icon.png",
    "Katress Cap.png"
   ],
-  "intro": "}}",
+  "intro": "Katress Cap is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Katress Cap Schematic 1 through the Wandering Merchant. It provides 20 defense and 60 health, and has 300 durability. It also grants Dark Damage Reduction Lv. 1.",
   "description": "Cap shaped like a Katress.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2390,8 +2345,7 @@
     "name": "Katress Hair",
     "count": 5
    }
-  ],
-  "icon": "/icons/katress_cap.png"
+  ]
  },
  {
   "title": "Killamari Cap",
@@ -2402,7 +2356,7 @@
    "Killamari Cap icon.png",
    "Killamari Cap.png"
   ],
-  "intro": "}}",
+  "intro": "Killamari Cap is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Killamari Cap Schematic 1 through the Wandering Merchant. It provides 20 defense and 60 health, and has 300 durability. It also grants Dark Damage Reduction Lv. 1.",
   "description": "Cap shaped like a Killamari.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2426,8 +2380,7 @@
     "name": "Killamari Tentacle",
     "count": 5
    }
-  ],
-  "icon": "/icons/killamari_cap.png"
+  ]
  },
  {
   "title": "Lamball Helm",
@@ -2438,7 +2391,7 @@
    "Lamball Helm icon.png",
    "Lamball Helm.png"
   ],
-  "intro": "}}",
+  "intro": "Lamball Helm is an armor headpiece for the Head slot. Currently only available as Common, it can be bought from the Medal Merchant. It provides 20 defense and 60 health, and has 300 durability. It also grants Neutral Damage Reduction Lv. 1.",
   "description": "Helm shaped like a Lamball.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2457,8 +2410,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/lamball_helm.png"
+  "ingredients": []
  },
  {
   "title": "Leezpunk Hood",
@@ -2469,7 +2421,7 @@
    "Leezpunk Hood icon.png",
    "Leezpunk Hood.png"
   ],
-  "intro": "}}",
+  "intro": "The Leezpunk Hood is an armor headpiece for the Head slot. It is currently available only as a Common item and can be crafted after obtaining a Leezpunk Hood Schematic 1. It provides 20 defense, 60 health, and has 300 durability. The hood also grants Dark Damage Reduction Lv. 1.",
   "description": "Hood shaped like a Leezpunk.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2493,8 +2445,7 @@
     "name": "Leezpunk Crest",
     "count": 5
    }
-  ],
-  "icon": "/icons/leezpunk_hood.png"
+  ]
  },
  {
   "title": "Lightweight Hexolite Armor",
@@ -2505,7 +2456,7 @@
    "Lightweight Hexolite Armor icon.png",
    "Lightweight Hexolite Armor.png"
   ],
-  "intro": "}}",
+  "intro": "Lightweight Hexolite Armor is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Improved Hexolite Armor. Increases carrying capacity.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -2565,8 +2516,7 @@
     "name": "High Quality Cloth",
     "count": 20
    }
-  ],
-  "icon": "/icons/lightweight_hexolite_armor.png"
+  ]
  },
  {
   "title": "Lightweight Plasteel Armor",
@@ -2577,8 +2527,8 @@
    "Lightweight Plasteel Armor icon.png",
    "Lightweight Plasteel Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "A refined variant of designed to reduce encumbrance while maintaining strong defensive performance. This armor improves carrying capacity, making it ideal for long expeditions and general-purpose exploration.",
+  "intro": "Lightweight Plasteel Armor is an armor the player can use. By enhancing carrying capacity while retaining balanced temperature resistance, it excels in temperate environments and extended travel.",
+  "description": "A refined variant of Plasteel Armor designed to reduce encumbrance while maintaining strong defensive performance. This armor improves carrying capacity, making it ideal for long expeditions and general-purpose exploration.",
   "item_type": "Armor",
   "subtype": "Body Armor",
   "rarity": "",
@@ -2632,8 +2582,7 @@
     "name": "High Quality Cloth",
     "count": 10
    }
-  ],
-  "icon": "/icons/lightweight_plasteel_armor.png"
+  ]
  },
  {
   "title": "Lightz Helmet",
@@ -2644,7 +2593,7 @@
    "Lightz Helmet icon.png",
    "Lightz Helmet.png"
   ],
-  "intro": "}}",
+  "intro": "Lightz Helmet has currently no use and is unobtainable.",
   "description": "Lightz Helmet",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2662,8 +2611,7 @@
   },
   "top_defense": 125.0,
   "top_durability": 500.0,
-  "ingredients": [],
-  "icon": "/icons/lightz_helmet.png"
+  "ingredients": []
  },
  {
   "title": "Lily Hat",
@@ -2674,7 +2622,7 @@
    "Lily Hat icon.png",
    "Lily Hat.png"
   ],
-  "intro": "*Requires defeating Lily and Lyleen on Hard difficulty.",
+  "intro": "Lily Hat is a cosmetic armor headpiece. It provides 20 defense and 60 health, and has 5000 durability.",
   "description": "Dress up like Lily using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2692,8 +2640,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/lily_hat.png"
+  "ingredients": []
  },
  {
   "title": "Long-Eared Headband",
@@ -2704,7 +2651,7 @@
    "Long-Eared Headband icon.png",
    "Long-Eared Headband.png"
   ],
-  "intro": "}}",
+  "intro": "The Long-eared Headband is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Long-eared Headband Schematic 1 through the Wandering Merchant. It provides 20 defense and 60 health, and has 225 durability. It also grants Grass Damage Reduction Lv. 1.",
   "description": "A cute headband with ears modeled after a Ribbuny. It doesn't provide much head protection.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2732,8 +2679,7 @@
     "name": "Ingot",
     "count": 2
    }
-  ],
-  "icon": "/icons/long_eared_headband.png"
+  ]
  },
  {
   "title": "Lyleen Floral Cap",
@@ -2744,7 +2690,7 @@
    "Lyleen Floral Cap icon.png",
    "Lyleen Floral Cap.png"
   ],
-  "intro": "}}",
+  "intro": "The Lyleen Floral Cap is an armor headpiece for the Head slot. Currently only available as Common, it can be purchased from the Medal Merchant. It provides 20 defense and 60 health, has 300 durability, and grants Grass Damage Reduction Lv. 1.",
   "description": "Floral cap shaped like a Lyleen.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2763,8 +2709,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/lyleen_floral_cap.png"
+  "ingredients": []
  },
  {
   "title": "Marcus Hat",
@@ -2775,7 +2720,7 @@
    "Marcus Hat icon.png",
    "Marcus Hat.png"
   ],
-  "intro": "*Requires defeating Marcus and Faleris on Hard difficulty.",
+  "intro": "Marcus Hat is a cosmetic armor headpiece. It provides 20 defense and 60 health, and has 5000 durability.",
   "description": "Dress up like Marcus using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -2793,8 +2738,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/marcus_hat.png"
+  "ingredients": []
  },
  {
   "title": "Mega Shield",
@@ -2805,7 +2749,7 @@
    "Mega Shield icon.png",
    "Mega Shield.png"
   ],
-  "intro": "Equipping the shield charges it. While charged, the shield absorbs incoming attacks at the cost of shield charge. It does not absorb fall damage or starvation damage. If the player avoids taking damage for a short period, the shield automatically begins recharging.",
+  "intro": "Mega Shield is a Shield item that can be crafted and equipped by the player. While equipped, it grants 260 shield and has 1,500 durability. It is an upgrade from the Common Shield and is superseded by the Giga Shield.",
   "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. The new model has been improved, enhancing its defense.",
   "item_type": "Armor",
   "subtype": "Shield",
@@ -2834,8 +2778,7 @@
     "name": "Ingot",
     "count": 10
    }
-  ],
-  "icon": "/icons/mega_shield.png"
+  ]
  },
  {
   "title": "Metal Armor",
@@ -2846,7 +2789,7 @@
    "Metal Armor icon.png",
    "Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Metal Armor is an armor the player can use, designed to provide strong protection through high defense and durability. Armor is worn to improve survivability in combat and exploration, offering bonuses such as increased defense, additional health, and resistance to environmental effects. As an upgrade to the Pelt Armor, Metal Armor offers substantially greater defense and durability, making it well suited for more dangerous encounters. In addition to its raw protective value, it provides both Heat Resistant Lv. 1 and Cold Resistant Lv. 1, allowing it to perform reliably across a wide range of ",
   "description": "Armor made of metal. Somewhat heavy, but provides good defense.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -2906,8 +2849,7 @@
     "name": "Cloth",
     "count": 5
    }
-  ],
-  "icon": "/icons/metal_armor.png"
+  ]
  },
  {
   "title": "Metal Helm",
@@ -2918,7 +2860,7 @@
    "Metal Helm icon.png",
    "Metal Helm.png"
   ],
-  "intro": "!Rarity !!!!!!",
+  "intro": "Metal Helm is an armor the player can use, designed to provide strong head protection through increased defense and durability. Armor is worn to improve survivability in combat and exploration, offering bonuses such as increased defense and additional health. As a heavier helmet option, the Metal Helm provides significantly greater protection than earlier head armor, making it well suited for more dangerous encounters. Its solid construction emphasizes durability and defense, helping reduce incoming damage while adventuring in tougher areas. Most armor is unlocked through technology and crafte",
   "description": "A helm made of metal. A reliable piece of armor that protects your head, and all the thoughts within.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -2969,8 +2911,7 @@
     "name": "Paldium Fragment",
     "count": 10
    }
-  ],
-  "icon": "/icons/metal_helm.png"
+  ]
  },
  {
   "title": "Monarch's Crown",
@@ -2981,7 +2922,7 @@
    "Monarch's Crown icon.png",
    "Monarch's Crown.png"
   ],
-  "intro": "}}",
+  "intro": "The Monarch's Crown is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Monarch's Crown Schematic 1. It provides 30 defense and 80 health, has 525 durability, and grants Dragon Damage Reduction Lv. 1.",
   "description": "A crown for those who possess a high ranking. Being quite heavy, it's not suited for practical use.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3009,8 +2950,7 @@
     "name": "Cloth",
     "count": 3
    }
-  ],
-  "icon": "/icons/monarch_s_crown.png"
+  ]
  },
  {
   "title": "Moon Lord Mask",
@@ -3021,7 +2961,7 @@
    "Moon Lord Mask icon.png",
    "Moon Lord Mask.png"
   ],
-  "intro": "*Defeating Moon Lord.",
+  "intro": "Moon Lord Crown is an armor headpiece. It provides 350 defense and 800 health, and has 20,000 durability.",
   "description": "[Tides of Terraria] Pulsing with Moon Lord's sinister energy. A rarity only the most fortunate may obtain.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3044,8 +2984,7 @@
     "name": "Hallowed Bar",
     "count": 1
    }
-  ],
-  "icon": "/icons/moon_lord_mask.png"
+  ]
  },
  {
   "title": "Pal Metal Armor",
@@ -3056,8 +2995,8 @@
    "Pal Metal Armor icon.png",
    "Pal Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "Armor made from . High defense, but extremely heavy. Equipment for a hero, it exudes bravery.",
+  "intro": "Pal Metal Armor is an armor the player can use, designed to provide exceptional protection through extremely high defense and durability. Armor is worn to improve survivability in combat and exploration, offering increased defense, additional health, and resistance to environmental hazards. As an upgrade to the Refined Metal Armor, Pal Metal Armor represents the pinnacle of heavy armor progression. Its immense weight reflects its reinforced construction, trading mobility for overwhelming protection while maintaining both Heat Resistant Lv. 1 and Cold Resistant Lv. 1 for reliable performance ac",
+  "description": "Armor made from Pal Metal Ingot. High defense, but extremely heavy. Equipment for a hero, it exudes bravery.",
   "item_type": "Armor",
   "subtype": "Body Armor",
   "rarity": "Common",
@@ -3116,8 +3055,7 @@
     "name": "High Quality Cloth",
     "count": 4
    }
-  ],
-  "icon": "/icons/pal_metal_armor.png"
+  ]
  },
  {
   "title": "Pal Metal Helm",
@@ -3128,8 +3066,8 @@
    "Pal Metal Helm icon.png",
    "Pal Metal Helm.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "A helm made from . Envied for its immaculate quality, it is proof of a chosen warrior.",
+  "intro": "Pal Metal Helm is an armor headpiece the player can use, designed to provide exceptional protection through very high defense and durability. Armor is worn to improve survivability in combat and exploration, offering increased defense and additional health. As an upgrade to the Refined Metal Helm, Pal Metal Helm represents the pinnacle of helmet progression. Its reinforced construction and premium materials provide outstanding protection, making it well suited for the most dangerous encounters where maximum survivability is required. Most armor is unlocked through Technology and crafted at a w",
+  "description": "A helm made from Pal Metal Ingot. Envied for its immaculate quality, it is proof of a chosen warrior.",
   "item_type": "Armor",
   "subtype": "Head Armor",
   "rarity": "Common",
@@ -3179,8 +3117,7 @@
     "name": "Paldium Fragment",
     "count": 20
    }
-  ],
-  "icon": "/icons/pal_metal_helm.png"
+  ]
  },
  {
   "title": "Pelt Armor",
@@ -3191,7 +3128,7 @@
    "Pelt Armor icon.png",
    "Pelt Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Pelt Armor is an armor the player can use, designed to provide increased protection and warmth compared to earlier equipment. Armor is worn to improve survivability in combat and exploration, offering bonuses such as increased defense, additional health, and resistance to environmental effects. As an upgraded armor set, Pelt Armor improves upon the Cloth Outfit by providing higher defense and durability while retaining cold resistance. This makes it well suited for harsher environments and more dangerous encounters, where additional protection is necessary to withstand sustained damage. Most a",
   "description": "Armor made from Leather. Its warmth and defense have been improved.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -3243,8 +3180,7 @@
     "name": "Leather",
     "count": 10
    }
-  ],
-  "icon": "/icons/pelt_armor.png"
+  ]
  },
  {
   "title": "Penking Cap",
@@ -3255,7 +3191,7 @@
    "Penking Cap icon.png",
    "Penking Cap.png"
   ],
-  "intro": "}}",
+  "intro": "The Penking Cap is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Penking Cap Schematic 1. It provides 20 defense and 60 health, has 300 durability, and grants Ice Damage Reduction Lv. 1.",
   "description": "Cap shaped like a Penking.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3279,8 +3215,7 @@
     "name": "Penking Plume",
     "count": 5
    }
-  ],
-  "icon": "/icons/penking_cap.png"
+  ]
  },
  {
   "title": "Plasteel Armor",
@@ -3291,8 +3226,8 @@
    "Plasteel Armor icon.png",
    "Plasteel Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "Armor made from that combines exceptional defense with reduced weight. This advanced armor pushes the limits of modern technology while maintaining balanced elemental resistance.",
+  "intro": "Plasteel Armor is an armor the player can use. As an upgrade to Pal Metal Armor, it offers significantly higher defense and durability while remaining lighter than comparable endgame armors. It also provides balanced protection against both heat and cold.",
+  "description": "Armor made from Plasteel that combines exceptional defense with reduced weight. This advanced armor pushes the limits of modern technology while maintaining balanced elemental resistance.",
   "item_type": "Armor",
   "subtype": "Body Armor",
   "rarity": "",
@@ -3351,8 +3286,7 @@
     "name": "High Quality Cloth",
     "count": 10
    }
-  ],
-  "icon": "/icons/plasteel_armor.png"
+  ]
  },
  {
   "title": "Plasteel Helmet",
@@ -3363,8 +3297,8 @@
    "Plasteel Helmet icon.png",
    "Plasteel Helmet.png"
   ],
-  "intro": "!Rarity !! !! !!",
-  "description": "A helmet forged from that combines exceptional defense with reduced weight. This advanced headgear represents the pinnacle of modern armor technology.",
+  "intro": "Plasteel Helmet is an armor headpiece the player can use in the head slot. As an upgrade to Pal Metal Helm, it provides the highest defensive values of any helmet, while remaining lighter than comparable endgame headgear.",
+  "description": "A helmet forged from Plasteel that combines exceptional defense with reduced weight. This advanced headgear represents the pinnacle of modern armor technology.",
   "item_type": "Armor",
   "subtype": "Head Armor",
   "rarity": "",
@@ -3414,8 +3348,7 @@
     "name": "Pal Metal Ingot",
     "count": 25
    }
-  ],
-  "icon": "/icons/plasteel_helmet.png"
+  ]
  },
  {
   "title": "Refined Metal Armor",
@@ -3426,7 +3359,7 @@
    "Refined Metal Armor icon.png",
    "Refined Metal Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Refined Metal Armor is an armor the player can use, designed to provide exceptional protection through very high defense and durability. Armor is worn to improve survivability in combat and exploration, offering increased defense, additional health, and resistance to environmental hazards. As an upgrade to the Metal Armor, Refined Metal Armor significantly improves defensive stats while maintaining both Heat Resistant Lv. 1 and Cold Resistant Lv. 1. Its heavy weight reflects its reinforced construction, making it best suited for players who can withstand reduced mobility in exchange for superi",
   "description": "Armor made from high quality metal. It boasts high defense, if you can bear the weight.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -3486,8 +3419,7 @@
     "name": "High Quality Cloth",
     "count": 2
    }
-  ],
-  "icon": "/icons/refined_metal_armor.png"
+  ]
  },
  {
   "title": "Refined Metal Helm",
@@ -3498,7 +3430,7 @@
    "Refined Metal Helm icon.png",
    "Refined Metal Helm.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Refined Metal Helm is an armor headpiece the player can use, designed to provide exceptional protection through high defense and durability. Armor is worn to improve survivability in combat and exploration, offering increased defense and additional health. As a refined upgrade to earlier metal head armor, the Refined Metal Helm significantly improves defensive stats while maintaining a manageable weight for its tier. Its reinforced construction makes it well suited for more dangerous encounters where sustained protection is critical. Most armor is unlocked through Technology and crafted at a w",
   "description": "A helm made from high quality metal. The luster from the polished metal gives the wearer that added boost of confidence.",
   "item_type": "Armor",
   "subtype": "Head Armor",
@@ -3549,8 +3481,7 @@
     "name": "Paldium Fragment",
     "count": 15
    }
-  ],
-  "icon": "/icons/refined_metal_helm.png"
+  ]
  },
  {
   "title": "Ribbuny Headband",
@@ -3561,7 +3492,7 @@
    "Ribbuny Headband icon.png",
    "Ribbuny Headband.png"
   ],
-  "intro": "}}",
+  "intro": "The Ribbuny Headband is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Ribbuny Headband Schematic 1. It provides 20 defense and 60 health, has 300 durability, and grants Neutral Damage Reduction Lv. 1.",
   "description": "Headband shaped like a Ribbuny.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3585,8 +3516,7 @@
     "name": "Ribbuny Ribbon",
     "count": 5
    }
-  ],
-  "icon": "/icons/ribbuny_headband.png"
+  ]
  },
  {
   "title": "Saya Hat",
@@ -3597,7 +3527,7 @@
    "Saya Hat icon.png",
    "Saya Hat.png"
   ],
-  "intro": "Requires the player to beat Saya and Selyne on Hard Difficulty.",
+  "intro": "Saya Hat is a cosmetic armor headpiece. It provides 20 defense and 60 health, and has 5000 durability.",
   "description": "Dress up like Saya using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3615,8 +3545,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/saya_hat.png"
+  "ingredients": []
  },
  {
   "title": "Sibelyx Hat",
@@ -3627,7 +3556,7 @@
    "Sibelyx Hat icon.png",
    "Sibelyx Hat.png"
   ],
-  "intro": "}}",
+  "intro": "The Sibelyx Hat is an armor headpiece for the Head slot. Currently only available as Common, it can be bought from the Medal Merchant. It provides 20 defense and 60 health, and has 300 durability. It also grants Ice Damage Reduction Lv. 1.",
   "description": "Hat shaped like a Sibelyx.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3646,8 +3575,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/sibelyx_hat.png"
+  "ingredients": []
  },
  {
   "title": "Silk Hat",
@@ -3658,7 +3586,7 @@
    "Silk Hat icon.png",
    "Silk Hat.png"
   ],
-  "intro": "}}",
+  "intro": "The Silk Hat is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Silk Hat Schematic 1 through the Wandering Merchant. It provides 25 defense and 70 health, and has 300 durability. It also grants Fire Damage Reduction Lv. 1.",
   "description": "A gentleman's cap. Those made from Sibelyx materials are considered luxury items, but those made from Swee materials are of poor quality, and more commonly found.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3682,8 +3610,7 @@
     "name": "Cloth",
     "count": 15
    }
-  ],
-  "icon": "/icons/silk_hat.png"
+  ]
  },
  {
   "title": "Soft Hat",
@@ -3694,7 +3621,7 @@
    "Soft Hat icon.png",
    "Soft Hat.png"
   ],
-  "intro": "}}",
+  "intro": "The Soft Hat is an armor headpiece for the Head slot. Currently only available as Common, it can be crafted after obtaining a Soft Hat Schematic 1 through the Wandering Merchant. It provides 25 defense and 70 health, and has 270 durability. It also grants Earth Damage Reduction Lv. 1.",
   "description": "A light and flexible cap perfect for everyday use. Fashionable, it was once a popular item on the island.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3722,8 +3649,7 @@
     "name": "Fiber",
     "count": 10
    }
-  ],
-  "icon": "/icons/soft_hat.png"
+  ]
  },
  {
   "title": "Swee Cap",
@@ -3734,7 +3660,7 @@
    "Swee Cap icon.png",
    "Swee Cap.png"
   ],
-  "intro": "}}",
+  "intro": "The Swee Cap is an armor headpiece for the Head slot. It is currently only available in Common quality and can be crafted after obtaining the appropriate schematic.",
   "description": "Cap shaped like a Swee.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3758,8 +3684,7 @@
     "name": "Swee Hair",
     "count": 5
    }
-  ],
-  "icon": "/icons/swee_cap.png"
+  ]
  },
  {
   "title": "Tocotoco Cap",
@@ -3770,7 +3695,7 @@
    "Tocotoco Cap icon.png",
    "Tocotoco Cap.png"
   ],
-  "intro": "}}",
+  "intro": "The Tocotoco Cap is an armor headpiece for the Head slot. It is currently only available in Common quality and can be crafted after obtaining the appropriate schematic.",
   "description": "Cap shaped like a Tocotoco. Its gaudy design is visible from far away.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3794,8 +3719,7 @@
     "name": "Tocotoco Feather",
     "count": 5
    }
-  ],
-  "icon": "/icons/tocotoco_cap.png"
+  ]
  },
  {
   "title": "Tricorne",
@@ -3806,7 +3730,7 @@
    "Tricorne icon.png",
    "Tricorne.png"
   ],
-  "intro": "* Requires Tricorne Schematic 1, which can be purchased for 500 gold from the (Green Coat) Wandering Merchant in Duneshelter.",
+  "intro": "The Tricorne is an armor headpiece for the Head slot. It is currently only available in Common quality and can be crafted after obtaining the appropriate schematic.",
   "description": "A cap for those who love to fight. Its previous owner nearly drove Azurobe to extinction.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -3830,8 +3754,7 @@
     "name": "Leather",
     "count": 10
    }
-  ],
-  "icon": "/icons/tricorne.png"
+  ]
  },
  {
   "title": "Tropical Outfit",
@@ -3842,7 +3765,7 @@
    "Tropical Outfit icon.png",
    "Tropical Outfit.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Tropical Outfit is an armor the player can use, designed for surviving hot environments early in progression. Armor is worn to improve survivability by increasing defense, health, and providing resistance to environmental hazards. As a heat-adapted variant of the Cloth Outfit, the Tropical Outfit grants Heat Resistant Lv. 2, allowing the wearer to better endure high-temperature regions. Its lightweight construction keeps mobility high, making it a practical choice before heavier armor becomes available. Most armor is unlocked through Technology and crafted at a workbench or specialized craftin",
   "description": "A Cloth Outfit produced in hot regions. Can withstand some heat.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -3898,8 +3821,7 @@
     "name": "Flame Organ",
     "count": 2
    }
-  ],
-  "icon": "/icons/tropical_outfit.png"
+  ]
  },
  {
   "title": "Tundra Outfit",
@@ -3910,7 +3832,7 @@
    "Tundra Outfit icon.png",
    "Tundra Outfit.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "Tundra Outfit is an armor the player can use, designed for surviving freezing environments early in progression. Armor is worn to improve survivability by increasing defense, health, and providing resistance to environmental hazards. As a cold-adapted variant of the Cloth Outfit, the Tundra Outfit grants Cold Resistant Lv. 2, allowing the wearer to endure extremely low temperatures. Its lightweight construction preserves mobility, making it an effective choice before heavier cold-resistant armor becomes available. Most armor is unlocked through Technology and crafted at a workbench or speciali",
   "description": "A Cloth Outfit produced in cold regions. Can withstand freezing cold temperatures.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -3966,8 +3888,7 @@
     "name": "Ice Organ",
     "count": 2
    }
-  ],
-  "icon": "/icons/tundra_outfit.png"
+  ]
  },
  {
   "title": "Ultra Shield",
@@ -3978,7 +3899,7 @@
    "Ultra Shield icon.png",
    "Ultra Shield.png"
   ],
-  "intro": "}}",
+  "intro": "Ultra Shield is a Shield item that can be crafted and equipped by the Player. While equipped, it provides 1,520 Shield and has 20,000 durability. It is an upgrade from the Hyper Shield and is superseded by the Advanced Shield.",
   "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while. As a result of further experiments, ultimate quality has been achieved.",
   "item_type": "Armor",
   "subtype": "Shield",
@@ -4015,8 +3936,7 @@
     "name": "Ancient Civilization Core",
     "count": 30
    }
-  ],
-  "icon": "/icons/ultra_shield.png"
+  ]
  },
  {
   "title": "V1 Armor",
@@ -4027,7 +3947,7 @@
    "V1 Armor icon.png",
    "V1 Armor.png"
   ],
-  "intro": "!Rarity !! !! !!",
+  "intro": "The V1 Armor is an armor piece in Palworld. The V1 Armor is a piece of mid-game body armor with roughly the same defensive stats as Metal Armor. However, it also comes the unique \"Blood is Fuel\" modifier that gives the player a lifesteal effect, letting the user heal themselves by damaging enemies. This healing ability can be very powerful, especially while using a weapon that deals damage rapidly like the Gatling Gun or Terraprisma. The V1 Armor is a part of the Palworld–ULTRAKILL crossover.",
   "description": "[ULTRAKILL Collab] Armor modeled after the Final War machine built in a distant land. It features a self-repair system that activates when dealing damage.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -4062,8 +3982,7 @@
     "name": "High Quality Pal Oil",
     "count": 15
    }
-  ],
-  "icon": "/icons/v1_armor.png"
+  ]
  },
  {
   "title": "V2 Armor",
@@ -4074,7 +3993,7 @@
    "V2 Armor icon.png",
    "V2 Armor.png"
   ],
-  "intro": "!Rarity ! ! !",
+  "intro": "The V2 Armor is an armor piece in Palworld. The V2 Armor is a piece of late-game body armor. While it lacks the lifesteal effect of the V1 Armor, it comes with higher Temperature resistances, making it more useful for general exploration rather than combat. The V2 Armor is a part of the Palworld–ULTRAKILL crossover.",
   "description": "[ULTRAKILL Collab] Armor modeled after the New Peace machine built in a distant land. Its self-repair system was removed in favor of sturdier plating.",
   "item_type": "Armor",
   "subtype": "Body Armor",
@@ -4113,8 +4032,7 @@
     "name": "High Quality Cloth",
     "count": 20
    }
-  ],
-  "icon": "/icons/v2_armor.png"
+  ]
  },
  {
   "title": "Victor Hat",
@@ -4125,7 +4043,7 @@
    "Victor Hat icon.png",
    "Victor Hat.png"
   ],
-  "intro": "* Dropped by Victor and Shadowbeak on Hard difficulty.",
+  "intro": "Victor Hat is a cosmetic armor headpiece. It provides 20 defense and 60 health, and has 5,000 durability.",
   "description": "Dress up like Victor using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -4143,8 +4061,7 @@
   },
   "top_defense": 20.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/victor_hat.png"
+  "ingredients": []
  },
  {
   "title": "Witch Hat",
@@ -4155,7 +4072,7 @@
    "Witch Hat icon.png",
    "Witch Hat.png"
   ],
-  "intro": "}}",
+  "intro": "The Witch Hat is an armor headpiece for the Head slot. It is currently only available in Common quality and can be crafted after obtaining the appropriate schematic.",
   "description": "A hat modeled after a Wixen or Katress. It makes you feel like you can use Pal skills.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -4183,8 +4100,7 @@
     "name": "Ingot",
     "count": 3
    }
-  ],
-  "icon": "/icons/witch_hat.png"
+  ]
  },
  {
   "title": "Witch's Crown",
@@ -4195,7 +4111,7 @@
    "Witch's Crown icon.png",
    "Witch's Crown.png"
   ],
-  "intro": "}}",
+  "intro": "Witch's Crown is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "Imbued with the ominous power of Bellanoir Libero (Ultra). Extremely difficult to obtain.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -4219,8 +4135,7 @@
     "name": "Ingot",
     "count": 1
    }
-  ],
-  "icon": "/icons/witch_s_crown.png"
+  ]
  },
  {
   "title": "Witch's Crown (Ultra)",
@@ -4232,7 +4147,7 @@
    "Witch's Crown (Ultra) icon.png",
    "Witch's Crown (Ultra).png"
   ],
-  "intro": "Other Drops * Dropped by on ultra difficulty",
+  "intro": "Witch's Crown (Ultra) is a cosmetic armor headpiece. It provides 30 defense and 80 health, and has 5,000 durability. It also grants Dragon Damage Reduction Lv. 1.",
   "description": "Imbued with the ominous power of Bellanoir Libero (Ultra). Extremely difficult to obtain.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -4251,8 +4166,7 @@
   },
   "top_defense": 30.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/witch_s_crown_ultra.png"
+  "ingredients": []
  },
  {
   "title": "Xenolord's head",
@@ -4263,7 +4177,7 @@
    "Xenolord's head icon.png",
    "Xenolord's head.png"
   ],
-  "intro": "}}",
+  "intro": "Xenolord's head is a Armor item. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.",
   "description": "A headgear designed to resemble a Xenolord.",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -4287,8 +4201,7 @@
     "name": "Ingot",
     "count": 1
    }
-  ],
-  "icon": "/icons/xenolord_s_head.png"
+  ]
  },
  {
   "title": "Zoe Hat",
@@ -4299,7 +4212,7 @@
    "Zoe Hat icon.png",
    "Zoe Hat.png"
   ],
-  "intro": "* Dropped by Zoe and Grizzbolt on Hard difficulty.",
+  "intro": "Zoe Hat is a cosmetic armor headpiece. It provides 20 defense and 60 health, and has 5,000 durability.",
   "description": "Dress up like Zoe using this special headpiece!",
   "item_type": "Armor",
   "subtype": "Hat",
@@ -4317,7 +4230,6 @@
   },
   "top_defense": 20.0,
   "top_durability": 5000.0,
-  "ingredients": [],
-  "icon": "/icons/zoe_hat.png"
+  "ingredients": []
  }
 ]

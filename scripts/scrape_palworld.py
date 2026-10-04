@@ -69,6 +69,27 @@ def cat_members(cat):
     return out
 
 
+# --- wiki 魔术字展开 ---------------------------------------------------------
+# 清洗器用 re.sub(r"\{\{[^{}]*\}\}", "", v) 整段删无名模板，{{PAGENAME}}（条目名）
+# 随之消失，正文出现 "The is a ..." 残句。必须在清洗前展开成真实文本。
+_MAGIC_TITLE = re.compile(r"\{\{\s*(?:SUB|BASE|FULL)?PAGENAME(?:E)?\s*\}\}", re.I)
+_MAGIC_GAME = re.compile(r"\{\{\s*(?:Gamename|Game|SITENAME|Sitename)\s*\}\}", re.I)
+_MAGIC_DROP = re.compile(
+    r"\{\{\s*(?:DISPLAYTITLE|DEFAULTSORT|#(?:expr|var|if|ifeq|ifexist|switch|tag|invoke|time|pos|len|replace|sub|explode|titleparts)[^}]*)\}\}",
+    re.I,
+)
+
+
+def expand_magic(wt, title):
+    """把 {{PAGENAME}} 换成条目名，丢弃解析器函数等元魔术字。"""
+    if not wt:
+        return wt
+    wt = _MAGIC_TITLE.sub(lambda _m: title, wt)
+    wt = _MAGIC_GAME.sub("Palworld", wt)
+    wt = _MAGIC_DROP.sub("", wt)
+    return wt
+
+
 def fetch_wikitexts(titles):
     out = {}
     for i in range(0, len(titles), 50):
@@ -189,6 +210,9 @@ def clean(s):
     s = re.sub(r"\[\[([^\]]*)\]\]", r"\1", s)
     s = re.sub(r"\[https?://[^\s\]]+\s+([^\]]+)\]", r"\1", s)
     s = re.sub(r"\[https?://[^\s\]]*\]", "", s)
+    # {{i|Dragon}} / {{Icon|Fire}} 这类图标模板：保留名称，否则导语会变成
+    # "is a / element Pal."（元素名成为空洞）
+    s = re.sub(r"\{\{\s*(?:i|I|icon|Icon|element|Element)\s*\|\s*([^}|]+)[^}]*\}\}", r"\1", s)
     s = re.sub(r"\{\{[^{}]*\}\}", "", s)
     i = s.find("{{")
     if i >= 0:
@@ -228,11 +252,23 @@ def find_intro(wt):
         else:
             break
     parts = re.split(r"^={2,}", txt, flags=re.M)
+
+    def _lines(part):
+        return [clean(l) for l in part.split("\n")
+                if clean(l) and not l.strip().startswith("|")
+                and not l.strip().startswith("{{") and not l.strip().startswith("[[")
+                and "==" not in l and "{|" not in l
+                # 纯括号行（模板残渣 '}}' / '{{'）不是正文，旧写法会把它当简介输出
+                and re.fullmatch(r"[\s\{\}\|]+", l.strip()) is None]
+
+    # 优先取导语段落（第一个 == 之前）；取不到再退回各小节。
+    # 旧写法直接 parts[1:]，导致 armor/weapon 这类导语在 infobox 之后的条目
+    # 简介全是小节内容或索性是 '}}'（palworld 曾 438 条）。
+    lead = _lines(parts[0]) if parts else []
+    if lead:
+        return " ".join(lead)[:600]
     for part in parts[1:]:
-        lines = [clean(l) for l in part.split("\n")
-                 if clean(l) and not l.strip().startswith("|")
-                 and not l.strip().startswith("{{") and not l.strip().startswith("[[")
-                 and "==" not in l and "{|" not in l]
+        lines = _lines(part)
         if lines:
             return " ".join(lines)[:600]
     return ""
@@ -519,6 +555,9 @@ def main():
         cache.update(fetch_wikitexts(chunk))
         WT_CACHE.write_text(json.dumps(cache, ensure_ascii=False), encoding="utf-8")
         print(f"  ...{min(i + 50, len(fresh))}/{len(fresh)}")
+
+    # 展开 wiki 魔术字（缓存文件保持原始，解析用副本）
+    cache = {t: expand_magic(wt, t) for t, wt in cache.items()}
 
     (DATA / "palworld_pals.json").write_text(
         json.dumps(scrape_pals(board_titles["pals"], cache), ensure_ascii=False, indent=1),

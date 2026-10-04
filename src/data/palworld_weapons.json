@@ -8,7 +8,7 @@
    "Advanced Bow icon.png",
    "Advanced Bow.png"
   ],
-  "intro": "!Tier ! !",
+  "intro": "The Advanced Bow is a ranged weapon in Palworld. The Advanced Bow is a single-shot weapon that uses Advanced Arrow. While somewhat basic compared to weapons that can be unlocked around the same time as it like the Guided Missile Launcher or Laser Gatling Gun, it still deals very high damage per shot and its ammo is comparatively cheap.",
   "description": "A bow reconstructed with advanced technology. Capable of firing extremely powerful arrows.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -65,8 +65,7 @@
     "name": "Nightstar Sand",
     "count": 20
    }
-  ],
-  "icon": "/icons/advanced_bow.png"
+  ]
  },
  {
   "title": "Advanced Fishing Rod (Depresso)",
@@ -77,7 +76,7 @@
    "Advanced Fishing Rod (Depresso) icon.png",
    "Advanced Fishing Rod (Depresso).png"
   ],
-  "intro": "Advanced Fishing Rod (Depresso) can be used to initiate the Fishing Minigames for both Pals and Salvage. It is currently the highest Tier Fishing Rod obtainable in Palworld.",
+  "intro": "The Advanced Fishing Rod (Depresso) is an upgrade to the Advanced Fishing Rod (Pengullet).",
   "description": "A fishing rod designed for catching Pals. It's sturdier and offers slightly better performance than Advanced Fishing Rod (Pengullet).",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -115,8 +114,7 @@
     "name": "Coralum Ingot",
     "count": 5
    }
-  ],
-  "icon": "/icons/advanced_fishing_rod_depresso.png"
+  ]
  },
  {
   "title": "Advanced Fishing Rod (Pengullet)",
@@ -127,7 +125,7 @@
    "Advanced Fishing Rod (Pengullet) icon.png",
    "Advanced Fishing Rod (Pengullet).png"
   ],
-  "intro": "Advanced Fishing Rod (Pengullet) can be used to initiate the Fishing Minigames for both Pals and Salvage.",
+  "intro": "The Advanced Fishing Rod (Pengullet) is a Fishing Rod.",
   "description": "A fishing rod designed for catching Pals. Use it with bait near water where shadows are visible to start fishing. It boasts improved performance, making catches vastly easier.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -161,8 +159,7 @@
     "name": "Carbon Fiber",
     "count": 30
    }
-  ],
-  "icon": "/icons/advanced_fishing_rod_pengullet.png"
+  ]
  },
  {
   "title": "Assault Rifle",
@@ -173,7 +170,7 @@
    "Assault Rifle icon.png",
    "Assault Rifle.png"
   ],
-  "intro": "!Tier !! !! !!Magazine Size",
+  "intro": "The Assault Rifle is a ranged weapon in Palworld. The Assault Rifle is a rapid-fire, automatic weapon that uses Assault Rifle Ammo. It excels in close-to-medium ranged combat, allowing players to deal high damage in a short amount of time. However, its high rate of fire means that the Assault Rifle can burn through ammo fast if the user isn't careful, though Assault Rifle Ammo can easily be purchased from Wandering Merchant.",
   "description": "Mows down enemies with overwhelming force. It excels at rapid-fire and is well suited to taking down powerful foes.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -230,8 +227,7 @@
     "name": "Carbon Fiber",
     "count": 10
    }
-  ],
-  "icon": "/icons/assault_rifle.png"
+  ]
  },
  {
   "title": "Axe4",
@@ -242,7 +238,7 @@
    "Axe4 icon.png",
    "Axe4.png"
   ],
-  "intro": "}}",
+  "intro": "Axe4 is assumed to be the next tier of the Refined Metal Axe. It is currently unobtainable by the player.",
   "description": "Axe4",
   "item_type": "Weapon",
   "subtype": "",
@@ -270,7 +266,7 @@
    "Bat icon.png",
    "Bat.png"
   ],
-  "intro": "}}",
+  "intro": "Bat is a melee weapon that offers higher attack power than earlier tools, making it more effective against tougher enemies while remaining lightweight and easy to wield. The Bat is used for close-range combat against Pals and Humans. Its increased attack power compared to basic weapons makes it a reliable option in early to mid-game encounters.",
   "description": "Baseball bat for close-range combat. Might be tough to get a home run with a Pal.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -296,8 +292,7 @@
     "name": "Stone",
     "count": 10
    }
-  ],
-  "icon": "/icons/bat.png"
+  ]
  },
  {
   "title": "Beam Launcher",
@@ -308,7 +303,7 @@
    "Beam Launcher icon.png",
    "Beam Launcher.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Beam Launcher is a ranged weapon in Palworld. The Beam Launcher is a semi-automatic weapon that uses Beam Launcher Ammo. It fires explosive energy bolts that deal heavy splash damage, making it good at dealing with groups or tanky single targets. It also has a bottomless magazine, though it will overheat and require cooling down after three consecutive shots.",
   "description": "Fires a high-density beam that causes explosions over a wide area. Caution is required to prevent overheating during rapid fire.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -364,8 +359,7 @@
     "name": "Ancient Civilization Core",
     "count": 10
    }
-  ],
-  "icon": "/icons/beam_launcher.png"
+  ]
  },
  {
   "title": "Beam Scatter",
@@ -376,7 +370,7 @@
    "Beam Scatter icon.png",
    "Beam Scatter.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Beam Scatter is a ranged weapon in Palworld. The Beam Scatter is an automatic weapon that uses Beam Scatter Ammo. While it deals less damage than the Prototype Shotgun, its automatic nature and higher magazine capacity make it better for dealing quick bursts of damage.",
   "description": "A specialized beam weapon for close-range combat. It fires compressed energy in a wide, scattering blast.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -437,8 +431,7 @@
     "name": "Ancient Civilization Core",
     "count": 5
    }
-  ],
-  "icon": "/icons/beam_scatter.png"
+  ]
  },
  {
   "title": "Beam Sword",
@@ -449,7 +442,7 @@
    "Beam Sword icon.png",
    "Beam Sword.png"
   ],
-  "intro": "!Tier ! !",
+  "intro": "The Beam Sword is a melee weapon in Palworld. The Beam Sword is a powerful close-ranged weapon that has the same attack pattern as the Katana as well as the ability to perform a charged slash attack. However, instead of just propelling the player forwards, the Beam Sword's charged slash also fires off a short-ranged energy wave.",
   "description": "Beam Sword for close-range combat. Slices through opponents, burning them with a high-output laser.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -503,8 +496,7 @@
     "name": "Computer",
     "count": 1
    }
-  ],
-  "icon": "/icons/beam_sword.png"
+  ]
  },
  {
   "title": "Beegarde's Spear",
@@ -516,7 +508,7 @@
    "Beegarde's Spear icon.png",
    "Beegarde's Spear.png"
   ],
-  "intro": "}}",
+  "intro": "Beegarde's Spear is a melee weapon fashioned from the spear once wielded by a Beegarde. It can be equipped by the player and used in close-range combat against Pals and Humans. Beegarde's Spear functions as a standard melee weapon with extended reach, making it effective for engaging enemies from a safer distance.",
   "description": "A spear made from the Beegarde's spear, altered for human use. It carries a sense of unwavering loyalty.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -533,8 +525,7 @@
   },
   "top_attack": 150.0,
   "top_durability": 400.0,
-  "ingredients": [],
-  "icon": "/icons/beegarde_s_spear.png"
+  "ingredients": []
  },
  {
   "title": "Beginner Fishing Rod (Chillet)",
@@ -545,7 +536,7 @@
    "Beginner Fishing Rod (Chillet) icon.png",
    "Beginner Fishing Rod (Chillet).png"
   ],
-  "intro": "}}",
+  "intro": "Beginner Fishing Rod (Chillet) is the most basic Fishing Rod. It can be used to initiate the Fishing Minigames for both Pals and Salvage.",
   "description": "A fishing rod designed for catching Pals. Use it with bait near water where shadows are visible to start fishing. Perfect for beginners and ideal for reeling in low level Pals.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -579,8 +570,7 @@
     "name": "Fiber",
     "count": 8
    }
-  ],
-  "icon": "/icons/beginner_fishing_rod_chillet.png"
+  ]
  },
  {
   "title": "Beginner Fishing Rod (Gumoss)",
@@ -591,7 +581,7 @@
    "Beginner Fishing Rod (Gumoss) icon.png",
    "Beginner Fishing Rod (Gumoss).png"
   ],
-  "intro": "}}",
+  "intro": "Beginner Fishing Rod (Gumoss) is an upgrade to the Beginner Fishing Rod (Chillet). It can be used to initiate the Fishing Minigames for both Pals and Salvage.",
   "description": "A fishing rod designed for catching Pals. It's sturdier and offers slightly better performance than Beginner Fishing Rod (Chillet). Perfect for beginners and ideal for reeling in low level Pals.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -629,8 +619,7 @@
     "name": "Coralum Ore",
     "count": 3
    }
-  ],
-  "icon": "/icons/beginner_fishing_rod_gumoss.png"
+  ]
  },
  {
   "title": "Boost Gun",
@@ -641,7 +630,7 @@
    "Boost Gun icon.png",
    "Boost Gun.png"
   ],
-  "intro": "The Boost Gun can be equipped by the Player and used in combat or support roles. It is primarily intended for assisting allied Pals during battles, making it especially useful in prolonged encounters.",
+  "intro": "Boost Gun is a ranged weapon in Palworld that can be used to both damage enemies and temporarily boost allied Pals. When fired at a Pal in the player's party, it increases that Pal’s attack and defense by 5% for a short time; when fired at enemies, it deals damage instead.",
   "description": "Firing this at a Pal in your team temporarily boosts that Pal's attack and defense. Firing it at an enemy deals damage instead.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -674,8 +663,7 @@
     "name": "Fiber",
     "count": 30
    }
-  ],
-  "icon": "/icons/boost_gun.png"
+  ]
  },
  {
   "title": "Capture Rope",
@@ -686,7 +674,7 @@
    "Capture Rope icon.png",
    "Capture Rope.png"
   ],
-  "intro": "",
+  "intro": "Capture Rope currently has no use in Palworld and is unobtainable.",
   "description": "Capture Rope",
   "item_type": "Weapon",
   "subtype": "",
@@ -703,8 +691,7 @@
   },
   "top_attack": 1.0,
   "top_durability": 200.0,
-  "ingredients": [],
-  "icon": "/icons/capture_rope.png"
+  "ingredients": []
  },
  {
   "title": "Charge Rifle",
@@ -715,7 +702,7 @@
    "Charge Rifle icon.png",
    "Charge Rifle.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Charge Rifle is a ranged weapon in Palworld. The Charge Rifle is a semi-automatic weapon that uses Charge Rifle Ammo. As its name suggests, it needs to charge up before firing, but it deals massive damage per shot, letting it easily deal with even the tankiest enemies in the game. However, the Charge Rifle's slow rate of fire means that careful timing and positioning is required to use it effectively.",
   "description": "A beam rifle crafted with advanced technology. Charges energy to deliver one powerful shot.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -776,8 +763,7 @@
     "name": "Computer",
     "count": 15
    }
-  ],
-  "icon": "/icons/charge_rifle.png"
+  ]
  },
  {
   "title": "Combat SMG",
@@ -788,7 +774,7 @@
    "Combat SMG icon.png",
    "Combat SMG.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Combat SMG is a ranged weapon the in Palworld. The Combat SMG is a rapid-fire, automatic weapon that uses Combat SMG Ammo. With its high rate of fire and good damage per shot, it can easily clear out lesser enemies while seriously hurting tankier ones. However, like all SMG-type weapons, the Combat SMG can burn through ammo very quickly.",
   "description": "A submachine gun made from Soralite Ingots. Its improved magazine and ammunition enhance its suppression power.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -849,8 +835,7 @@
     "name": "AI Core",
     "count": 4
    }
-  ],
-  "icon": "/icons/combat_smg.png"
+  ]
  },
  {
   "title": "Compound Bow",
@@ -861,7 +846,7 @@
    "Compound Bow icon.png",
    "Compound Bow.png"
   ],
-  "intro": "!Tier ! !",
+  "intro": "The Compound Bow is a ranged weapon in Palworld. The compound bow is a single-shot weapon that uses Reinforced Arrow. While somewhat basic compared to other weapons around its level like the Semi-Auto Rifle or Pump-Action Shotgun, its ammo is cheaper and less time-intensive to craft, making it more resource-efficient.",
   "description": "A modernized bow. Capable of firing more powerful arrows.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -918,8 +903,7 @@
     "name": "Nail",
     "count": 10
    }
-  ],
-  "icon": "/icons/compound_bow.png"
+  ]
  },
  {
   "title": "Core Eject Shotgun",
@@ -930,7 +914,7 @@
    "Core Eject Shotgun icon.png",
    "Core Eject Shotgun.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Core Eject Shotgun is a ranged weapon in Palworld. The Core Eject Shotgun is a semi-automatic weapon that uses Shotgun Shell. In additon to firing regular bullets, it also gives the player the ability to fire a Core Eject projectile instead of throwing Spheres when equipped, which will explode when landing or when shot with the Marksman Revolver. Holding the throw key will fill a charge indicator on the side, which will launch the projectile further. The Core Eject Shotgun also has a bottomless magazine, allowing it to fire nonstop as long as the player has ammo in their inventory. The Cor",
   "description": "[ULTRAKILL Collab] A shotgun powered by heat, capable of firing endlessly. When equipped, throwing a Pal Sphere is replace with Core Eject. Hold to charge and extend its range. Cores hit by shots from Marksman Revolver will explode.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -986,8 +970,7 @@
     "name": "Flame Organ",
     "count": 40
    }
-  ],
-  "icon": "/icons/core_eject_shotgun.png"
+  ]
  },
  {
   "title": "Dark Grenade",
@@ -998,7 +981,7 @@
    "Dark Grenade icon.png",
    "Dark Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Dark Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Dark Grenade is a thrown explosive that deals AOE damage. However, it deals Dark-element damage, making it great at dealing with Neutral-element Pals. The Dark Grenade also has a chance to blind enemies, reducing their vision and making them easier to catch.",
   "description": "A Dark Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Dark damage to enemies.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -1023,8 +1006,7 @@
     "name": "Corrosive Solvent",
     "count": 1
    }
-  ],
-  "icon": "/icons/dark_grenade.png"
+  ]
  },
  {
   "title": "Decal Gun 1",
@@ -1035,7 +1017,7 @@
    "Decal Gun 1 icon.png",
    "Decal Gun 1.png"
   ],
-  "intro": "}}",
+  "intro": "Decal Gun 1 is a weapon that is part of the Decal Gun Set. It requires a Weapon Workbench to craft.",
   "description": "Strange gun that paints a picture of Cattiva where it is fired. Have some fun and paint the walls or ceilings!",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -1067,8 +1049,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/decal_gun_1.png"
+  ]
  },
  {
   "title": "Decal Gun 2",
@@ -1079,7 +1060,7 @@
    "Decal Gun 2 icon.png",
    "Decal Gun 2.png"
   ],
-  "intro": "}}",
+  "intro": "Decal Gun 2 is a weapon that is part of the Decal Gun Set. It requires a Weapon Workbench to craft.",
   "description": "Strange gun that paints a picture of Lamball where it is fired. Have some fun and paint the walls or ceilings!",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -1111,8 +1092,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/decal_gun_2.png"
+  ]
  },
  {
   "title": "Decal Gun 3",
@@ -1123,7 +1103,7 @@
    "Decal Gun 3 icon.png",
    "Decal Gun 3.png"
   ],
-  "intro": "}}",
+  "intro": "Decal Gun 3 is a weapon that is part of the Decal Gun Set. It requires a Weapon Workbench to craft.",
   "description": "Strange gun that paints a picture of Melpaca where it is fired. Have some fun and paint the walls or ceilings!",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -1155,8 +1135,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/decal_gun_3.png"
+  ]
  },
  {
   "title": "Decal Gun 4",
@@ -1167,7 +1146,7 @@
    "Decal Gun 4 icon.png",
    "Decal Gun 4.png"
   ],
-  "intro": "}}",
+  "intro": "Decal Gun 4 is a weapon that is part of the Decal Gun Set. It requires a Weapon Workbench to craft.",
   "description": "Strange gun that paints a picture of Anubis where it is fired. Have some fun and paint the walls or ceilings!",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -1199,8 +1178,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/decal_gun_4.png"
+  ]
  },
  {
   "title": "Decal Gun 5",
@@ -1211,7 +1189,7 @@
    "Decal Gun 5 icon.png",
    "Decal Gun 5.png"
   ],
-  "intro": "}}",
+  "intro": "Decal Gun 5 is a weapon that is part of the Decal Gun Set. It requires a Weapon Workbench to craft.",
   "description": "Strange gun that paints a picture of Relaxaurus where it is fired. Have some fun and paint the walls or ceilings!",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -1243,8 +1221,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/decal_gun_5.png"
+  ]
  },
  {
   "title": "Double-Barreled Shotgun",
@@ -1255,7 +1232,7 @@
    "Double-Barreled Shotgun icon.png",
    "Double-Barreled Shotgun.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine",
+  "intro": "The Double-Barreled Shotgun is a ranged weapon in Palworld. The Double-Barreled Shotgun is a semi-automatic weapon that uses Shotgun Shell. It deals higher damage than the Makeshift Shotgun, though it still suffers from limited effective range and relatively low Durability compared to other weapons unlocked around the same time as it. However, the Double-Barreled Shotgun is still highly effective at dealing heavy burst damage up close.",
   "description": "Wreaks havoc at close range. Can fire twice before reloading. Despite the limited load capacity, it still packs a punch.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1312,8 +1289,7 @@
     "name": "Hardwood",
     "count": 25
    }
-  ],
-  "icon": "/icons/double_barreled_shotgun.png"
+  ]
  },
  {
   "title": "Dragon Grenade",
@@ -1324,7 +1300,7 @@
    "Dragon Grenade icon.png",
    "Dragon Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Dragon Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Dragon Grenade is a thrown explosive that deals AOE damage. However, it deals Dragon-element damage, making it great at dealing with Dark-element Pals.",
   "description": "A Dragon Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Dragon damage to enemies.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -1353,8 +1329,7 @@
     "name": "Horn",
     "count": 1
    }
-  ],
-  "icon": "/icons/dragon_grenade.png"
+  ]
  },
  {
   "title": "Drone Launcher",
@@ -1365,7 +1340,7 @@
    "Drone Launcher icon.png",
    "Drone Launcher.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Drone Launcher is a ranged weapon in Palworld. The Drone Launcher is a semi-automatic weapon that summons up to 9 attack drones that hover around the player. Like the Terraprisma swords, these drones will automatically seek out and attack the nearest enemy upon entering combat, returning to the player once all foes have been defeated. The drones will persist even when switching weapons, though they will vanish if the Drone Launcher is unequipped.",
   "description": "A launcher that fires drones which perform autonomous attacks. Capable of deploying up to 9 units, enabling sustained suppression.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1419,8 +1394,7 @@
     "name": "Ancient Civilization Core",
     "count": 5
    }
-  ],
-  "icon": "/icons/drone_launcher.png"
+  ]
  },
  {
   "title": "Elizabee's Staff",
@@ -1431,7 +1405,7 @@
    "Elizabee's Staff icon.png",
    "Elizabee's Staff.png"
   ],
-  "intro": "}}",
+  "intro": "Elizabee's Staff is a melee weapon in Palworld. Elizabee's Staff functions as a spear, dealing more damage than the Metal Spear but less damage than the Refined Metal Spear. Additionally, it does not require any resources to be repaired, making it a valuable weapon for those who manage to obtain it.",
   "description": "A spear made from Elizabee's staff, altered for human use. It is imbued with Elizabee's indomitable spirit.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -1448,8 +1422,7 @@
   },
   "top_attack": 150.0,
   "top_durability": 300.0,
-  "ingredients": [],
-  "icon": "/icons/elizabee_s_staff.png"
+  "ingredients": []
  },
  {
   "title": "Energy Shotgun",
@@ -1460,7 +1433,7 @@
    "Energy Shotgun icon.png",
    "Energy Shotgun.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Energy Shotgun is a ranged weapon in Palworld. The Energy Shotgun is a semi-automatic weapon that uses Energy Shotgun Ammo. It fires a wide spread of energy projectiles that deal heavy damage up close, making it great for close-quarters engagements. However, the Energy Shotgun still suffers from the same limited range that all other shotguns have.",
   "description": "A shotgun that fires volatile energy rounds. Designed for rapid fire at close range, it delivers devastating bursts of damage at the cost of range.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1517,8 +1490,7 @@
     "name": "Computer",
     "count": 15
    }
-  ],
-  "icon": "/icons/energy_shotgun.png"
+  ]
  },
  {
   "title": "Enhanced Lily's Spear",
@@ -1529,7 +1501,7 @@
    "Enhanced Lily's Spear icon.png",
    "Enhanced Lily's Spear.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Enhanced Lily's Spear is a melee weapon in Palworld. The Enhanced Lily's Spear, as its name suggests, is an improved version of Lily's Spear, boasting higher Attack power and Durability. It's a good late-game melee option, though it is outclassed by the Laser Sword.",
   "description": "An enhanced version of Lily's beloved spear. Pierces those who neglect their Pals.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -1568,8 +1540,7 @@
     "name": "High Quality Wooden Board",
     "count": 20
    }
-  ],
-  "icon": "/icons/enhanced_lily_s_spear.png"
+  ]
  },
  {
   "title": "Excalibur",
@@ -1580,7 +1551,7 @@
    "Excalibur icon.png",
    "Excalibur.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Excalibur is a melee weapon in Palworld. The Excalibur is a sword that emits shockwaves that can hit multiple enemies at once. This feature, combined with its high swing speed, makes the Excalibur very effective at dealing with groups of enemies in close quarters. The Excalibur is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] A sacred sword that gleams with golden light. Swinging it unleashes shockwaves around you.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -1622,8 +1593,7 @@
     "name": "Hallowed Bar",
     "count": 30
    }
-  ],
-  "icon": "/icons/excalibur.png"
+  ]
  },
  {
   "title": "Fire Arrow Crossbow",
@@ -1634,7 +1604,7 @@
    "Fire Arrow Crossbow icon.png",
    "Fire Arrow Crossbow.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "Fire Arrow Crossbow is a ranged weapon the player can use, designed to apply elemental status effects rather than relying solely on raw damage. Weapons are equipment used to deal damage to enemies and include both melee and ranged options, each suited to different playstyles and encounters. As a specialized variant of the Crossbow, the Fire Arrow Crossbow fires Fire Arrows to inflict burning on targets. Burning Pals take damage over time and become easier to capture due to increased Capture Power, making this weapon particularly effective for utility-focused combat and Pal capture strategies. ",
   "description": "A Crossbow that deals Fire damage. Burns Pals with fire arrows, making them easier to capture.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1699,8 +1669,7 @@
     "name": "Flame Organ",
     "count": 5
    }
-  ],
-  "icon": "/icons/fire_arrow_crossbow.png"
+  ]
  },
  {
   "title": "Fire Bow",
@@ -1711,7 +1680,7 @@
    "Fire Bow icon.png",
    "Fire Bow.png"
   ],
-  "intro": "}}",
+  "intro": "Fire Bow is a ranged weapon that inflicts Burning on hit, dealing damage over time and temporarily increasing Capture Power against affected Pals. It requires Fire Arrow to fire. The Fire Bow fires Fire Arrows at distant targets. On hit, it can apply Burning, causing damage over time and improving capture chances while the effect is active. Standard Arrow cannot be used.",
   "description": "A bow that deals Fire damage. Burns Pals with fire arrows, making them easier to capture. Requires Fire Arrow.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1748,8 +1717,7 @@
     "name": "Flame Organ",
     "count": 2
    }
-  ],
-  "icon": "/icons/fire_bow.png"
+  ]
  },
  {
   "title": "Five Shot Bow",
@@ -1760,7 +1728,7 @@
    "Five Shot Bow icon.png",
    "Five Shot Bow.png"
   ],
-  "intro": "}}",
+  "intro": "Five Shot Bow has currently no use and is unobtainable.",
   "description": "An enhanced bow that allows five arrows to be fired simultaneously. By some strange mechanism, it only consumes a single Arrow when fired.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1775,8 +1743,7 @@
   },
   "top_attack": null,
   "top_durability": null,
-  "ingredients": [],
-  "icon": "/icons/five_shot_bow.png"
+  "ingredients": []
  },
  {
   "title": "Flamethrower",
@@ -1787,7 +1754,7 @@
    "Flamethrower icon.png",
    "Flamethrower.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Flamethrower is a ranged weapon in Palworld. The Flamethrower is an automatic weapon that uses Flamethrower Fuel. It fires a continuous stream of flames that deals Fire-element damage and has a chance to burn targets. Its wide arc of fire and huge magazine capacity also make the Flamethrower great at dealing with large groups of enemies. However, the Flamethrower is very heavy and its ammo is expensive to produce, requiring careful management.",
   "description": "A heavy flamethrower that projects sustained streams of fire over long distances. Effective for crowd control and applying burning damage over time.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1848,8 +1815,7 @@
     "name": "Flame Organ",
     "count": 30
    }
-  ],
-  "icon": "/icons/flamethrower.png"
+  ]
  },
  {
   "title": "Frag Grenade Mk2",
@@ -1860,7 +1826,7 @@
    "Frag Grenade Mk2 icon.png",
    "Frag Grenade Mk2.png"
   ],
-  "intro": "}}",
+  "intro": "The Frag Grenade Mk2 is a weapon in Palworld. The Frag Grenade Mk2 is the upgraded version of the standard Frag Grenade. It deals much higher damage and produces a much larger explosion, making it even more effective at dealing with large groups of enemies. However, the Frag Grenade Mk2 is considerably more expensive to produce than its weaker counterpart.",
   "description": "Improved frag grenade. When thrown, it explodes and causes great deal of damage to the enemy.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -1889,8 +1855,7 @@
     "name": "Crude Oil",
     "count": 3
    }
-  ],
-  "icon": "/icons/frag_grenade_mk2.png"
+  ]
  },
  {
   "title": "Gatling Gun",
@@ -1901,7 +1866,7 @@
    "Gatling Gun icon.png",
    "Gatling Gun.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Gatling Gun is a ranged weapon in Palworld. The Gatling Gun is a rapid-fire, automatic weapon that uses Gatling Gun Ammo. Its high rate of fire and huge magazine capacity let it deal heavy sustained damage, allowing it to effectively deal with large groups and durable single targets. However, the Gatling Gun is very heavy and it can burn through ammo fast if the user isn't careful.",
   "description": "A Gatling gun capable of sustained rapid fire. Designed to overwhelm enemies with continuous suppressive fire.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -1958,8 +1923,7 @@
     "name": "Carbon Fiber",
     "count": 70
    }
-  ],
-  "icon": "/icons/gatling_gun.png"
+  ]
  },
  {
   "title": "Giga Grappling Gun",
@@ -1970,7 +1934,7 @@
    "Giga Grappling Gun icon.png",
    "Giga Grappling Gun.png"
   ],
-  "intro": "}}",
+  "intro": "Giga Grappling Gun is a Grappling Gun.",
   "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. Using data from prototype versions, its capabilities have been further increased.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2002,8 +1966,7 @@
     "name": "Ancient Civilization Parts",
     "count": 8
    }
-  ],
-  "icon": "/icons/giga_grappling_gun.png"
+  ]
  },
  {
   "title": "Grappling Gun",
@@ -2014,7 +1977,7 @@
    "Grappling Gun icon.png",
    "Grappling Gun.png"
   ],
-  "intro": "}}",
+  "intro": "Grappling Gun is the lowest tier Grappling Gun.",
   "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. It allows for easy movement between places with varying elevation.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2046,8 +2009,7 @@
     "name": "Ancient Civilization Parts",
     "count": 1
    }
-  ],
-  "icon": "/icons/grappling_gun.png"
+  ]
  },
  {
   "title": "Grass Grenade",
@@ -2058,7 +2020,7 @@
    "Grass Grenade icon.png",
    "Grass Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Grass Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Grass Grenade is a thrown explosive that deals AOE damage. However, it deals Grass-element damage, making it great at dealing with Ground-element Pals. The Grass Grenade also has a chance to leave enemies ivy-covered, slowing them down and making them easier to catch.",
   "description": "A Grass Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Grass damage to enemies.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -2083,8 +2045,7 @@
     "name": "Hardwood",
     "count": 1
    }
-  ],
-  "icon": "/icons/grass_grenade.png"
+  ]
  },
  {
   "title": "Grenade Launcher",
@@ -2095,7 +2056,7 @@
    "Grenade Launcher icon.png",
    "Grenade Launcher.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Grenade Launcher is a ranged weapon in Palworld. The Grenade Launcher is a semi-automatic weapon that uses Grenade Ammo. It fires grenades that deal heavy splash damage, making it great for quickly clearing out large groups of enemies or dealing burst damage to durable targets. However, the Grenade Launcher's low magazine capacity means that it requires careful positioning and timing between reloads.",
   "description": "Fires explosive grenades that deal heavy area damage. Especially effective against groups of enemies and clustered targets.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -2152,8 +2113,7 @@
     "name": "Carbon Fiber",
     "count": 15
    }
-  ],
-  "icon": "/icons/grenade_launcher.png"
+  ]
  },
  {
   "title": "Ground Grenade",
@@ -2164,7 +2124,7 @@
    "Ground Grenade icon.png",
    "Ground Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Ground Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Ground Grenade is a thrown explosive that deals AOE damage. However, it deals Ground-element damage, making it great at dealing with Electric-element Pals. The Ground Grenade also has a chance to make enemies muddy, slowing them down and making them easier to catch.",
   "description": "A Ground Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Ground damage to enemies.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -2193,8 +2153,7 @@
     "name": "Ore",
     "count": 1
    }
-  ],
-  "icon": "/icons/ground_grenade.png"
+  ]
  },
  {
   "title": "Guided Missile Launcher",
@@ -2205,7 +2164,7 @@
    "Guided Missile Launcher icon.png",
    "Guided Missile Launcher.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Guided Missile Launcher is a ranged weapon in Palworld. The Guided Missile Launcher is a single-shot weapon that uses Missile Ammo. It fires guided missiles that automatically track and chase down the nearest target, making it highly accurate. However, its single-shot capacity limits its effectiveness in close-range engagements.",
   "description": "A guided missile launcher that fires homing missiles which track enemies before detonating on impact. Its explosions deal massive damage over a wide area, making it effective against powerful or clustered targets.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -2266,8 +2225,7 @@
     "name": "Computer",
     "count": 5
    }
-  ],
-  "icon": "/icons/guided_missile_launcher.png"
+  ]
  },
  {
   "title": "Hand-Held Torch",
@@ -2278,7 +2236,7 @@
    "Hand-Held Torch icon.png",
    "Hand-Held Torch.png"
   ],
-  "intro": "The",
+  "intro": "The Hand-held Torch, also called the Torch, is a melee weapon in Palworld. The Hand-held Torch is used to provide light and warmth in a small area around the user. It is an invaluable early-game item for both exploring dark areas like Dungeons and staving off the cold of night. When used as a weapon, the Hand-held Torch has a slight chance to set enemies on fire, dealing damage over time and making them easier to capture.",
   "description": "Lights up dark areas and keeps you warm. Can also be used for close range combat in a pinch.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2304,8 +2262,7 @@
     "name": "Stone",
     "count": 2
    }
-  ],
-  "icon": "/icons/hand_held_torch.png"
+  ]
  },
  {
   "title": "Handgun",
@@ -2316,7 +2273,7 @@
    "Handgun icon.png",
    "Handgun.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine",
+  "intro": "The Handgun is a ranged weapon in Palworld. The Handgun is a semi-automatic weapon that uses Handgun Ammo. While it deals less damage per shot than the Makeshift Handgun, it has a higher rate of fire, higher Durability, and a higher magazine capacity that increases with rarity. These qualities make the Handgun a much better close-quarters weapon than its makeshift counterpart.",
   "description": "A handgun with improved capacity and rapid-fire capabilities. Has more immediate firepower than a Makeshift Handgun.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -2369,8 +2326,7 @@
     "name": "High Quality Pal Oil",
     "count": 15
    }
-  ],
-  "icon": "/icons/handgun.png"
+  ]
  },
  {
   "title": "Heavy Assault Rifle",
@@ -2381,7 +2337,7 @@
    "Heavy Assault Rifle icon.png",
    "Heavy Assault Rifle.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Heavy Assault Rifle is a ranged weapon in Palworld. The Heavy Assault Rifle is a rapid-fire, automatic weapon that uses Heavy Assault Rifle Ammo. Like the regular Assault Rifle, it excels in close-to-medium ranged combat, though it comes with a higher magazine capacity and deals much higher damage per shot, letting it deal with tougher enemies more easily.",
   "description": "An assault rifle made from Soralite Ingots. It has been enhanced to handle powerful ammo while maintaining its versatility.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -2442,8 +2398,7 @@
     "name": "AI Core",
     "count": 5
    }
-  ],
-  "icon": "/icons/heavy_assault_rifle.png"
+  ]
  },
  {
   "title": "Homing Sphere Launcher",
@@ -2454,7 +2409,7 @@
    "Homing Sphere Launcher icon.png",
    "Homing Sphere Launcher.png"
   ],
-  "intro": "}}",
+  "intro": "Homing Sphere Launcher is a weapon. It is a tier 50 ancient technology item that costs 5 points to unlock. It requires a Weapon Assembly Line II to craft.",
   "description": "A launcher for firing spheres. Fired spheres home in on Pals.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2490,8 +2445,7 @@
     "name": "Ancient Civilization Parts",
     "count": 20
    }
-  ],
-  "icon": "/icons/homing_sphere_launcher.png"
+  ]
  },
  {
   "title": "Hyper Grappling Gun",
@@ -2502,7 +2456,7 @@
    "Hyper Grappling Gun icon.png",
    "Hyper Grappling Gun.png"
   ],
-  "intro": "}}",
+  "intro": "Hyper Grappling Gun is the highest tier Grappling Gun.",
   "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. As a result of research, it has achieved overwhelming mobility.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2538,8 +2492,7 @@
     "name": "Ancient Civilization Parts",
     "count": 15
    }
-  ],
-  "icon": "/icons/hyper_grappling_gun.png"
+  ]
  },
  {
   "title": "Ice Grenade",
@@ -2550,7 +2503,7 @@
    "Ice Grenade icon.png",
    "Ice Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Ice Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Ice Grenade is a thrown explosive that deals AOE damage. However, it deals Ice-element damage, making it great at dealing with Dragon-element Pals. The Ice Grenade also has a chance to freeze enemies, immobilizing them and making them easier to catch.",
   "description": "A Ice Grenade useful for mid-range combat. It detonates a few seconds after being thrown, freezing the surrounding area.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -2579,8 +2532,7 @@
     "name": "Ice Organ",
     "count": 1
    }
-  ],
-  "icon": "/icons/ice_grenade.png"
+  ]
  },
  {
   "title": "Incendiary Grenade",
@@ -2591,7 +2543,7 @@
    "Incendiary Grenade icon.png",
    "Incendiary Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Incendiary Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Incendiary Grenade is a thrown explosive that deals AOE damage. However, it deals Fire-element damage, making it great at dealing with Grass and Ice-element Pals. The Incendiary Grenade also has a chance to burn enemies, dealing damage over time and making them easier to catch.",
   "description": "A Incendiary Grenade useful for mid-range combat. It detonates a few seconds after being thrown, setting the surrounding area on fire.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -2620,8 +2572,7 @@
     "name": "Flame Organ",
     "count": 1
    }
-  ],
-  "icon": "/icons/incendiary_grenade.png"
+  ]
  },
  {
   "title": "Intermediate Fishing Rod (Cattiva)",
@@ -2632,7 +2583,7 @@
    "Intermediate Fishing Rod (Cattiva) icon.png",
    "Intermediate Fishing Rod (Cattiva).png"
   ],
-  "intro": "It can be crafted after obtaining the Beginner Fishing Set Technology.",
+  "intro": "Intermediate Fishing Rod (Cattiva) is a Fishing Rod.",
   "description": "A fishing rod designed for catching Pals. Use it with bait near water where shadows are visible to start fishing. It boasts improved performance, making catches a bit easier.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2666,8 +2617,7 @@
     "name": "Fiber",
     "count": 30
    }
-  ],
-  "icon": "/icons/intermediate_fishing_rod_cattiva.png"
+  ]
  },
  {
   "title": "Intermediate Fishing Rod (Croajiro)",
@@ -2678,7 +2628,7 @@
    "Intermediate Fishing Rod (Croajiro) icon.png",
    "Intermediate Fishing Rod (Croajiro).png"
   ],
-  "intro": "It can be crafted after obtaining an Intermediate Fishing Rod (Croajiro) Schematic.",
+  "intro": "Intermediate Fishing Rod (Croajiro) is an upgrade to the Intermediate Fishing Rod (Cattiva).",
   "description": "A fishing rod designed for catching Pals. It's sturdier and offers slightly better performance than Intermediate Fishing Rod (Cattiva).",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -2716,8 +2666,7 @@
     "name": "Coralum Ore",
     "count": 10
    }
-  ],
-  "icon": "/icons/intermediate_fishing_rod_croajiro.png"
+  ]
  },
  {
   "title": "Katana",
@@ -2728,7 +2677,7 @@
    "Katana icon.png",
    "Katana.png"
   ],
-  "intro": "!Tier ! !",
+  "intro": "The Katana is a melee weapon in Palworld. Like the Sword, the Katana is a strong melee weapon for close-ranged combat. However, in addition to dealing much higher damage, the Katana also has a powerful charged slash attack that also propels the user forwards, making it good for mobility.",
   "description": "Katana for close-range combat. Slices through with razor-sharp precision, cutting cleanly in one strike.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -2778,8 +2727,7 @@
     "name": "Corrosive Solvent",
     "count": 3
    }
-  ],
-  "icon": "/icons/katana.png"
+  ]
  },
  {
   "title": "Laser Gatling Gun",
@@ -2790,7 +2738,7 @@
    "Laser Gatling Gun icon.png",
    "Laser Gatling Gun.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Laser Gatling Gun is a ranged weapon in Palworld. The Laser Gatling Gun is a rapid-fire, automatic weapon that uses Laser Gatling Cartridge. Its high rate of fire, huge magazine capacity, and good damage per shot make the Laser Gatling Gun great for clearing out large groups or dealing big damage to more durable targets. However, it can still burn through ammo quickly if the user isn't careful.",
   "description": "Fires beam-like energy blasts at high speed. Its overwhelming firepower can take down multiple enemies at once.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -2851,8 +2799,7 @@
     "name": "Thermal Core",
     "count": 3
    }
-  ],
-  "icon": "/icons/laser_gatling_gun.png"
+  ]
  },
  {
   "title": "Laser Rifle",
@@ -2863,7 +2810,7 @@
    "Laser Rifle icon.png",
    "Laser Rifle.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Laser Rifle is a ranged weapon in Palworld. The Laser Rifle is a semi-automatic weapon that uses Energy Cartridge. It fires powerful energy projectiles with great accuracy, allowing it to deal consistently high damage at all ranges. Additionally, the Laser Rifle's high magazine capacity makes it perfect for prolonged engagements, though its relatively slow rate of fire compared to weapons like the Assault Rifle or Gatling Gun make it less effective at dealing quick bursts of damage.",
   "description": "A weapon that fires high-energy lasers. It has impressive firepower and is easy to handle.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -2924,8 +2871,7 @@
     "name": "Computer",
     "count": 3
    }
-  ],
-  "icon": "/icons/laser_rifle.png"
+  ]
  },
  {
   "title": "Laser Sword",
@@ -2936,7 +2882,7 @@
    "Laser Sword icon.png",
    "Laser Sword.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Laser Sword is a melee weapon in Palworld. The Laser Sword is a late-game weapon with the same attack pattern as the Katana and Beam Sword as well as the ability to fire off an energy wave with its charged slash attack. However, it deals far more damage than the Beam Sword, making it much better for close-quarters combat.",
   "description": "A Beam Sword made from Soralite Ingots. A close-range weapon that instantly cuts targets using its high-output energy blade.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -2990,8 +2936,7 @@
     "name": "AI Core",
     "count": 3
    }
-  ],
-  "icon": "/icons/laser_sword.png"
+  ]
  },
  {
   "title": "Legendary Meowmere",
@@ -3002,7 +2947,7 @@
    "Legendary Meowmere icon.png",
    "Legendary Meowmere.png"
   ],
-  "intro": "}}",
+  "intro": "Not to be confused with the Meowmere. The Legendary Meowmere is a melee weapon in Palworld. The Legendary Meowmere is a sword that can be rarely obtained from the Moon Lord raid boss. It fires explosive, cat-shaped projectiles like the regular Meowmere, though it deals more damage, has ten times the Durability, and swings considerably faster, making it a better weapon overall. The Legendary Meowmere is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] A legendary Meowmere forged from Luminite Bar. Swinging it launches cat projectiles that ricochet and attack foes.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -3032,8 +2977,7 @@
     "name": "Coal",
     "count": 22
    }
-  ],
-  "icon": "/icons/legendary_meowmere.png"
+  ]
  },
  {
   "title": "Lily's Spear",
@@ -3045,7 +2989,7 @@
    "Lily's Spear icon.png",
    "Lily's Spear.png"
   ],
-  "intro": "!Tier ! !",
+  "intro": "Lily's Spear is a melee weapon in Palworld. Lily's Spear is a powerful late-game melee weapon that deals high damage in close-quarters combat. In addition to its combat capabilities, it can also chop down trees and mine rocks, making it a good multitool.",
   "description": "The spear cherished by Lily. Punishes those who neglect their Pals.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -3082,8 +3026,7 @@
     "name": "High Quality Wooden Board",
     "count": 3
    }
-  ],
-  "icon": "/icons/lily_s_spear.png"
+  ]
  },
  {
   "title": "Makeshift Assault Rifle",
@@ -3094,7 +3037,7 @@
    "Makeshift Assault Rifle icon.png",
    "Makeshift Assault Rifle.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Makeshift Assault Rifle is a ranged weapon in Palworld. The Makeshift Assault Rifle is an automatic weapon that uses Coarse Ammo. Though it fires slower than the Makeshift SMG and has a smaller magazine capacity, it has higher Durability, deals more damage per shot, and is more accurate, making it better at longer ranges. However, since the Makeshift Assault Rifle uses the same ammo type as other makeshift weapons, ammo management is important when using it.",
   "description": "An assault rifle handmade from scraps. It excels in rate of fire and long range, but its single-shot power is low.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3151,8 +3094,7 @@
     "name": "Fiber",
     "count": 60
    }
-  ],
-  "icon": "/icons/makeshift_assault_rifle.png"
+  ]
  },
  {
   "title": "Makeshift Handgun",
@@ -3163,7 +3105,7 @@
    "Makeshift Handgun icon.png",
    "Makeshift Handgun.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine",
+  "intro": "The Makeshift Handgun is a ranged weapon in Palworld. The Makeshift Handgun is a semi-automatic weapon that uses Coarse Ammo. While it doesn't deal as much damage per shot as the Musket, its higher rate of fire, larger magazine capacity, and faster reload time makes it much better for close-quarters combat. However, the Makeshift Handgun does share its ammo type with the Musket and other makeshift weapons, making ammo management important when using it.",
   "description": "A handgun created from spare parts. Relatively well suited for close-quarters combat, but can only fire one shot before needing to reload.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3220,8 +3162,7 @@
     "name": "Fiber",
     "count": 30
    }
-  ],
-  "icon": "/icons/makeshift_handgun.png"
+  ]
  },
  {
   "title": "Makeshift Shotgun",
@@ -3232,7 +3173,7 @@
    "Makeshift Shotgun icon.png",
    "Makeshift Shotgun.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Makeshift Shotgun is a ranged weapon in Palworld. The Makeshift Shotgun is a single-shot weapon that uses Coarse Ammo. It fires a spread of pellets that deal heavy damage up close, though it suffers from limited range and relatively low Durability. Additionally, the Makeshift Shotgun uses the same ammo type as other makeshift weapons, though its slow fire rate and single-shot nature means that it's highly unlikely to burn through ammo.",
   "description": "A shotgun handmade from scraps. It has a short range but excels in close-range combat",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3289,8 +3230,7 @@
     "name": "Fiber",
     "count": 50
    }
-  ],
-  "icon": "/icons/makeshift_shotgun.png"
+  ]
  },
  {
   "title": "Makeshift SMG",
@@ -3301,7 +3241,7 @@
    "Makeshift SMG icon.png",
    "Makeshift SMG.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Makeshift SMG is a ranged weapon in Palworld. The Makeshift SMG is a rapid-fire, automatic weapon that uses Coarse Ammo. While it deals low damage per shot, its high rate of fire and large magazine capacity allows it to deal quick bursts of damage, making it effective at clearing out weaker foes. However, since the Makeshift SMG uses the same ammo type as other makeshift weapons, its high fire rate means that the user can burn through ammo if they aren't careful.",
   "description": "A submachine gun handmade from scraps. It excels in rate of fire, but its single-shot power is low.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3358,8 +3298,7 @@
     "name": "Fiber",
     "count": 30
    }
-  ],
-  "icon": "/icons/makeshift_smg.png"
+  ]
  },
  {
   "title": "Marksman Revolver",
@@ -3370,7 +3309,7 @@
    "Marksman Revolver icon.png",
    "Marksman Revolver.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Marksman Revolver is a ranged weapon in Palworld. The Marksman Revolver is a semi-automatic weapon that uses Handgun Ammo. In addition to firing regular bullets, it also gives the player the ability to toss coins into the air instead of throwing Pal Spheres while equipped. Shooting these coins will cause the shot to ricochet into the nearest enemy. Players can toss up to 4 coins at once, which are replenished one at a time. The Marksman Revolver also has a bottomless magazine, allowing it to fire without reloading so long as the player has ammo in their inventory. The Marksman Revolver is ",
   "description": "[ULTRAKILL Collab] An electrically powered revolver capable of firing endlessly. When equipped, Pal Sphere throws are replaced with Coin Toss. Hitting a coin with the Marksman Revolver causes the bullet to ricochet toward enemies.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3431,8 +3370,7 @@
     "name": "Electric Organ",
     "count": 30
    }
-  ],
-  "icon": "/icons/marksman_revolver.png"
+  ]
  },
  {
   "title": "Meat Cleaver",
@@ -3443,7 +3381,7 @@
    "Meat Cleaver icon.png",
    "Meat Cleaver.png"
   ],
-  "intro": "}}",
+  "intro": "The Meat Cleaver is a tool in Palworld. The Meat Cleaver is used for butchering the player's Pals, letting them obtain their drops once again after catching them. Though this action can be quite lucrative, especially if the Pal being butchered is an Alpha Pals and will drop valuable items or even legendary-tier Schematic, Pals that are butchered will die permanently. As such, the user must be very careful when selecting which Pals they want to kill.",
   "description": "Knife for butchering Pals. When equipped, the Pet command becomes Butcher. Butchered Pals will be gone for good.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -3473,8 +3411,7 @@
     "name": "Stone",
     "count": 5
    }
-  ],
-  "icon": "/icons/meat_cleaver.png"
+  ]
  },
  {
   "title": "Mechanical Bow",
@@ -3485,7 +3422,7 @@
    "Mechanical Bow icon.png",
    "Mechanical Bow.png"
   ],
-  "intro": "!Tier ! !",
+  "intro": "The Mechanical Bow is a ranged weapon in Palworld. The Mechanical Bow is a single-shot weapon that uses Mechanical Bow Ammo. It deals massive damage per shot, making it highly effective at dealing with durable targets. However, its single-shot nature limits its effectiveness against large groups.",
   "description": "A bow crafted from Soralite Ingots. With greatly enhanced initial velocity and piercing power, this high-precision weapon excels at ranged combat.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3546,8 +3483,7 @@
     "name": "AI Core",
     "count": 3
    }
-  ],
-  "icon": "/icons/mechanical_bow.png"
+  ]
  },
  {
   "title": "Mega Grappling Gun",
@@ -3558,7 +3494,7 @@
    "Mega Grappling Gun icon.png",
    "Mega Grappling Gun.png"
   ],
-  "intro": "}}",
+  "intro": "Mega Grappling Gun is a grappling gun.",
   "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. Since it's upgraded, it now has greater range.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -3590,8 +3526,7 @@
     "name": "Ancient Civilization Parts",
     "count": 4
    }
-  ],
-  "icon": "/icons/mega_grappling_gun.png"
+  ]
  },
  {
   "title": "Megaboost Gun",
@@ -3602,7 +3537,7 @@
    "Megaboost Gun icon.png",
    "Megaboost Gun.png"
   ],
-  "intro": "}}",
+  "intro": "Megaboost Gun is a Weapon item. Weapons are items used to deal damage to enemies. They include melee and ranged types, each with distinct attack behaviors, damage values, and usage requirements. Weapon effectiveness is influenced by factors such as base stats, durability, upgrade level, and compatible ammunition or effects. Weapons can be obtained through crafting, merchants, drops, or rewards, and are a core component of combat.",
   "description": "Firing it at an allied Pal boosts their attack and defense, while hitting an enemy deals damage. Thanks to improvements, the boost is stronger and lasts longer, and it deals more damage to enemies.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3637,8 +3572,7 @@
     "name": "Circuit Board",
     "count": 100
    }
-  ],
-  "icon": "/icons/megaboost_gun.png"
+  ]
  },
  {
   "title": "Meowmere",
@@ -3649,7 +3583,7 @@
    "Meowmere icon.png",
    "Meowmere.png"
   ],
-  "intro": "}}",
+  "intro": "Not to be confused with the Legendary Meowmere. The Meowmere is a melee weapon in Palworld. The Meowmere is a sword that fires bouncing, explosive cat-shaped projectiles that deal AOE damage, making it highly effective against groups of enemies. The Meowmere is a part of the Palworld-Terraria crossover.",
   "description": "[Tides of Terraria] According to the legend, this sword was brought back from a distant land by Croajiro. Why? We have no idea... Fires a bouncing cat projectile with each swing to attack enemies.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -3679,8 +3613,7 @@
     "name": "Coal",
     "count": 22
    }
-  ],
-  "icon": "/icons/meowmere.png"
+  ]
  },
  {
   "title": "Metal Axe",
@@ -3691,7 +3624,7 @@
    "Metal Axe icon.png",
    "Metal Axe.png"
   ],
-  "intro": "}}",
+  "intro": "The Metal Axe is a tool in Palworld. Like the Stone Axe, the Metal Axe is used to chop down trees for Wood and Fiber. However, it also comes with the \"Logging Yield Up Lv. 1\" bonus, letting it harvest around twice as many resources from a single tree.",
   "description": "An axe for cutting wood. Made from metal, its sharpness has improved.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -3722,8 +3655,7 @@
     "name": "Ingot",
     "count": 15
    }
-  ],
-  "icon": "/icons/metal_axe.png"
+  ]
  },
  {
   "title": "Metal Bat",
@@ -3734,7 +3666,7 @@
    "Metal Bat icon.png",
    "Metal Bat.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Metal Bat is a melee weapon in Palworld. The Metal Bat is an improved version of the regular Bat, boasting much higher Attack power and Durability. It's a good mid-game melee option, though it's outclassed by the Katana.",
   "description": "A Metal Bat that works well in close combat. Use it to beat down anyone you don't like.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -3780,8 +3712,7 @@
     "name": "Refined Ingot",
     "count": 20
    }
-  ],
-  "icon": "/icons/metal_bat.png"
+  ]
  },
  {
   "title": "Metal Detector",
@@ -3792,7 +3723,7 @@
    "Metal Detector icon.png",
    "Metal Detector.png"
   ],
-  "intro": "}}",
+  "intro": "Metal Detector is a tool used to locate buried Chromite.",
   "description": "Holding it allows you to detect hidden ores nearby. It marks the metal when close to the ore, but the mark disappears if you move away.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -3825,8 +3756,7 @@
     "name": "Nightstar Sand",
     "count": 20
    }
-  ],
-  "icon": "/icons/metal_detector.png"
+  ]
  },
  {
   "title": "Metal Pickaxe",
@@ -3837,7 +3767,7 @@
    "Metal Pickaxe icon.png",
    "Metal Pickaxe.png"
   ],
-  "intro": "}}",
+  "intro": "The Metal Pickaxe is a tool in Palworld. Like the Stone Pickaxe, the Metal Pickaxe is used to harvest resources like Stone and Ore from larger nodes. However, it comes with the \"Mining Yield Up Lv. 1\" bonus, letting it harvest around twice as many resources from a single node.",
   "description": "A pickaxe used for mining. Made from metal, its durability and efficiency have improved.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -3868,8 +3798,7 @@
     "name": "Ingot",
     "count": 15
    }
-  ],
-  "icon": "/icons/metal_pickaxe.png"
+  ]
  },
  {
   "title": "Metal Spear",
@@ -3880,7 +3809,7 @@
    "Metal Spear icon.png",
    "Metal Spear.png"
   ],
-  "intro": "}}",
+  "intro": "The Metal Spear is a melee weapon in Palworld. The Metal Spear is used for close-range combat against Pals and Humans. Its extended reach allows players to attack from a slightly greater distance, while the metal tip provides significantly increased attack power.",
   "description": "Useful for close-range combat. The metal tip gives it increased attack power, and its length allows you to stand further away when attacking.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -3910,8 +3839,7 @@
     "name": "Ingot",
     "count": 10
    }
-  ],
-  "icon": "/icons/metal_spear.png"
+  ]
  },
  {
   "title": "Meteor Launcher",
@@ -3922,7 +3850,7 @@
    "Meteor Launcher icon.png",
    "Meteor Launcher.png"
   ],
-  "intro": "!Tier !! !!",
+  "intro": "The Meteor Launcher is a ranged weapon in Palworld. The Meteor Launcher is a single-shot weapon that uses Meteorite Bullet. It deals heavy AOE damage, making it a great mid-game weapon for dealing with large groups of enemies, though its ammo is somewhat difficult to obtain in mass quantities.",
   "description": "A phenomenal weapon that fires a meteor. Upon striking its target, it creates an explosion similar to a meteorite impact.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -3963,8 +3891,7 @@
     "name": "Corrosive Solvent",
     "count": 5
    }
-  ],
-  "icon": "/icons/meteor_launcher.png"
+  ]
  },
  {
   "title": "Multi Guided Missile Launcher",
@@ -3975,7 +3902,7 @@
    "Multi Guided Missile Launcher icon.png",
    "Multi Guided Missile Launcher.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Multi Guided Missile Launcher is a ranged weapon in Palworld. The Multi Guided Missile Launcher is a semi-automatic weapon that uses Missile Ammo. Though it deals the same damage per shot as the regular Guided Missile Launcher and has the same Durability, it can carry 4 missiles at once, allowing it to deal much higher bursts of damage. However, it still suffers from the same long reload time as its single-shot counterpart.",
   "description": "A multi-lock missile launcher that fires guided missiles capable of tracking enemies. Designed for overwhelming burst damage against high-value targets.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4036,8 +3963,7 @@
     "name": "Computer",
     "count": 8
    }
-  ],
-  "icon": "/icons/multi_guided_missile_launcher.png"
+  ]
  },
  {
   "title": "Musket",
@@ -4048,7 +3974,7 @@
    "Musket icon.png",
    "Musket.png"
   ],
-  "intro": "!Tier !! !!",
+  "intro": "The Musket is a ranged weapon in Palworld. The Musket is a single-shot weapon that uses Coarse Ammo. It deals high damage per shot and is very accurate, making it good for long-ranged combat. However, the Musket's single-shot nature and long reload time makes it somewhat ineffective in close-quarters combat. Additionally, it shares its ammo type with several other weapons like the Makeshift Handgun, though its abysmally slow rate of fire means that the Musket isn't likely to burn through ammo quickly.",
   "description": "Simple, old fashioned gun. Fires a single, powerful shot at the expense of a long reload time.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4105,8 +4031,7 @@
     "name": "Wooden Board",
     "count": 3
    }
-  ],
-  "icon": "/icons/musket.png"
+  ]
  },
  {
   "title": "Nightglow",
@@ -4117,7 +4042,7 @@
    "Nightglow icon.png",
    "Nightglow.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Nightglow is a ranged weapon in Palworld. The Nightglow is an automatic weapon that fires shimmering rainbow projectiles that automatically track and chase down the nearest enemy. Though these projectiles deal fairly low damage, they can each hit a target multiple times before disappearing. Additionally, the Nightglow does not require any ammo to be fired, making it highly valuable as a backup weapon. The Nightglow is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] A lantern that radiates a rainbow-hued light. Holding it aloft releases homing light projectiles that strike enemies multiple times.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4167,8 +4092,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/nightglow.png"
+  ]
  },
  {
   "title": "Old Bow",
@@ -4179,7 +4103,7 @@
    "Old Bow icon.png",
    "Old Bow.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Old Bow is a ranged weapon in Palworld. The Old Bow is a single-shot weapon that can fire Arrow, Fire Arrow, or Poison Arrow. While it deals low damage, it allows players to effectively take down enemies from range, making it a much safer option than the Wooden Club or the Stone Spear. Additionally, the Old Bow's low resource cost makes it very easy to repair or even completely replace should it be lost.",
   "description": "Primitive long range weapon. Hastily put together, it isn't very powerful.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4238,8 +4162,7 @@
     "name": "Fiber",
     "count": 15
    }
-  ],
-  "icon": "/icons/old_bow.png"
+  ]
  },
  {
   "title": "Old Revolver",
@@ -4250,7 +4173,7 @@
    "Old Revolver icon.png",
    "Old Revolver.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Old Revolver is a ranged weapon in Palworld. The Old Revolver is a semi-automatic weapon that uses Handgun Ammo. While its magazine capacity is fairly low, the Old Revolver deals high damage per shot and is very accurate, making it a reliable choice for players who value precision and raw impact over rapid fire.",
   "description": "A slightly outdated revolving handgun. Compared to Handgun, it excels in single-shot power.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4303,8 +4226,7 @@
     "name": "High Quality Pal Oil",
     "count": 20
    }
-  ],
-  "icon": "/icons/old_revolver.png"
+  ]
  },
  {
   "title": "Overheat Rifle",
@@ -4315,7 +4237,7 @@
    "Overheat Rifle icon.png",
    "Overheat Rifle.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Overheat Rifle is a ranged weapon in Palworld. The Overheat Rifle is a rapid-fire, automatic weapon that uses Overheat Rifle Ammo. Unlike most other weapons, it has a bottomless magazine, allowing it to fire indefinitely as long as there's ammo available. However, as its name suggests, the Overheat Rifle will overheat if the user fires it for too long, which will force it to take a few seconds to cool down.",
   "description": "An assault rifle capable of firing endlessly without reloading. Prolonged bursts cause overheating, leaving you exposed. Use with caution.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4371,8 +4293,7 @@
     "name": "Cryogenic Coolant",
     "count": 50
    }
-  ],
-  "icon": "/icons/overheat_rifle.png"
+  ]
  },
  {
   "title": "Pal Metal Axe",
@@ -4383,7 +4304,7 @@
    "Pal Metal Axe icon.png",
    "Pal Metal Axe.png"
   ],
-  "intro": "}}",
+  "intro": "The Pal Metal Axe is a tool in Palworld. The Pal Metal Axe is a late-game tool for harvesting large amounts of Wood, Hardwood, and Fiber with ease. With its \"Logging Yield Up Lv. 4\" bonus, it can cut down trees in only a few swings.",
   "description": "An axe for chopping wood. It has achieved extraordinary sharpness thanks to Pal Metal. It can slice through high-grade trees from the harshest regions without trouble.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -4418,8 +4339,7 @@
     "name": "Corrosive Solvent",
     "count": 5
    }
-  ],
-  "icon": "/icons/pal_metal_axe.png"
+  ]
  },
  {
   "title": "Pal Metal Pickaxe",
@@ -4430,7 +4350,7 @@
    "Pal Metal Pickaxe icon.png",
    "Pal Metal Pickaxe.png"
   ],
-  "intro": "}}",
+  "intro": "The Pal Metal Pickaxe is a tool in Palworld. The Pal Metal Pickaxe is a late-game tool for harvesting large amounts of resources like Stone and Ore with ease. With its \"Mining Yield Up Lv. 4\" bonus, it can mine nodes in only a few swings.",
   "description": "A pickaxe for mining. It has achieved extraordinary efficiency thanks to Pal Metal.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -4465,8 +4385,7 @@
     "name": "Corrosive Solvent",
     "count": 5
    }
-  ],
-  "icon": "/icons/pal_metal_pickaxe.png"
+  ]
  },
  {
   "title": "Pal Recovery Grenade",
@@ -4477,7 +4396,7 @@
    "Pal Recovery Grenade icon.png",
    "Pal Recovery Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Pal Recovery Grenade is a weapon in Palworld. Instead of dealing damage like other grenades, the Pal Recovery Grenade heals any allied Pals in its blast radius. It comes in especially handy when fighting Raid Bosses, allowing players to quickly heal their team to get them back in the fight faster. However, as the Pal Recovery Grenade requires the rare Cavern Mushroom to be crafted, obtaining many of them can be difficult.",
   "description": "A Frag Grenade with healing effects. It bursts on impact, restoring HP to allied Pals.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -4506,8 +4425,7 @@
     "name": "Cavern Mushroom",
     "count": 5
    }
-  ],
-  "icon": "/icons/pal_recovery_grenade.png"
+  ]
  },
  {
   "title": "Plasma Cannon",
@@ -4518,7 +4436,7 @@
    "Plasma Cannon icon.png",
    "Plasma Cannon.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Plasma Cannon is a ranged weapon in Palworld. The Plasma Cannon is a semi-automatic weapon that uses Plasma Cartridge. It fires explosive energy bolts that deal massive AOE damage, letting it deal with both durable single targets and groups of enemies. However, the Plasma Cannon's AOE is smaller than that of other weapons like the Rocket Launcher.",
   "description": "Fires high-output energy projectiles. Causes an energy explosion upon impact.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4579,8 +4497,7 @@
     "name": "Computer",
     "count": 8
    }
-  ],
-  "icon": "/icons/plasma_cannon.png"
+  ]
  },
  {
   "title": "Plasma Multicutter",
@@ -4591,7 +4508,7 @@
    "Plasma Multicutter icon.png",
    "Plasma Multicutter.png"
   ],
-  "intro": "}}",
+  "intro": "The Plasma Multicutter is a tool in Palworld. The Plasma Multicutter is the ultimate resource harvesting tool, able to swiftly break down trees and large rocks within seconds. Its long-range beam also allows players to easily extract resources even while riding a Pal, though players will still have to manually pick up the dropped resources. Additionally, the Plasma Multicutter can also mine special resources like Soralite and Paloxite.",
   "description": "A portable plasma cutter that concentrates and emits plasma energy. It supports a wide range of uses, from ore excavation to tree cutting. Its high-output energy also allows for the mining of special ores.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -4629,8 +4546,7 @@
     "name": "Cryogenic Coolant",
     "count": 10
    }
-  ],
-  "icon": "/icons/plasma_multicutter.png"
+  ]
  },
  {
   "title": "Plasma Rifle",
@@ -4641,7 +4557,7 @@
    "Plasma Rifle icon.png",
    "Plasma Rifle.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Plasma Rifle is a ranged weapon in Palworld. The Plasma Rifle is a rapid-fire, automatic weapon that uses Plasma Rifle Ammo. When its shots hit something, they release an electrical discharge that strikes any nearby enemies. This ability, combined with the Plasma Rifle's high Attack power and large magazine capacity, makes it excellent at dealing with large groups.",
   "description": "A rifle that releases an electrical discharge from the point of impact, which chains to multiple enemies.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4702,8 +4618,7 @@
     "name": "Ancient Civilization Core",
     "count": 7
    }
-  ],
-  "icon": "/icons/plasma_rifle.png"
+  ]
  },
  {
   "title": "Poison Arrow Crossbow",
@@ -4714,7 +4629,7 @@
    "Poison Arrow Crossbow icon.png",
    "Poison Arrow Crossbow.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "Poison Arrow Crossbow was a ranged weapon the player could use, designed to apply status effects rather than raw damage alone. Weapons are equipment used to deal damage to enemies and include both melee and ranged options, each suited to different playstyles and encounters. As a specialized variant of the Crossbow, the Poison Arrow Crossbow fires Poison Arrows to inflict Poison on targets. Poisoned Pals take damage over time and become easier to capture due to increased Capture Power, making this weapon particularly effective for utility-focused combat and Pal capture strategies. Only Poison A",
   "description": "A Crossbow that inflicts poison on its target. Poisoned Pals are easier to capture.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4779,8 +4694,7 @@
     "name": "Venom Gland",
     "count": 5
    }
-  ],
-  "icon": "/icons/poison_arrow_crossbow.png"
+  ]
  },
  {
   "title": "Poison Bow",
@@ -4791,7 +4705,7 @@
    "Poison Bow icon.png",
    "Poison Bow.png"
   ],
-  "intro": "}}",
+  "intro": "Poison Bow is a ranged weapon that applies Poison on hit, making affected targets easier to capture. It requires Poison Arrow to fire. The Poison Bow fires Poison Arrows at distant targets. On hit, it can inflict Poison, dealing damage over time and temporarily increasing Capture Power against poisoned Pals. Standard Arrow cannot be used. It was removed in version 1.0.0; Poison Arrows are now used with normal bows.",
   "description": "Frightening bow that poisons its target. Poisoned Pals are easier to capture. Requires Poison Arrow.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4828,8 +4742,7 @@
     "name": "Venom Gland",
     "count": 2
    }
-  ],
-  "icon": "/icons/poison_bow.png"
+  ]
  },
  {
   "title": "Primitive Sword",
@@ -4840,7 +4753,7 @@
    "Primitive Sword icon.png",
    "Primitive Sword.png"
   ],
-  "intro": "}}",
+  "intro": "The Primitive Sword is a melee weapon in Palworld. The Primitive Sword is a good early-game weapon for close-quarters combat. While it has less range than the Metal Spear, it has over double the Attack power and twice the Durability.",
   "description": "A sword for close-range combat. Not bad for a battered sword. Perfect for getting up close and personal.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -4870,8 +4783,7 @@
     "name": "Ingot",
     "count": 15
    }
-  ],
-  "icon": "/icons/primitive_sword.png"
+  ]
  },
  {
   "title": "Prototype Shotgun",
@@ -4882,7 +4794,7 @@
    "Prototype Shotgun icon.png",
    "Prototype Shotgun.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Prototype Shotgun is a ranged weapon in Palworld. The Prototype Shotgun is a semi-automatic weapon that uses Prototype Shotgun Ammo. It deals much higher damage than other shotguns and has a fairly large magazine, making it great for tearing through enemies in close quarters. Additionally, the Prototype Shotgun's Durability is much higher than other shotguns.",
   "description": "A shotgun made from Soralite Ingots. It delivers overwhelming firepower at close range, and its special magazine also provides high sustained combat capability.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -4943,8 +4855,7 @@
     "name": "AI Core",
     "count": 5
    }
-  ],
-  "icon": "/icons/prototype_shotgun.png"
+  ]
  },
  {
   "title": "Pump-action Shotgun",
@@ -4955,7 +4866,7 @@
    "Pump-action Shotgun icon.png",
    "Pump-action Shotgun.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine",
+  "intro": "The Pump-action Shotgun is a ranged weapon in Palworld. The Pump-action Shotgun is a semi-automatic weapon that uses Shotgun Shell. It deals slightly less damage than the Double-Barreled Shotgun, though its higher rate of fire and magazine capacity makes it even better at dealing heavy burst damage up close. However, the Pump-action Shotgun still suffers from limited range and lower Durability compared to other weapons unlocked around the same time as it.",
   "description": "A high capacity, powerful shotgun. It has outstanding close range DPS.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5012,8 +4923,7 @@
     "name": "Carbon Fiber",
     "count": 10
    }
-  ],
-  "icon": "/icons/pump_action_shotgun.png"
+  ]
  },
  {
   "title": "Refined Metal Axe",
@@ -5024,7 +4934,7 @@
    "Refined Metal Axe icon.png",
    "Refined Metal Axe.png"
   ],
-  "intro": "}}",
+  "intro": "The Refined Metal Axe is a tool in Palworld. The Refined Metal Axe is a great mid-game tool for harvesting Wood and Fiber, able to harvest much of those resources from a single tree with its \"Logging Yield Up Lv. 2\" bonus. Additionally, it can also harvest Hardwood from trees that grow in places like Mount Obsidian or the Desiccated Dunes.",
   "description": "An axe for cutting wood. Made from high quality metal, its sharpness and durability has improved even further. It can harvest Hardwood from sturdy trees that grow in unforgiving lands.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -5055,8 +4965,7 @@
     "name": "Refined Ingot",
     "count": 10
    }
-  ],
-  "icon": "/icons/refined_metal_axe.png"
+  ]
  },
  {
   "title": "Refined Metal Pickaxe",
@@ -5067,7 +4976,7 @@
    "Refined Metal Pickaxe icon.png",
    "Refined Metal Pickaxe.png"
   ],
-  "intro": "}}",
+  "intro": "The Refined Metal Pickaxe is a tool in Palworld. The Refined Metal Pickaxe is a great mid-game tool for harvesting resources like Stone and Ore, able to harvest much of those resources from a single node with its \"Mining Yield Up Lv. 2\" bonus.",
   "description": "A pickaxe used for mining. Its durability and efficiency have further improved.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -5098,8 +5007,7 @@
     "name": "Refined Ingot",
     "count": 10
    }
-  ],
-  "icon": "/icons/refined_metal_pickaxe.png"
+  ]
  },
  {
   "title": "Refined Metal Spear",
@@ -5110,7 +5018,7 @@
    "Refined Metal Spear icon.png",
    "Refined Metal Spear.png"
   ],
-  "intro": "}}",
+  "intro": "The Refined Metal Spear is a melee weapon in Palworld. The Refined Metal Spear is used for close-range combat against Pals and Humans. Its long reach allows players to keep distance while attacking, and its refined metal tip provides substantially higher attack power than earlier spears.",
   "description": "Useful for close-range combat. The high-quality metal tip gives it greatly increased attack power, while its length allows you to stand further away when attacking.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -5140,8 +5048,7 @@
     "name": "Refined Ingot",
     "count": 10
    }
-  ],
-  "icon": "/icons/refined_metal_spear.png"
+  ]
  },
  {
   "title": "Rocket Launcher",
@@ -5152,7 +5059,7 @@
    "Rocket Launcher icon.png",
    "Rocket Launcher.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Rocket Launcher is a ranged weapon in Palworld. The Rocket Launcher is a single-shot weapon that uses Rocket Ammo. It deals massive AOE damage across all ranges, making it ideal for dealing with large groups and durable single targets. However, the Rocket Launcher's single-shot nature and slow reload time limits its effectiveness in close-range combat.",
   "description": "A Rocket Launcher that can fire a powerful round from long distances.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5213,8 +5120,7 @@
     "name": "Computer",
     "count": 10
    }
-  ],
-  "icon": "/icons/rocket_launcher.png"
+  ]
  },
  {
   "title": "Scatter Sphere Launcher",
@@ -5225,7 +5131,7 @@
    "Scatter Sphere Launcher icon.png",
    "Scatter Sphere Launcher.png"
   ],
-  "intro": "}}",
+  "intro": "Scatter Sphere Launcher is a weapon. It is a tier 38 ancient technology item that costs 5 points to unlock. It requires a Weapon Assembly Line to craft.",
   "description": "A new type of launcher that fires a large number of spheres. It can easily capture a herd of Pals.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -5261,8 +5167,7 @@
     "name": "Ancient Civilization Parts",
     "count": 10
    }
-  ],
-  "icon": "/icons/scatter_sphere_launcher.png"
+  ]
  },
  {
   "title": "Semi-Auto Rifle",
@@ -5273,7 +5178,7 @@
    "Semi-Auto Rifle icon.png",
    "Semi-Auto Rifle.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Semi-Auto Rifle is a ranged weapon in Palworld. The Semi-Auto Rifle is a semi-automatic weapon that uses Rifle Ammo. Though it has lower Durability than the Single-Shot Rifle and deals less damage per shot, its increased fire rate and magazine capacity makes it much better at close ranges. The Semi-Auto Rifle is also still very accurate, making it good at dealing consistent damage across all ranges.",
   "description": "A rifle that allows for a certain degree of rapid fire. It’s easy to aim and has high firepower, making it effective for mid-range combat.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5326,8 +5231,7 @@
     "name": "Polymer",
     "count": 10
    }
-  ],
-  "icon": "/icons/semi_auto_rifle.png"
+  ]
  },
  {
   "title": "Semi-Auto Shotgun",
@@ -5338,7 +5242,7 @@
    "Semi-Auto Shotgun icon.png",
    "Semi-Auto Shotgun.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The Semi-Auto Shotgun is a ranged weapon in Palworld. The Semi-Auto Shotgun is a semi-automatic weapon that uses Shotgun Shell. It deals less damage than the Pump-action Shotgun, though its higher rate of fire and magazine capacity make it better at dealing quicker bursts of damage up close. The Semi-Auto Shotgun also has higher Durability than most other shotguns, though it's still lower than other weapons unlocked around the same time as it.",
   "description": "A rapid-fire shotgun with immense power. Its close-range damage output is top-notch.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5395,8 +5299,7 @@
     "name": "Carbon Fiber",
     "count": 10
    }
-  ],
-  "icon": "/icons/semi_auto_shotgun.png"
+  ]
  },
  {
   "title": "Shock Grenade",
@@ -5407,7 +5310,7 @@
    "Shock Grenade icon.png",
    "Shock Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Shock Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Shock Grenade is a thrown explosive that deals AOE damage. However, it deals Electric-element damage, making it great at dealing with Water-element Pals. The Shock Grenade also has a chance to electrify enemies, stunning them and making them easier to catch.",
   "description": "A Shock Grenade useful for mid-range combat. It detonates a few seconds after being thrown, electrocuting everything in the blast radius.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -5436,8 +5339,7 @@
     "name": "Electric Organ",
     "count": 1
    }
-  ],
-  "icon": "/icons/shock_grenade.png"
+  ]
  },
  {
   "title": "Single-Shot Rifle",
@@ -5448,7 +5350,7 @@
    "Single-Shot Rifle icon.png",
    "Single-Shot Rifle.png"
   ],
-  "intro": "!Tier !! !!Durability",
+  "intro": "The Single-shot Rifle is a ranged weapon in Palworld. The Single-Shot Rifle is a single-shot weapon that uses Rifle Ammo. Like the Musket, it deals high damage per shot and is highly accurate, though its single-shot nature limits its effectiveness at close range. However, the Single-Shot Rifle's reload time is much quicker than the Musket's, making it much better as a general-purpose weapon. It also deals more damage per shot and has much higher Durability than the Musket, allowing it to be used for much longer without needing to be repaired.",
   "description": "A single-shot rifle. Takes time to load. What it lacks in capacity, it makes up for with sheer power.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5510,8 +5412,7 @@
     "name": "Hardwood",
     "count": 20
    }
-  ],
-  "icon": "/icons/single_shot_rifle.png"
+  ]
  },
  {
   "title": "Single-Shot Sphere Launcher",
@@ -5522,7 +5423,7 @@
    "Single-Shot Sphere Launcher icon.png",
    "Single-Shot Sphere Launcher.png"
   ],
-  "intro": "}}",
+  "intro": "Single-Shot Sphere Launcher is a weapon that can launch Pal Spheres as ammo.",
   "description": "A launcher that fires spheres. It can capture Pals from a greater distance.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -5554,8 +5455,7 @@
     "name": "Ancient Civilization Parts",
     "count": 5
    }
-  ],
-  "icon": "/icons/single_shot_sphere_launcher.png"
+  ]
  },
  {
   "title": "SMG",
@@ -5566,7 +5466,7 @@
    "SMG icon.png",
    "SMG.png"
   ],
-  "intro": "!Rarity !! !! !! Magazine Size",
+  "intro": "The SMG is a ranged weapon in Palworld. The SMG is a rapid-fire, automatic weapon that uses Handgun Ammo. Though it has the same magazine capacity as the Makeshift SMG, it has much higher Durability and deals higher damage per shot, making it better overall. While it's highly effective at shredding enemies at close range, the SMG's extremely high rate of fire means that it can burn through ammo very quickly if the user isn't careful.",
   "description": "A submachine gun with exceptional rate of fire. It’s easy to handle and effective in close-range combat.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5619,8 +5519,7 @@
     "name": "Polymer",
     "count": 6
    }
-  ],
-  "icon": "/icons/smg.png"
+  ]
  },
  {
   "title": "Sniper Rifle",
@@ -5631,7 +5530,7 @@
    "Sniper Rifle icon.png",
    "Sniper Rifle.png"
   ],
-  "intro": "}}",
+  "intro": "Sniper Rifle is a weapon the player can use. It's only gun in game with Scope. Sniper Rifle can be obtained only by using hacks and this item uses Assault Rifle icon as placeholder.",
   "description": "lang_Text",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5651,8 +5550,7 @@
   },
   "top_attack": 1000.0,
   "top_durability": 500.0,
-  "ingredients": [],
-  "icon": "/icons/sniper_rifle.png"
+  "ingredients": []
  },
  {
   "title": "Stone Axe",
@@ -5663,7 +5561,7 @@
    "Stone Axe icon.png",
    "Stone Axe.png"
   ],
-  "intro": "}}",
+  "intro": "The Stone Axe is a tool in Palworld. The Stone Axe is a basic implement for chopping down trees, allowing for easy harvesting of Wood and Fiber. It can also be used as a weapon, though its low attack power makes it only suitable as an absolute last resort weapon.",
   "description": "An axe for cutting wood. Made from stone, it's not very sharp.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -5689,8 +5587,7 @@
     "name": "Wood",
     "count": 5
    }
-  ],
-  "icon": "/icons/stone_axe.png"
+  ]
  },
  {
   "title": "Stone Pickaxe",
@@ -5701,7 +5598,7 @@
    "Stone Pickaxe icon.png",
    "Stone Pickaxe.png"
   ],
-  "intro": "}}",
+  "intro": "The Stone Pickaxe is a tool in Palworld. The Stone Pickaxe is a basic implement for mining large rocks and Ore nodes. It can also be used as a weapon, though its low attack power makes it only suited as an absolute last resort weapon.",
   "description": "A pickaxe used for mining. Made from stone, the efficiency is questionable.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -5727,8 +5624,7 @@
     "name": "Wood",
     "count": 5
    }
-  ],
-  "icon": "/icons/stone_pickaxe.png"
+  ]
  },
  {
   "title": "Stone Spear",
@@ -5739,7 +5635,7 @@
    "Stone Spear icon.png",
    "Stone Spear.png"
   ],
-  "intro": "}}",
+  "intro": "The Stone Spear is a melee weapon in Palworld. The Stone Spear is used for close-range combat against Pals and Humans. Its extended reach makes it safer to use than shorter melee weapons like the Wooden Club when engaging enemies.",
   "description": "Useful for close-range combat. Its length allows you to stand further away when attacking.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -5765,8 +5661,7 @@
     "name": "Stone",
     "count": 6
    }
-  ],
-  "icon": "/icons/stone_spear.png"
+  ]
  },
  {
   "title": "Stun Baton",
@@ -5777,7 +5672,7 @@
    "Stun Baton icon.png",
    "Stun Baton.png"
   ],
-  "intro": "}}",
+  "intro": "The Stun Baton is a melee weapon in Palworld. The Stun Baton electrocutes Pals and Humans on hit, briefly stunning them. While it deals very low damage, electrocuted Pals are easier to capture, making the Stun Baton useful as a support tool during captures rather than as a primary combat weapon.",
   "description": "Close range weapon that sends out an electric jolt upon contact. Pals are easier to capture when electrocuted.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -5803,8 +5698,7 @@
     "name": "Electric Organ",
     "count": 20
    }
-  ],
-  "icon": "/icons/stun_baton.png"
+  ]
  },
  {
   "title": "Tactical Grenade Launcher",
@@ -5815,7 +5709,7 @@
    "Tactical Grenade Launcher icon.png",
    "Tactical Grenade Launcher.png"
   ],
-  "intro": "!Rarity !! !! !!Magazine Size",
+  "intro": "The Tactical Grenade Launcher is a ranged weapon in Palworld. The Tactical Grenade Launcher is a semi-automatic weapon that uses Tactical Grenade Launcher Ammo. It deals far more damage than the regular Grenade Launcher and has a higher magazine capacity, making it even better for dealing with large groups and durable single targets. The Tactical Grenade Launcher also fires its grenades at a higher velocity, making it better at hitting targets from further away.",
   "description": "A grenade launcher made from Soralite Ingots. Improved trajectory stability allows for precise long-range bombings.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -5876,8 +5770,7 @@
     "name": "AI Core",
     "count": 5
    }
-  ],
-  "icon": "/icons/tactical_grenade_launcher.png"
+  ]
  },
  {
   "title": "Terra Blade",
@@ -5888,7 +5781,7 @@
    "Terra Blade icon.png",
    "Terra Blade.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Terra Blade is a melee weapon in Palworld. The Terra Blade is a sword that, in addition to dealing high damage at close range, also fires powerful energy waves to attack enemies at a distance. This makes it a versatile weapon, allowing it to pressure enemies up close and afar. The Terra Blade is a part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] This curious sword releases vibrant green shockwaves with each strike, allowing you to hit enemies from afar despite being a melee weapon.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -5934,8 +5827,7 @@
     "name": "Pal Metal Ingot",
     "count": 20
    }
-  ],
-  "icon": "/icons/terra_blade.png"
+  ]
  },
  {
   "title": "Terraprisma",
@@ -5946,7 +5838,7 @@
    "Terraprisma icon.png",
    "Terraprisma.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Terraprisma is a hybrid melee/ranged weapon in Palworld. The Terraprisma is a sword that, when used, summons up to 9 identical swords that float behind the player. Upon initiating combat, the swords will rush in and rapidly slash at the target, returning to the player once the target has been defeated. These swords will persist even when switching weapons, though they will vanish if the Terraprisma is unequipped. The Terraprisma is part of the Palworld–Terraria crossover.",
   "description": "[Tides of Terraria] A mystical sword with a rainbow-colored blade. Wielding it lets you summon up to nine blessed swords to fight alongside you.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -5996,8 +5888,7 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ],
-  "icon": "/icons/terraprisma.png"
+  ]
  },
  {
   "title": "Three Shot Bow",
@@ -6008,7 +5899,7 @@
    "Three Shot Bow icon.png",
    "Three Shot Bow.png"
   ],
-  "intro": "}}",
+  "intro": "The Three Shot Bow is a ranged weapon in Palworld. The Three-Shot Bow is a single-shot weapon that can fire Arrow, Fire Arrow, or Poison Arrow. As its name suggests, it has the ability to fire three arrows at once while only consuming one, letting it deal far more damage than the Old Bow. However, the Three-Shot Bow's vertical spread pattern makes it less reliable at longer ranges, making it better suited for close-to-mid range combat or against larger targets.",
   "description": "An enhanced bow that allows three arrows to be fired simultaneously. By some strange mechanism, it only consumes a single Arrow when fired.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -6043,8 +5934,7 @@
     "name": "Fiber",
     "count": 30
    }
-  ],
-  "icon": "/icons/three_shot_bow.png"
+  ]
  },
  {
   "title": "Ultra Grappling Gun",
@@ -6055,7 +5945,7 @@
    "Ultra Grappling Gun icon.png",
    "Ultra Grappling Gun.png"
   ],
-  "intro": "}}",
+  "intro": "Ultra Grappling Gun is a grappling gun.",
   "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target. With new materials, cooldown time has been significantly reduced.",
   "item_type": "Weapon",
   "subtype": "Tool",
@@ -6091,8 +5981,7 @@
     "name": "Ancient Civilization Parts",
     "count": 25
    }
-  ],
-  "icon": "/icons/ultra_grappling_gun.png"
+  ]
  },
  {
   "title": "Vortex Beater",
@@ -6103,7 +5992,7 @@
    "Vortex Beater icon.png",
    "Vortex Beater.png"
   ],
-  "intro": "!Rarity !! !!",
+  "intro": "The Vortex Beater is a ranged weapon in Palworld. The Vortex Beater is a rapid-fire, automatic weapon that uses Assault Rifle Ammo. In addition to firing regular bullets, it also fires homing missiles that automatically track and chase down the nearest enemy, dealing even more damage. The Vortex Beater also has a bottomless magazine, allowing it to fire without reloading as long as the player has ammo in their inventory. The Vortex Beater is a part of the Palworld-Terraria crossover.",
   "description": "[Tides of Terraria] A powerful gun fueled by unknown energy. Fires homing missiles at regular intervals that track enemies and explode on impact. Has a 66% chance to not consume ammo when firing.",
   "item_type": "Weapon",
   "subtype": "Ranged",
@@ -6155,8 +6044,7 @@
     "name": "Electric Organ",
     "count": 5
    }
-  ],
-  "icon": "/icons/vortex_beater.png"
+  ]
  },
  {
   "title": "Water Grenade",
@@ -6167,7 +6055,7 @@
    "Water Grenade icon.png",
    "Water Grenade.png"
   ],
-  "intro": "}}",
+  "intro": "The Water Grenade is a weapon in Palworld. Like the standard Frag Grenade, the Water Grenade is a thrown explosive that deals AOE damage. However, it deals Water-element damage, making it great at dealing with Fire-element Pals. The Water Grenade also has a chance to soak enemies, slowing them down and making them easier to catch.",
   "description": "A Water Grenade useful for mid-range combat. It detonates a few seconds after being thrown, dealing Water damage to enemies.",
   "item_type": "Weapon",
   "subtype": "Grenade",
@@ -6192,8 +6080,7 @@
     "name": "Cryogenic Coolant",
     "count": 1
    }
-  ],
-  "icon": "/icons/water_grenade.png"
+  ]
  },
  {
   "title": "Wooden Club",
@@ -6204,7 +6091,7 @@
    "Wooden Club icon.png",
    "Wooden Club.png"
   ],
-  "intro": "The",
+  "intro": "The Wooden Club is a melee weapon in Palworld. The Wooden Club is used for close-range combat against Pals and Humans. It offers low damage and durability, but is lightweight, inexpensive to craft, and very easy to replace.",
   "description": "A Wooden Club for close range combat. Can beat a small Pal to a pulp if need be.",
   "item_type": "Weapon",
   "subtype": "Melee",
@@ -6226,7 +6113,6 @@
     "name": "Wood",
     "count": 5
    }
-  ],
-  "icon": "/icons/wooden_club.png"
+  ]
  }
 ]
