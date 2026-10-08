@@ -19,12 +19,59 @@
   },
   "favicon": "🐑",
   "nav": [
-    { "label": "Home", "href": "/" },
-    { "label": "Pals", "href": "/pals/", "tool": true },
-    { "label": "Weapons", "href": "/weapons/" },
-    { "label": "Armor", "href": "/armor/" },
-    { "label": "Rankings", "href": "/rankings/", "tool": true },
-    { "label": "Breeding Calculator", "href": "/breeding-calculator/", "tool": true }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Pals",
+      "href": "/pals/",
+      "tool": true
+    },
+    {
+      "label": "Weapons",
+      "href": "/weapons/"
+    },
+    {
+      "label": "Armor",
+      "href": "/armor/"
+    },
+    {
+      "label": "Rankings",
+      "href": "/rankings/",
+      "tool": true
+    },
+    {
+      "label": "Breeding Calculator",
+      "href": "/breeding-calculator/",
+      "tool": true
+    }
   ],
-  "footerNote": "Fan-made database. Palworld is a trademark of Pocketpair. Not affiliated with the game developer or Palworld Wiki."
+  "footerNote": "Fan-made database. Palworld is a trademark of Pocketpair. Not affiliated with the game developer or Palworld Wiki.",
+  "sisterSites": [
+    {
+      "name": "IcarusDB",
+      "url": "https://icarus.lootseer.com",
+      "blurb": "Weapon durability, food buffs and creature health per biome."
+    },
+    {
+      "name": "RimWorldDB",
+      "url": "https://rimworld.lootseer.com",
+      "blurb": "Weapon DPS, apparel armour, nutrition and animal combat power."
+    },
+    {
+      "name": "EmberDB",
+      "url": "https://enshrouded.lootseer.com",
+      "blurb": "Items, recipes, locations and guides with sortable infoboxes."
+    },
+    {
+      "name": "TimberDB",
+      "url": "https://sons.lootseer.com",
+      "blurb": "Weapons, animals and crafting with the stats the UI hides."
+    }
+  ],
+  "hubSite": {
+    "name": "LootSeer",
+    "url": "https://lootseer.com"
+  }
 }
