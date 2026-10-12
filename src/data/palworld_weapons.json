@@ -65,7 +65,8 @@
     "name": "Nightstar Sand",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/advanced_bow.png"
  },
  {
   "title": "Advanced Fishing Rod (Depresso)",
@@ -114,7 +115,8 @@
     "name": "Coralum Ingot",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/advanced_fishing_rod_depresso.png"
  },
  {
   "title": "Advanced Fishing Rod (Pengullet)",
@@ -159,7 +161,8 @@
     "name": "Carbon Fiber",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/advanced_fishing_rod_pengullet.png"
  },
  {
   "title": "Assault Rifle",
@@ -227,7 +230,8 @@
     "name": "Carbon Fiber",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/assault_rifle.png"
  },
  {
   "title": "Axe4",
@@ -292,7 +296,8 @@
     "name": "Stone",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/bat.png"
  },
  {
   "title": "Beam Launcher",
@@ -359,7 +364,8 @@
     "name": "Ancient Civilization Core",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/beam_launcher.png"
  },
  {
   "title": "Beam Scatter",
@@ -431,7 +437,8 @@
     "name": "Ancient Civilization Core",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/beam_scatter.png"
  },
  {
   "title": "Beam Sword",
@@ -496,7 +503,8 @@
     "name": "Computer",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/beam_sword.png"
  },
  {
   "title": "Beegarde's Spear",
@@ -525,7 +533,8 @@
   },
   "top_attack": 150.0,
   "top_durability": 400.0,
-  "ingredients": []
+  "ingredients": [],
+  "icon": "/icons/beegarde_s_spear.png"
  },
  {
   "title": "Beginner Fishing Rod (Chillet)",
@@ -570,7 +579,8 @@
     "name": "Fiber",
     "count": 8
    }
-  ]
+  ],
+  "icon": "/icons/beginner_fishing_rod_chillet.png"
  },
  {
   "title": "Beginner Fishing Rod (Gumoss)",
@@ -619,7 +629,8 @@
     "name": "Coralum Ore",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/beginner_fishing_rod_gumoss.png"
  },
  {
   "title": "Boost Gun",
@@ -663,7 +674,8 @@
     "name": "Fiber",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/boost_gun.png"
  },
  {
   "title": "Capture Rope",
@@ -691,7 +703,8 @@
   },
   "top_attack": 1.0,
   "top_durability": 200.0,
-  "ingredients": []
+  "ingredients": [],
+  "icon": "/icons/capture_rope.png"
  },
  {
   "title": "Charge Rifle",
@@ -763,7 +776,8 @@
     "name": "Computer",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/charge_rifle.png"
  },
  {
   "title": "Combat SMG",
@@ -835,7 +849,8 @@
     "name": "AI Core",
     "count": 4
    }
-  ]
+  ],
+  "icon": "/icons/combat_smg.png"
  },
  {
   "title": "Compound Bow",
@@ -903,7 +918,8 @@
     "name": "Nail",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/compound_bow.png"
  },
  {
   "title": "Core Eject Shotgun",
@@ -970,7 +986,8 @@
     "name": "Flame Organ",
     "count": 40
    }
-  ]
+  ],
+  "icon": "/icons/core_eject_shotgun.png"
  },
  {
   "title": "Dark Grenade",
@@ -1006,7 +1023,8 @@
     "name": "Corrosive Solvent",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/dark_grenade.png"
  },
  {
   "title": "Decal Gun 1",
@@ -1049,7 +1067,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/decal_gun_1.png"
  },
  {
   "title": "Decal Gun 2",
@@ -1092,7 +1111,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/decal_gun_2.png"
  },
  {
   "title": "Decal Gun 3",
@@ -1135,7 +1155,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/decal_gun_3.png"
  },
  {
   "title": "Decal Gun 4",
@@ -1178,7 +1199,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/decal_gun_4.png"
  },
  {
   "title": "Decal Gun 5",
@@ -1221,7 +1243,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/decal_gun_5.png"
  },
  {
   "title": "Double-Barreled Shotgun",
@@ -1289,7 +1312,8 @@
     "name": "Hardwood",
     "count": 25
    }
-  ]
+  ],
+  "icon": "/icons/double_barreled_shotgun.png"
  },
  {
   "title": "Dragon Grenade",
@@ -1329,7 +1353,8 @@
     "name": "Horn",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/dragon_grenade.png"
  },
  {
   "title": "Drone Launcher",
@@ -1394,7 +1419,8 @@
     "name": "Ancient Civilization Core",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/drone_launcher.png"
  },
  {
   "title": "Elizabee's Staff",
@@ -1422,7 +1448,8 @@
   },
   "top_attack": 150.0,
   "top_durability": 300.0,
-  "ingredients": []
+  "ingredients": [],
+  "icon": "/icons/elizabee_s_staff.png"
  },
  {
   "title": "Energy Shotgun",
@@ -1490,7 +1517,8 @@
     "name": "Computer",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/energy_shotgun.png"
  },
  {
   "title": "Enhanced Lily's Spear",
@@ -1540,7 +1568,8 @@
     "name": "High Quality Wooden Board",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/enhanced_lily_s_spear.png"
  },
  {
   "title": "Excalibur",
@@ -1593,7 +1622,8 @@
     "name": "Hallowed Bar",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/excalibur.png"
  },
  {
   "title": "Fire Arrow Crossbow",
@@ -1669,7 +1699,8 @@
     "name": "Flame Organ",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/fire_arrow_crossbow.png"
  },
  {
   "title": "Fire Bow",
@@ -1717,7 +1748,8 @@
     "name": "Flame Organ",
     "count": 2
    }
-  ]
+  ],
+  "icon": "/icons/fire_bow.png"
  },
  {
   "title": "Five Shot Bow",
@@ -1743,7 +1775,8 @@
   },
   "top_attack": null,
   "top_durability": null,
-  "ingredients": []
+  "ingredients": [],
+  "icon": "/icons/five_shot_bow.png"
  },
  {
   "title": "Flamethrower",
@@ -1815,7 +1848,8 @@
     "name": "Flame Organ",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/flamethrower.png"
  },
  {
   "title": "Frag Grenade Mk2",
@@ -1855,7 +1889,8 @@
     "name": "Crude Oil",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/frag_grenade_mk2.png"
  },
  {
   "title": "Gatling Gun",
@@ -1923,7 +1958,8 @@
     "name": "Carbon Fiber",
     "count": 70
    }
-  ]
+  ],
+  "icon": "/icons/gatling_gun.png"
  },
  {
   "title": "Giga Grappling Gun",
@@ -1966,7 +2002,8 @@
     "name": "Ancient Civilization Parts",
     "count": 8
    }
-  ]
+  ],
+  "icon": "/icons/giga_grappling_gun.png"
  },
  {
   "title": "Grappling Gun",
@@ -2009,7 +2046,8 @@
     "name": "Ancient Civilization Parts",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/grappling_gun.png"
  },
  {
   "title": "Grass Grenade",
@@ -2045,7 +2083,8 @@
     "name": "Hardwood",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/grass_grenade.png"
  },
  {
   "title": "Grenade Launcher",
@@ -2113,7 +2152,8 @@
     "name": "Carbon Fiber",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/grenade_launcher.png"
  },
  {
   "title": "Ground Grenade",
@@ -2153,7 +2193,8 @@
     "name": "Ore",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/ground_grenade.png"
  },
  {
   "title": "Guided Missile Launcher",
@@ -2225,7 +2266,8 @@
     "name": "Computer",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/guided_missile_launcher.png"
  },
  {
   "title": "Hand-Held Torch",
@@ -2262,7 +2304,8 @@
     "name": "Stone",
     "count": 2
    }
-  ]
+  ],
+  "icon": "/icons/hand_held_torch.png"
  },
  {
   "title": "Handgun",
@@ -2326,7 +2369,8 @@
     "name": "High Quality Pal Oil",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/handgun.png"
  },
  {
   "title": "Heavy Assault Rifle",
@@ -2398,7 +2442,8 @@
     "name": "AI Core",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/heavy_assault_rifle.png"
  },
  {
   "title": "Homing Sphere Launcher",
@@ -2445,7 +2490,8 @@
     "name": "Ancient Civilization Parts",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/homing_sphere_launcher.png"
  },
  {
   "title": "Hyper Grappling Gun",
@@ -2492,7 +2538,8 @@
     "name": "Ancient Civilization Parts",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/hyper_grappling_gun.png"
  },
  {
   "title": "Ice Grenade",
@@ -2532,7 +2579,8 @@
     "name": "Ice Organ",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/ice_grenade.png"
  },
  {
   "title": "Incendiary Grenade",
@@ -2572,7 +2620,8 @@
     "name": "Flame Organ",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/incendiary_grenade.png"
  },
  {
   "title": "Intermediate Fishing Rod (Cattiva)",
@@ -2617,7 +2666,8 @@
     "name": "Fiber",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/intermediate_fishing_rod_cattiva.png"
  },
  {
   "title": "Intermediate Fishing Rod (Croajiro)",
@@ -2666,7 +2716,8 @@
     "name": "Coralum Ore",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/intermediate_fishing_rod_croajiro.png"
  },
  {
   "title": "Katana",
@@ -2727,7 +2778,8 @@
     "name": "Corrosive Solvent",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/katana.png"
  },
  {
   "title": "Laser Gatling Gun",
@@ -2799,7 +2851,8 @@
     "name": "Thermal Core",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/laser_gatling_gun.png"
  },
  {
   "title": "Laser Rifle",
@@ -2871,7 +2924,8 @@
     "name": "Computer",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/laser_rifle.png"
  },
  {
   "title": "Laser Sword",
@@ -2936,7 +2990,8 @@
     "name": "AI Core",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/laser_sword.png"
  },
  {
   "title": "Legendary Meowmere",
@@ -2977,7 +3032,8 @@
     "name": "Coal",
     "count": 22
    }
-  ]
+  ],
+  "icon": "/icons/legendary_meowmere.png"
  },
  {
   "title": "Lily's Spear",
@@ -3026,7 +3082,8 @@
     "name": "High Quality Wooden Board",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/lily_s_spear.png"
  },
  {
   "title": "Makeshift Assault Rifle",
@@ -3094,7 +3151,8 @@
     "name": "Fiber",
     "count": 60
    }
-  ]
+  ],
+  "icon": "/icons/makeshift_assault_rifle.png"
  },
  {
   "title": "Makeshift Handgun",
@@ -3162,7 +3220,8 @@
     "name": "Fiber",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/makeshift_handgun.png"
  },
  {
   "title": "Makeshift Shotgun",
@@ -3230,7 +3289,8 @@
     "name": "Fiber",
     "count": 50
    }
-  ]
+  ],
+  "icon": "/icons/makeshift_shotgun.png"
  },
  {
   "title": "Makeshift SMG",
@@ -3298,7 +3358,8 @@
     "name": "Fiber",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/makeshift_smg.png"
  },
  {
   "title": "Marksman Revolver",
@@ -3370,7 +3431,8 @@
     "name": "Electric Organ",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/marksman_revolver.png"
  },
  {
   "title": "Meat Cleaver",
@@ -3411,7 +3473,8 @@
     "name": "Stone",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/meat_cleaver.png"
  },
  {
   "title": "Mechanical Bow",
@@ -3483,7 +3546,8 @@
     "name": "AI Core",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/mechanical_bow.png"
  },
  {
   "title": "Mega Grappling Gun",
@@ -3526,7 +3590,8 @@
     "name": "Ancient Civilization Parts",
     "count": 4
    }
-  ]
+  ],
+  "icon": "/icons/mega_grappling_gun.png"
  },
  {
   "title": "Megaboost Gun",
@@ -3572,7 +3637,8 @@
     "name": "Circuit Board",
     "count": 100
    }
-  ]
+  ],
+  "icon": "/icons/megaboost_gun.png"
  },
  {
   "title": "Meowmere",
@@ -3613,7 +3679,8 @@
     "name": "Coal",
     "count": 22
    }
-  ]
+  ],
+  "icon": "/icons/meowmere.png"
  },
  {
   "title": "Metal Axe",
@@ -3655,7 +3722,8 @@
     "name": "Ingot",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/metal_axe.png"
  },
  {
   "title": "Metal Bat",
@@ -3712,7 +3780,8 @@
     "name": "Refined Ingot",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/metal_bat.png"
  },
  {
   "title": "Metal Detector",
@@ -3756,7 +3825,8 @@
     "name": "Nightstar Sand",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/metal_detector.png"
  },
  {
   "title": "Metal Pickaxe",
@@ -3798,7 +3868,8 @@
     "name": "Ingot",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/metal_pickaxe.png"
  },
  {
   "title": "Metal Spear",
@@ -3839,7 +3910,8 @@
     "name": "Ingot",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/metal_spear.png"
  },
  {
   "title": "Meteor Launcher",
@@ -3891,7 +3963,8 @@
     "name": "Corrosive Solvent",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/meteor_launcher.png"
  },
  {
   "title": "Multi Guided Missile Launcher",
@@ -3963,7 +4036,8 @@
     "name": "Computer",
     "count": 8
    }
-  ]
+  ],
+  "icon": "/icons/multi_guided_missile_launcher.png"
  },
  {
   "title": "Musket",
@@ -4031,7 +4105,8 @@
     "name": "Wooden Board",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/musket.png"
  },
  {
   "title": "Nightglow",
@@ -4092,7 +4167,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/nightglow.png"
  },
  {
   "title": "Old Bow",
@@ -4162,7 +4238,8 @@
     "name": "Fiber",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/old_bow.png"
  },
  {
   "title": "Old Revolver",
@@ -4226,7 +4303,8 @@
     "name": "High Quality Pal Oil",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/old_revolver.png"
  },
  {
   "title": "Overheat Rifle",
@@ -4293,7 +4371,8 @@
     "name": "Cryogenic Coolant",
     "count": 50
    }
-  ]
+  ],
+  "icon": "/icons/overheat_rifle.png"
  },
  {
   "title": "Pal Metal Axe",
@@ -4339,7 +4418,8 @@
     "name": "Corrosive Solvent",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/pal_metal_axe.png"
  },
  {
   "title": "Pal Metal Pickaxe",
@@ -4385,7 +4465,8 @@
     "name": "Corrosive Solvent",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/pal_metal_pickaxe.png"
  },
  {
   "title": "Pal Recovery Grenade",
@@ -4425,7 +4506,8 @@
     "name": "Cavern Mushroom",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/pal_recovery_grenade.png"
  },
  {
   "title": "Plasma Cannon",
@@ -4497,7 +4579,8 @@
     "name": "Computer",
     "count": 8
    }
-  ]
+  ],
+  "icon": "/icons/plasma_cannon.png"
  },
  {
   "title": "Plasma Multicutter",
@@ -4546,7 +4629,8 @@
     "name": "Cryogenic Coolant",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/plasma_multicutter.png"
  },
  {
   "title": "Plasma Rifle",
@@ -4618,7 +4702,8 @@
     "name": "Ancient Civilization Core",
     "count": 7
    }
-  ]
+  ],
+  "icon": "/icons/plasma_rifle.png"
  },
  {
   "title": "Poison Arrow Crossbow",
@@ -4694,7 +4779,8 @@
     "name": "Venom Gland",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/poison_arrow_crossbow.png"
  },
  {
   "title": "Poison Bow",
@@ -4742,7 +4828,8 @@
     "name": "Venom Gland",
     "count": 2
    }
-  ]
+  ],
+  "icon": "/icons/poison_bow.png"
  },
  {
   "title": "Primitive Sword",
@@ -4783,7 +4870,8 @@
     "name": "Ingot",
     "count": 15
    }
-  ]
+  ],
+  "icon": "/icons/primitive_sword.png"
  },
  {
   "title": "Prototype Shotgun",
@@ -4855,7 +4943,8 @@
     "name": "AI Core",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/prototype_shotgun.png"
  },
  {
   "title": "Pump-action Shotgun",
@@ -4923,7 +5012,8 @@
     "name": "Carbon Fiber",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/pump_action_shotgun.png"
  },
  {
   "title": "Refined Metal Axe",
@@ -4965,7 +5055,8 @@
     "name": "Refined Ingot",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/refined_metal_axe.png"
  },
  {
   "title": "Refined Metal Pickaxe",
@@ -5007,7 +5098,8 @@
     "name": "Refined Ingot",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/refined_metal_pickaxe.png"
  },
  {
   "title": "Refined Metal Spear",
@@ -5048,7 +5140,8 @@
     "name": "Refined Ingot",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/refined_metal_spear.png"
  },
  {
   "title": "Rocket Launcher",
@@ -5120,7 +5213,8 @@
     "name": "Computer",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/rocket_launcher.png"
  },
  {
   "title": "Scatter Sphere Launcher",
@@ -5167,7 +5261,8 @@
     "name": "Ancient Civilization Parts",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/scatter_sphere_launcher.png"
  },
  {
   "title": "Semi-Auto Rifle",
@@ -5231,7 +5326,8 @@
     "name": "Polymer",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/semi_auto_rifle.png"
  },
  {
   "title": "Semi-Auto Shotgun",
@@ -5299,7 +5395,8 @@
     "name": "Carbon Fiber",
     "count": 10
    }
-  ]
+  ],
+  "icon": "/icons/semi_auto_shotgun.png"
  },
  {
   "title": "Shock Grenade",
@@ -5339,7 +5436,8 @@
     "name": "Electric Organ",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/shock_grenade.png"
  },
  {
   "title": "Single-Shot Rifle",
@@ -5412,7 +5510,8 @@
     "name": "Hardwood",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/single_shot_rifle.png"
  },
  {
   "title": "Single-Shot Sphere Launcher",
@@ -5455,7 +5554,8 @@
     "name": "Ancient Civilization Parts",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/single_shot_sphere_launcher.png"
  },
  {
   "title": "SMG",
@@ -5519,7 +5619,8 @@
     "name": "Polymer",
     "count": 6
    }
-  ]
+  ],
+  "icon": "/icons/smg.png"
  },
  {
   "title": "Sniper Rifle",
@@ -5550,7 +5651,8 @@
   },
   "top_attack": 1000.0,
   "top_durability": 500.0,
-  "ingredients": []
+  "ingredients": [],
+  "icon": "/icons/sniper_rifle.png"
  },
  {
   "title": "Stone Axe",
@@ -5587,7 +5689,8 @@
     "name": "Wood",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/stone_axe.png"
  },
  {
   "title": "Stone Pickaxe",
@@ -5624,7 +5727,8 @@
     "name": "Wood",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/stone_pickaxe.png"
  },
  {
   "title": "Stone Spear",
@@ -5661,7 +5765,8 @@
     "name": "Stone",
     "count": 6
    }
-  ]
+  ],
+  "icon": "/icons/stone_spear.png"
  },
  {
   "title": "Stun Baton",
@@ -5698,7 +5803,8 @@
     "name": "Electric Organ",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/stun_baton.png"
  },
  {
   "title": "Tactical Grenade Launcher",
@@ -5770,7 +5876,8 @@
     "name": "AI Core",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/tactical_grenade_launcher.png"
  },
  {
   "title": "Terra Blade",
@@ -5827,7 +5934,8 @@
     "name": "Pal Metal Ingot",
     "count": 20
    }
-  ]
+  ],
+  "icon": "/icons/terra_blade.png"
  },
  {
   "title": "Terraprisma",
@@ -5888,7 +5996,8 @@
     "name": "Ancient Civilization Parts",
     "count": 3
    }
-  ]
+  ],
+  "icon": "/icons/terraprisma.png"
  },
  {
   "title": "Three Shot Bow",
@@ -5934,7 +6043,8 @@
     "name": "Fiber",
     "count": 30
    }
-  ]
+  ],
+  "icon": "/icons/three_shot_bow.png"
  },
  {
   "title": "Ultra Grappling Gun",
@@ -5981,7 +6091,8 @@
     "name": "Ancient Civilization Parts",
     "count": 25
    }
-  ]
+  ],
+  "icon": "/icons/ultra_grappling_gun.png"
  },
  {
   "title": "Vortex Beater",
@@ -6044,7 +6155,8 @@
     "name": "Electric Organ",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/vortex_beater.png"
  },
  {
   "title": "Water Grenade",
@@ -6080,7 +6192,8 @@
     "name": "Cryogenic Coolant",
     "count": 1
    }
-  ]
+  ],
+  "icon": "/icons/water_grenade.png"
  },
  {
   "title": "Wooden Club",
@@ -6113,6 +6226,7 @@
     "name": "Wood",
     "count": 5
    }
-  ]
+  ],
+  "icon": "/icons/wooden_club.png"
  }
 ]

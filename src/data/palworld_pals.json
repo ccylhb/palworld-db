@@ -106,7 +106,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/aegidron.png"
  },
  {
   "title": "Amione",
@@ -216,7 +217,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/amione.png"
  },
  {
   "title": "Anubis",
@@ -352,7 +354,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/anubis.png"
  },
  {
   "title": "Arsox",
@@ -478,7 +481,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/arsox.png"
  },
  {
   "title": "Astegon",
@@ -609,7 +613,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/astegon.png"
  },
  {
   "title": "Astralym",
@@ -677,7 +682,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/astralym.png"
  },
  {
   "title": "Azurmane",
@@ -793,7 +799,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/azurmane.png"
  },
  {
   "title": "Azurobe",
@@ -905,7 +912,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/azurobe.png"
  },
  {
   "title": "Azurobe Cryst",
@@ -1040,7 +1048,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/azurobe_cryst.png"
  },
  {
   "title": "Bakemi",
@@ -1162,7 +1171,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bakemi.png"
  },
  {
   "title": "Bastigor",
@@ -1296,7 +1306,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bastigor.png"
  },
  {
   "title": "Beakon",
@@ -1412,7 +1423,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/beakon.png"
  },
  {
   "title": "Beakon Cryst",
@@ -1522,7 +1534,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/beakon_cryst.png"
  },
  {
   "title": "Beegarde",
@@ -1660,7 +1673,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/beegarde.png"
  },
  {
   "title": "Bellanoir",
@@ -1765,7 +1779,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/bellanoir.png"
  },
  {
   "title": "Bellanoir Libero",
@@ -1889,7 +1904,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bellanoir_libero.png"
  },
  {
   "title": "BigFoxWolf",
@@ -1931,7 +1947,8 @@
   "drops": {
    "normal": [],
    "alpha": []
-  }
+  },
+  "icon": "/icons/bigfoxwolf.png"
  },
  {
   "title": "Blazamut",
@@ -2061,7 +2078,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/blazamut.png"
  },
  {
   "title": "Blazamut Ryu",
@@ -2194,7 +2212,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/blazamut_ryu.png"
  },
  {
   "title": "Blazehowl",
@@ -2312,7 +2331,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/blazehowl.png"
  },
  {
   "title": "Blazehowl Noct",
@@ -2431,7 +2451,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/blazehowl_noct.png"
  },
  {
   "title": "Blue Slime",
@@ -2493,7 +2514,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/blue_slime.png"
  },
  {
   "title": "Boltmane",
@@ -2574,7 +2596,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/boltmane.png"
  },
  {
   "title": "Braloha",
@@ -2729,7 +2752,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/braloha.png"
  },
  {
   "title": "Bristla",
@@ -2873,7 +2897,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bristla.png"
  },
  {
   "title": "Broncherry",
@@ -2995,7 +3020,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/broncherry.png"
  },
  {
   "title": "Broncherry Aqua",
@@ -3108,7 +3134,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/broncherry_aqua.png"
  },
  {
   "title": "Bulldosu",
@@ -3220,7 +3247,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bulldosu.png"
  },
  {
   "title": "Bushi",
@@ -3364,7 +3392,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bushi.png"
  },
  {
   "title": "Bushi Noct",
@@ -3519,7 +3548,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/bushi_noct.png"
  },
  {
   "title": "Caprity",
@@ -3651,7 +3681,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/caprity.png"
  },
  {
   "title": "Caprity Noct",
@@ -3795,7 +3826,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/caprity_noct.png"
  },
  {
   "title": "Carnibora",
@@ -3915,7 +3947,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/carnibora.png"
  },
  {
   "title": "Cattiva",
@@ -4041,7 +4074,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/cattiva.png"
  },
  {
   "title": "Cave Bat",
@@ -4103,7 +4137,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/cave_bat.png"
  },
  {
   "title": "Cawgnito",
@@ -4235,7 +4270,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/cawgnito.png"
  },
  {
   "title": "Celaray",
@@ -4353,7 +4389,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/celaray.png"
  },
  {
   "title": "Celaray Lux",
@@ -4476,7 +4513,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/celaray_lux.png"
  },
  {
   "title": "Celesdir",
@@ -4614,7 +4652,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/celesdir.png"
  },
  {
   "title": "Celesdir Noct",
@@ -4732,7 +4771,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/celesdir_noct.png"
  },
  {
   "title": "Chikipi",
@@ -4862,7 +4902,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/chikipi.png"
  },
  {
   "title": "Chillet",
@@ -4981,7 +5022,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/chillet.png"
  },
  {
   "title": "Chillet Ignis",
@@ -5108,7 +5150,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/chillet_ignis.png"
  },
  {
   "title": "Cinnamoth",
@@ -5248,7 +5291,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/cinnamoth.png"
  },
  {
   "title": "Clovee",
@@ -5355,7 +5399,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/clovee.png"
  },
  {
   "title": "Cremis",
@@ -5469,7 +5514,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/cremis.png"
  },
  {
   "title": "Croajiro",
@@ -5603,7 +5649,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/croajiro.png"
  },
  {
   "title": "Croajiro Noct",
@@ -5750,7 +5797,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/croajiro_noct.png"
  },
  {
   "title": "Cryolinx",
@@ -5876,7 +5924,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/cryolinx.png"
  },
  {
   "title": "Cryolinx Terra",
@@ -6002,7 +6051,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/cryolinx_terra.png"
  },
  {
   "title": "Daedream",
@@ -6132,7 +6182,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/daedream.png"
  },
  {
   "title": "Dandilord",
@@ -6281,7 +6332,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dandilord.png"
  },
  {
   "title": "Dark Mutant",
@@ -6338,7 +6390,8 @@
   "drops": {
    "normal": [],
    "alpha": []
-  }
+  },
+  "icon": "/icons/dark_mutant.png"
  },
  {
   "title": "Dazemu",
@@ -6448,7 +6501,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dazemu.png"
  },
  {
   "title": "Dazzi",
@@ -6578,7 +6632,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dazzi.png"
  },
  {
   "title": "Dazzi Noct",
@@ -6725,7 +6780,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dazzi_noct.png"
  },
  {
   "title": "Demon Eye",
@@ -6787,7 +6843,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/demon_eye.png"
  },
  {
   "title": "Depresso",
@@ -6909,7 +6966,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/depresso.png"
  },
  {
   "title": "Digtoise",
@@ -7031,7 +7089,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/digtoise.png"
  },
  {
   "title": "Dinossom",
@@ -7158,7 +7217,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dinossom.png"
  },
  {
   "title": "Dinossom Lux",
@@ -7285,7 +7345,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dinossom_lux.png"
  },
  {
   "title": "Direhowl",
@@ -7413,7 +7474,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/direhowl.png"
  },
  {
   "title": "Dogen",
@@ -7539,7 +7601,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dogen.png"
  },
  {
   "title": "Dragostrophe",
@@ -7621,7 +7684,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dragostrophe.png"
  },
  {
   "title": "Dualith",
@@ -7746,7 +7810,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dualith.png"
  },
  {
   "title": "Dualith Noct",
@@ -7871,7 +7936,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dualith_noct.png"
  },
  {
   "title": "Dumud",
@@ -8006,7 +8072,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dumud.png"
  },
  {
   "title": "Dumud Gild",
@@ -8153,7 +8220,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dumud_gild.png"
  },
  {
   "title": "Dupin",
@@ -8273,7 +8341,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dupin.png"
  },
  {
   "title": "Dynamoff",
@@ -8383,7 +8452,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/dynamoff.png"
  },
  {
   "title": "Eidrolon",
@@ -8492,7 +8562,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/eidrolon.png"
  },
  {
   "title": "Eidrolon Ignis",
@@ -8611,7 +8682,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/eidrolon_ignis.png"
  },
  {
   "title": "Eikthyrdeer",
@@ -8739,7 +8811,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/eikthyrdeer.png"
  },
  {
   "title": "Eikthyrdeer Terra",
@@ -8867,7 +8940,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/eikthyrdeer_terra.png"
  },
  {
   "title": "Elgrove",
@@ -8991,7 +9065,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/elgrove.png"
  },
  {
   "title": "Elgrove Cryst",
@@ -9117,7 +9192,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/elgrove_cryst.png"
  },
  {
   "title": "Elizabee",
@@ -9249,7 +9325,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/elizabee.png"
  },
  {
   "title": "Elphidran",
@@ -9359,7 +9436,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/elphidran.png"
  },
  {
   "title": "Elphidran Aqua",
@@ -9474,7 +9552,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/elphidran_aqua.png"
  },
  {
   "title": "Enchanted Sword",
@@ -9536,7 +9615,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/enchanted_sword.png"
  },
  {
   "title": "Eye of Cthulhu",
@@ -9615,7 +9695,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/eye_of_cthulhu.png"
  },
  {
   "title": "Faleris",
@@ -9733,7 +9814,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/faleris.png"
  },
  {
   "title": "Faleris Aqua",
@@ -9847,7 +9929,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/faleris_aqua.png"
  },
  {
   "title": "Faleris Noct",
@@ -9889,7 +9972,8 @@
   "drops": {
    "normal": [],
    "alpha": []
-  }
+  },
+  "icon": "/icons/faleris_noct.png"
  },
  {
   "title": "Felbat",
@@ -10011,7 +10095,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/felbat.png"
  },
  {
   "title": "Fenglope",
@@ -10133,7 +10218,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/fenglope.png"
  },
  {
   "title": "Fenglope Lux",
@@ -10271,7 +10357,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/fenglope_lux.png"
  },
  {
   "title": "Finsider",
@@ -10409,7 +10496,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/finsider.png"
  },
  {
   "title": "Finsider Ignis",
@@ -10552,7 +10640,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/finsider_ignis.png"
  },
  {
   "title": "Flambelle",
@@ -10686,7 +10775,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/flambelle.png"
  },
  {
   "title": "Flaracle",
@@ -10796,7 +10886,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/flaracle.png"
  },
  {
   "title": "Flopie",
@@ -10940,7 +11031,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/flopie.png"
  },
  {
   "title": "Foxcicle",
@@ -11066,7 +11158,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/foxcicle.png"
  },
  {
   "title": "Foxparks",
@@ -11188,7 +11281,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/foxparks.png"
  },
  {
   "title": "Foxparks Cryst",
@@ -11310,7 +11404,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/foxparks_cryst.png"
  },
  {
   "title": "Frostallion",
@@ -11440,7 +11535,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/frostallion.png"
  },
  {
   "title": "Frostallion Noct",
@@ -11570,7 +11666,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/frostallion_noct.png"
  },
  {
   "title": "Frostplume",
@@ -11696,7 +11793,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/frostplume.png"
  },
  {
   "title": "Fuack",
@@ -11830,7 +11928,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/fuack.png"
  },
  {
   "title": "Fuack Ignis",
@@ -11981,7 +12080,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/fuack_ignis.png"
  },
  {
   "title": "Fuddler",
@@ -12099,7 +12199,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/fuddler.png"
  },
  {
   "title": "Galeclaw",
@@ -12221,7 +12322,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/galeclaw.png"
  },
  {
   "title": "Ghangler",
@@ -12319,7 +12421,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/ghangler.png"
  },
  {
   "title": "Ghangler Ignis",
@@ -12421,7 +12524,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/ghangler_ignis.png"
  },
  {
   "title": "Gildane",
@@ -12531,7 +12635,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gildane.png"
  },
  {
   "title": "Gildra",
@@ -12648,7 +12753,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gildra.png"
  },
  {
   "title": "Gloopie",
@@ -12777,7 +12883,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gloopie.png"
  },
  {
   "title": "Gloopie Primo",
@@ -12894,7 +13001,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gloopie_primo.png"
  },
  {
   "title": "Gobfin",
@@ -13012,7 +13120,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gobfin.png"
  },
  {
   "title": "Gobfin Ignis",
@@ -13130,7 +13239,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gobfin_ignis.png"
  },
  {
   "title": "Gorirat",
@@ -13260,7 +13370,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gorirat.png"
  },
  {
   "title": "Gorirat Terra",
@@ -13390,7 +13501,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gorirat_terra.png"
  },
  {
   "title": "Green Slime",
@@ -13452,7 +13564,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/green_slime.png"
  },
  {
   "title": "Grintale",
@@ -13562,7 +13675,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/grintale.png"
  },
  {
   "title": "Grizzbolt",
@@ -13700,7 +13814,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/grizzbolt.png"
  },
  {
   "title": "Gumoss",
@@ -13823,7 +13938,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/gumoss.png"
  },
  {
   "title": "Hangyu",
@@ -13941,7 +14057,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/hangyu.png"
  },
  {
   "title": "Hangyu Cryst",
@@ -14075,7 +14192,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/hangyu_cryst.png"
  },
  {
   "title": "Hartalis",
@@ -14213,7 +14331,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/hartalis.png"
  },
  {
   "title": "Helzephyr",
@@ -14335,7 +14454,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/helzephyr.png"
  },
  {
   "title": "Helzephyr Lux",
@@ -14456,7 +14576,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/helzephyr_lux.png"
  },
  {
   "title": "Herbil",
@@ -14587,7 +14708,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/herbil.png"
  },
  {
   "title": "Hoocrates",
@@ -14709,7 +14831,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/hoocrates.png"
  },
  {
   "title": "Hoodle",
@@ -14821,7 +14944,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/hoodle.png"
  },
  {
   "title": "Icelyn",
@@ -14943,7 +15067,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/icelyn.png"
  },
  {
   "title": "Illuminant Bat",
@@ -15005,7 +15130,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/illuminant_bat.png"
  },
  {
   "title": "Illuminant Slime",
@@ -15067,7 +15193,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/illuminant_slime.png"
  },
  {
   "title": "Incineram",
@@ -15202,7 +15329,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/incineram.png"
  },
  {
   "title": "Incineram Noct",
@@ -15332,7 +15460,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/incineram_noct.png"
  },
  {
   "title": "Jelliette",
@@ -15462,7 +15591,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jelliette.png"
  },
  {
   "title": "Jellroy",
@@ -15597,7 +15727,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jellroy.png"
  },
  {
   "title": "Jetragon",
@@ -15721,7 +15852,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jetragon.png"
  },
  {
   "title": "Jolthog",
@@ -15831,7 +15963,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jolthog.png"
  },
  {
   "title": "Jolthog Cryst",
@@ -15941,7 +16074,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jolthog_cryst.png"
  },
  {
   "title": "Jormuntide",
@@ -16056,7 +16190,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jormuntide.png"
  },
  {
   "title": "Jormuntide Ignis",
@@ -16183,7 +16318,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/jormuntide_ignis.png"
  },
  {
   "title": "Katress",
@@ -16319,7 +16455,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/katress.png"
  },
  {
   "title": "Katress Ignis",
@@ -16466,7 +16603,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/katress_ignis.png"
  },
  {
   "title": "Kelpsea",
@@ -16592,7 +16730,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kelpsea.png"
  },
  {
   "title": "Kelpsea Ignis",
@@ -16718,7 +16857,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kelpsea_ignis.png"
  },
  {
   "title": "Kikit",
@@ -16852,7 +16992,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kikit.png"
  },
  {
   "title": "Killamari",
@@ -16983,7 +17124,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/killamari.png"
  },
  {
   "title": "Killamari Primo",
@@ -17114,7 +17256,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/killamari_primo.png"
  },
  {
   "title": "Kingpaca",
@@ -17224,7 +17367,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kingpaca.png"
  },
  {
   "title": "Kingpaca Cryst",
@@ -17350,7 +17494,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kingpaca_cryst.png"
  },
  {
   "title": "Kitsun",
@@ -17472,7 +17617,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kitsun.png"
  },
  {
   "title": "Kitsun Noct",
@@ -17606,7 +17752,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/kitsun_noct.png"
  },
  {
   "title": "Knocklem",
@@ -17730,7 +17877,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/knocklem.png"
  },
  {
   "title": "Knocklem Ignis",
@@ -17846,7 +17994,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/knocklem_ignis.png"
  },
  {
   "title": "Lamball",
@@ -17980,7 +18129,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lamball.png"
  },
  {
   "title": "Lapiron",
@@ -18094,7 +18244,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lapiron.png"
  },
  {
   "title": "Lapure",
@@ -18200,7 +18351,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lapure.png"
  },
  {
   "title": "Leafan",
@@ -18314,7 +18466,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/leafan.png"
  },
  {
   "title": "Leezpunk",
@@ -18450,7 +18603,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/leezpunk.png"
  },
  {
   "title": "Leezpunk Ignis",
@@ -18590,7 +18744,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/leezpunk_ignis.png"
  },
  {
   "title": "Lifmunk",
@@ -18732,7 +18887,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lifmunk.png"
  },
  {
   "title": "Loomen",
@@ -18855,7 +19011,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/loomen.png"
  },
  {
   "title": "Loupmoon",
@@ -18965,7 +19122,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/loupmoon.png"
  },
  {
   "title": "Loupmoon Cryst",
@@ -19079,7 +19237,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/loupmoon_cryst.png"
  },
  {
   "title": "Lovander",
@@ -19231,7 +19390,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lovander.png"
  },
  {
   "title": "Lullu",
@@ -19365,7 +19525,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lullu.png"
  },
  {
   "title": "Lunaris",
@@ -19483,7 +19644,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lunaris.png"
  },
  {
   "title": "Lyleen",
@@ -19627,7 +19789,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lyleen.png"
  },
  {
   "title": "Lyleen Noct",
@@ -19763,7 +19926,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/lyleen_noct.png"
  },
  {
   "title": "Majex",
@@ -19890,7 +20054,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/majex.png"
  },
  {
   "title": "Mammorest",
@@ -20027,7 +20192,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mammorest.png"
  },
  {
   "title": "Mammorest Cryst",
@@ -20164,7 +20330,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mammorest_cryst.png"
  },
  {
   "title": "Maraith",
@@ -20300,7 +20467,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/maraith.png"
  },
  {
   "title": "Mau",
@@ -20414,7 +20582,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mau.png"
  },
  {
   "title": "Mau Cryst",
@@ -20540,7 +20709,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mau_cryst.png"
  },
  {
   "title": "Melpaca",
@@ -20662,7 +20832,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/melpaca.png"
  },
  {
   "title": "Menasting",
@@ -20793,7 +20964,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/menasting.png"
  },
  {
   "title": "Menasting Terra",
@@ -20925,7 +21097,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/menasting_terra.png"
  },
  {
   "title": "Mimog",
@@ -21063,7 +21236,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mimog.png"
  },
  {
   "title": "Moldron",
@@ -21176,7 +21350,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/moldron.png"
  },
  {
   "title": "Moldron Cryst",
@@ -21289,7 +21464,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/moldron_cryst.png"
  },
  {
   "title": "Mossanda",
@@ -21435,7 +21611,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mossanda.png"
  },
  {
   "title": "Mossanda Lux",
@@ -21575,7 +21752,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mossanda_lux.png"
  },
  {
   "title": "Mozzarina",
@@ -21697,7 +21875,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mozzarina.png"
  },
  {
   "title": "Muffly",
@@ -21803,7 +21982,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/muffly.png"
  },
  {
   "title": "Munchill",
@@ -21934,7 +22114,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/munchill.png"
  },
  {
   "title": "Mycora",
@@ -22054,7 +22235,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/mycora.png"
  },
  {
   "title": "Necromus",
@@ -22188,7 +22370,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/necromus.png"
  },
  {
   "title": "Needoll",
@@ -22298,7 +22481,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/needoll.png"
  },
  {
   "title": "Needoll Noct",
@@ -22415,7 +22599,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/needoll_noct.png"
  },
  {
   "title": "Neptilius",
@@ -22545,7 +22730,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/neptilius.png"
  },
  {
   "title": "Nitemary",
@@ -22659,7 +22845,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/nitemary.png"
  },
  {
   "title": "Nitemary Botan",
@@ -22769,7 +22956,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/nitemary_botan.png"
  },
  {
   "title": "Nitewing",
@@ -22879,7 +23067,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/nitewing.png"
  },
  {
   "title": "Nox",
@@ -23001,7 +23190,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/nox.png"
  },
  {
   "title": "Nyafia",
@@ -23123,7 +23313,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/nyafia.png"
  },
  {
   "title": "Omascul",
@@ -23233,7 +23424,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/omascul.png"
  },
  {
   "title": "Ophydia",
@@ -23320,7 +23512,8 @@
   "drops": {
    "normal": [],
    "alpha": []
-  }
+  },
+  "icon": "/icons/ophydia.png"
  },
  {
   "title": "Orserk",
@@ -23443,7 +23636,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/orserk.png"
  },
  {
   "title": "Paladius",
@@ -23577,7 +23771,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/paladius.png"
  },
  {
   "title": "Palumba",
@@ -23695,7 +23890,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/palumba.png"
  },
  {
   "title": "Panthalus",
@@ -23798,7 +23994,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/panthalus.png"
  },
  {
   "title": "Pengullet",
@@ -23933,7 +24130,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pengullet.png"
  },
  {
   "title": "Pengullet Lux",
@@ -24068,7 +24266,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pengullet_lux.png"
  },
  {
   "title": "Penking",
@@ -24213,7 +24412,8 @@
      "chance": 2.0
     }
    ]
-  }
+  },
+  "icon": "/icons/penking.png"
  },
  {
   "title": "Penking Lux",
@@ -24352,7 +24552,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/penking_lux.png"
  },
  {
   "title": "Petallia",
@@ -24478,7 +24679,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/petallia.png"
  },
  {
   "title": "Petallia Ignis",
@@ -24603,7 +24805,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/petallia_ignis.png"
  },
  {
   "title": "Pierdon",
@@ -24717,7 +24920,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pierdon.png"
  },
  {
   "title": "Pierdon Cryst",
@@ -24835,7 +25039,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pierdon_cryst.png"
  },
  {
   "title": "Polapup",
@@ -24950,7 +25155,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/polapup.png"
  },
  {
   "title": "Polapup Terra",
@@ -25063,7 +25269,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/polapup_terra.png"
  },
  {
   "title": "Prixter",
@@ -25182,7 +25389,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/prixter.png"
  },
  {
   "title": "Prixter Lux",
@@ -25297,7 +25505,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/prixter_lux.png"
  },
  {
   "title": "Prunelia",
@@ -25448,7 +25657,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/prunelia.png"
  },
  {
   "title": "Puffolt",
@@ -25558,7 +25768,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/puffolt.png"
  },
  {
   "title": "Pupperai",
@@ -25672,7 +25883,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pupperai.png"
  },
  {
   "title": "Purple Slime",
@@ -25734,7 +25946,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/purple_slime.png"
  },
  {
   "title": "Pyrin",
@@ -25860,7 +26073,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pyrin.png"
  },
  {
   "title": "Pyrin Noct",
@@ -25987,7 +26201,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/pyrin_noct.png"
  },
  {
   "title": "Quivern",
@@ -26109,7 +26324,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/quivern.png"
  },
  {
   "title": "Quivern Botan",
@@ -26260,7 +26476,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/quivern_botan.png"
  },
  {
   "title": "Ragnahawk",
@@ -26378,7 +26595,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/ragnahawk.png"
  },
  {
   "title": "Rainbow Slime",
@@ -26440,7 +26658,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/rainbow_slime.png"
  },
  {
   "title": "Rayhound",
@@ -26554,7 +26773,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/rayhound.png"
  },
  {
   "title": "Rayhound Cryst",
@@ -26664,7 +26884,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/rayhound_cryst.png"
  },
  {
   "title": "Red Slime",
@@ -26726,7 +26947,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/red_slime.png"
  },
  {
   "title": "Reindrix",
@@ -26864,7 +27086,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/reindrix.png"
  },
  {
   "title": "Relaxaurus",
@@ -26991,7 +27214,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/relaxaurus.png"
  },
  {
   "title": "Relaxaurus Lux",
@@ -27124,7 +27348,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/relaxaurus_lux.png"
  },
  {
   "title": "Renjishi",
@@ -27244,7 +27469,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/renjishi.png"
  },
  {
   "title": "Reptyro",
@@ -27359,7 +27585,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/reptyro.png"
  },
  {
   "title": "Reptyro Cryst",
@@ -27474,7 +27701,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/reptyro_cryst.png"
  },
  {
   "title": "Ribbuny",
@@ -27610,7 +27838,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/ribbuny.png"
  },
  {
   "title": "Ribbuny Botan",
@@ -27762,7 +27991,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/ribbuny_botan.png"
  },
  {
   "title": "Robinquill",
@@ -27910,7 +28140,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/robinquill.png"
  },
  {
   "title": "Robinquill Terra",
@@ -28055,7 +28286,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/robinquill_terra.png"
  },
  {
   "title": "Rooby",
@@ -28181,7 +28413,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/rooby.png"
  },
  {
   "title": "Roujay",
@@ -28293,7 +28526,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/roujay.png"
  },
  {
   "title": "Rushoar",
@@ -28421,7 +28655,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/rushoar.png"
  },
  {
   "title": "Sekhmet",
@@ -28537,7 +28772,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/sekhmet.png"
  },
  {
   "title": "Selyne",
@@ -28674,7 +28910,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/selyne.png"
  },
  {
   "title": "Shadowbeak",
@@ -28806,7 +29043,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/shadowbeak.png"
  },
  {
   "title": "Shaolong",
@@ -28925,7 +29163,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/shaolong.png"
  },
  {
   "title": "Shroomer",
@@ -29069,7 +29308,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/shroomer.png"
  },
  {
   "title": "Shroomer Noct",
@@ -29204,7 +29444,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/shroomer_noct.png"
  },
  {
   "title": "Sibelyx",
@@ -29334,7 +29575,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/sibelyx.png"
  },
  {
   "title": "Sibelyx Primo",
@@ -29446,7 +29688,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/sibelyx_primo.png"
  },
  {
   "title": "Silvance",
@@ -29570,7 +29813,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/silvance.png"
  },
  {
   "title": "Silvegis",
@@ -29680,7 +29924,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/silvegis.png"
  },
  {
   "title": "Skutlass",
@@ -29796,7 +30041,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/skutlass.png"
  },
  {
   "title": "Skutlass Ignis",
@@ -29917,7 +30163,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/skutlass_ignis.png"
  },
  {
   "title": "Slowatt",
@@ -30025,7 +30272,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/slowatt.png"
  },
  {
   "title": "Smokie",
@@ -30147,7 +30395,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/smokie.png"
  },
  {
   "title": "Smokie Cryst",
@@ -30264,7 +30513,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/smokie_cryst.png"
  },
  {
   "title": "Snock",
@@ -30372,7 +30622,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/snock.png"
  },
  {
   "title": "Snock Terra",
@@ -30481,7 +30732,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/snock_terra.png"
  },
  {
   "title": "Snugloo",
@@ -30601,7 +30853,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/snugloo.png"
  },
  {
   "title": "Solenne",
@@ -30697,7 +30950,8 @@
     }
    ],
    "alpha": []
-  }
+  },
+  "icon": "/icons/solenne.png"
  },
  {
   "title": "Solmora",
@@ -30799,7 +31053,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/solmora.png"
  },
  {
   "title": "Solmora Lux",
@@ -30912,7 +31167,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/solmora_lux.png"
  },
  {
   "title": "Sootseer",
@@ -31057,7 +31313,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/sootseer.png"
  },
  {
   "title": "Souffline",
@@ -31163,7 +31420,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/souffline.png"
  },
  {
   "title": "Sparkit",
@@ -31285,7 +31543,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/sparkit.png"
  },
  {
   "title": "Splatterina",
@@ -31407,7 +31666,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/splatterina.png"
  },
  {
   "title": "Starryon",
@@ -31529,7 +31789,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/starryon.png"
  },
  {
   "title": "Starryon Primo",
@@ -31637,7 +31898,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/starryon_primo.png"
  },
  {
   "title": "Surfent",
@@ -31751,7 +32013,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/surfent.png"
  },
  {
   "title": "Surfent Terra",
@@ -31861,7 +32124,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/surfent_terra.png"
  },
  {
   "title": "Suzaku",
@@ -31971,7 +32235,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/suzaku.png"
  },
  {
   "title": "Suzaku Aqua",
@@ -32081,7 +32346,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/suzaku_aqua.png"
  },
  {
   "title": "Swee",
@@ -32207,7 +32473,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/swee.png"
  },
  {
   "title": "Sweepa",
@@ -32321,7 +32588,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/sweepa.png"
  },
  {
   "title": "Tanzee",
@@ -32447,7 +32715,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tanzee.png"
  },
  {
   "title": "Tanzee Ignis",
@@ -32567,7 +32836,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tanzee_ignis.png"
  },
  {
   "title": "Tarantriss",
@@ -32701,7 +32971,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tarantriss.png"
  },
  {
   "title": "Teafant",
@@ -32811,7 +33082,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/teafant.png"
  },
  {
   "title": "Tetroise",
@@ -32919,7 +33191,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tetroise.png"
  },
  {
   "title": "Tetroise Primo",
@@ -33027,7 +33300,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tetroise_primo.png"
  },
  {
   "title": "Tocotoco",
@@ -33149,7 +33423,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tocotoco.png"
  },
  {
   "title": "Tombat",
@@ -33279,7 +33554,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tombat.png"
  },
  {
   "title": "Tropicaw",
@@ -33391,7 +33667,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/tropicaw.png"
  },
  {
   "title": "Turtacle",
@@ -33521,7 +33798,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/turtacle.png"
  },
  {
   "title": "Turtacle Terra",
@@ -33652,7 +33930,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/turtacle_terra.png"
  },
  {
   "title": "Univolt",
@@ -33788,7 +34067,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/univolt.png"
  },
  {
   "title": "Univolt Cryst",
@@ -33906,7 +34186,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/univolt_cryst.png"
  },
  {
   "title": "Vaelet",
@@ -34054,7 +34335,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/vaelet.png"
  },
  {
   "title": "Valentail",
@@ -34156,7 +34438,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/valentail.png"
  },
  {
   "title": "Vanwyrm",
@@ -34293,7 +34576,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/vanwyrm.png"
  },
  {
   "title": "Vanwyrm Cryst",
@@ -34430,7 +34714,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/vanwyrm_cryst.png"
  },
  {
   "title": "Venusa",
@@ -34550,7 +34835,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/venusa.png"
  },
  {
   "title": "Verdash",
@@ -34692,7 +34978,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/verdash.png"
  },
  {
   "title": "Vixy",
@@ -34822,7 +35109,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/vixy.png"
  },
  {
   "title": "Warsect",
@@ -34951,7 +35239,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/warsect.png"
  },
  {
   "title": "Warsect Terra",
@@ -35069,7 +35358,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/warsect_terra.png"
  },
  {
   "title": "Whalaska",
@@ -35220,7 +35510,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/whalaska.png"
  },
  {
   "title": "Whalaska Ignis",
@@ -35371,7 +35662,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/whalaska_ignis.png"
  },
  {
   "title": "Wispaw",
@@ -35491,7 +35783,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/wispaw.png"
  },
  {
   "title": "Wistella",
@@ -35607,7 +35900,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/wistella.png"
  },
  {
   "title": "Wixen",
@@ -35737,7 +36031,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/wixen.png"
  },
  {
   "title": "Wixen Noct",
@@ -35868,7 +36163,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/wixen_noct.png"
  },
  {
   "title": "Woolipop",
@@ -35990,7 +36286,8 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/woolipop.png"
  },
  {
   "title": "Woolipop Terra",
@@ -36098,7 +36395,8 @@
      "chance": 100.0
     }
    ]
-  }
+  },
+  "icon": "/icons/woolipop_terra.png"
  },
  {
   "title": "Wumpo",
@@ -36236,7 +36534,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/wumpo.png"
  },
  {
   "title": "Wumpo Botan",
@@ -36386,7 +36685,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/wumpo_botan.png"
  },
  {
   "title": "Xenogard",
@@ -36508,7 +36808,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/xenogard.png"
  },
  {
   "title": "Xenolord",
@@ -36619,7 +36920,8 @@
      "chance": 1.0
     }
    ]
-  }
+  },
+  "icon": "/icons/xenolord.png"
  },
  {
   "title": "Xenovader",
@@ -36733,7 +37035,8 @@
      "chance": 3.0
     }
    ]
-  }
+  },
+  "icon": "/icons/xenovader.png"
  },
  {
   "title": "Yakumo",
@@ -36843,6 +37146,7 @@
      "chance": 5.0
     }
    ]
-  }
+  },
+  "icon": "/icons/yakumo.png"
  }
 ]
