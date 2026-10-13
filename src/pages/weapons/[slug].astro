@@ -3,6 +3,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import weapons from "../../data/palworld_weapons.json";
 import armor from "../../data/palworld_armor.json";
+import { weaponDesc } from "../../lib/seo";
 
 export function getStaticPaths() {
   return weapons.map((w: any) => ({ params: { slug: w.slug }, props: { weapon: w } }));
@@ -21,7 +22,7 @@ const sameType = all
 
 <Base
   title={`${weapon.title} — Palworld Weapon Stats (All Quality Tiers)`}
-  description={`${weapon.title} in Palworld: ${weapon.subtype || "weapon"}, best attack ${weapon.top_attack ?? "?"}, durability ${weapon.top_durability ?? "?"}${weapon.ingredients?.length ? ", crafting ingredients" : ""}.`}
+  description={weaponDesc(weapon)}
 >
   <div class="icon-h1">
     {weapon.icon && <img src={weapon.icon} alt={weapon.title} loading="lazy" />}

@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import armor from "../../data/palworld_armor.json";
+import { armorDesc } from "../../lib/seo";
 
 export function getStaticPaths() {
   return armor.map((a: any) => ({ params: { slug: a.slug }, props: { piece: a } }));
@@ -20,7 +21,7 @@ const sameSlot = all
 
 <Base
   title={`${piece.title} — Palworld Armor Stats (All Quality Tiers)`}
-  description={`${piece.title} in Palworld: ${piece.subtype || "armour"}, best defense ${piece.top_defense ?? "?"}, durability ${piece.top_durability ?? "?"}${piece.qualities?.[Object.keys(piece.qualities||{})[0]]?.equip_effect ? ", equip effect" : ""}.`}
+  description={armorDesc(piece)}
 >
   <div class="icon-h1">
     {piece.icon && <img src={piece.icon} alt={piece.title} loading="lazy" />}

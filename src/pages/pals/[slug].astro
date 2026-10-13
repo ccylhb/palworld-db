@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import pals from "../../data/palworld_pals.json";
+import { palDesc } from "../../lib/seo";
 
 export function getStaticPaths() {
   return pals.map((p: any) => ({ params: { slug: p.slug }, props: { pal: p } }));
@@ -28,7 +29,7 @@ const stats = [
 
 <Base
   title={`${pal.title} — Pal #${pal.no} Stats, Drops & Breeding Rank`}
-  description={`${pal.title} (${(pal.elements || []).join("/")}) in Palworld: base HP ${pal.hp}, attack ${pal.attack}, defense ${pal.defense}, work suitability, drops and breeding rank.`}
+  description={palDesc(pal)}
 >
   <div class="icon-h1">
     {pal.icon && <img src={pal.icon} alt={pal.title} loading="lazy" />}
