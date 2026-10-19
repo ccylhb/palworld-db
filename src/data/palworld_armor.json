@@ -49,6 +49,123 @@
   "icon": "/icons/advanced_shield.png"
  },
  {
+  "title": "Ancient Armor",
+  "slug": "ancient-armor",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Ancient Armor icon.png",
+   "Ancient Armor.png"
+  ],
+  "intro": "Ancient Armor is a late-game armor the player can use. Armor is equipment worn to reduce damage taken and provide defensive bonuses. Different armor pieces offer varying levels of protection and may include additional effects or stat modifiers. Armor effectiveness is determined by its base stats, rarity, and upgrade level. Armor can be obtained through crafting, merchants, drops, or rewards and is used to improve survivability in combat.\"",
+  "description": "Ancient armor forged from Soralite Ingot. Crafted with the essence of a lost civilization, it boasts overwhelming defensive power and is capable of withstanding cataclysmic threats.",
+  "item_type": "Armor",
+  "subtype": "",
+  "rarity": "Common",
+  "weight": 40.0,
+  "technology": "Ancient Armor",
+  "ammo": [],
+  "qualities": {
+   "Common": {
+    "sell": 1169780.0,
+    "durability": 25000.0,
+    "defense": 800.0,
+    "health": 24000.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2"
+   },
+   "Uncommon": {
+    "sell": 1237460.0,
+    "durability": 37500.0,
+    "defense": 880.0,
+    "health": 2640.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2 / Attack Up (S) Lv. 1"
+   },
+   "Rare": {
+    "sell": 1611310.0,
+    "durability": 50000.0,
+    "defense": 920.0,
+    "health": 2760.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2 / Attack Up (S) Lv. 2"
+   },
+   "Epic": {
+    "sell": 1976520.0,
+    "durability": 75000.0,
+    "defense": 960.0,
+    "health": 2880.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2 / Attack Up (S) Lv. 3"
+   },
+   "Legendary": {
+    "sell": 2350370.0,
+    "durability": 100000.0,
+    "defense": 1040.0,
+    "health": 3120.0,
+    "equip_effect": "Cold Resistant Lv. 2 / Heat Resistant Lv. 2 / Attack Up (S) Lv. 4"
+   }
+  },
+  "top_defense": 1040.0,
+  "top_durability": 100000.0,
+  "ingredients": [
+   {
+    "name": "Soralite Ingot",
+    "count": 30
+   },
+   {
+    "name": "AI Core",
+    "count": 3
+   }
+  ],
+  "icon": "/icons/ancient_armor.png"
+ },
+ {
+  "title": "Ancient Shield",
+  "slug": "ancient-shield",
+  "category": "Armor",
+  "infobox": "Item",
+  "images": [
+   "Ancient Shield icon.png",
+   "Ancient Shield.png"
+  ],
+  "intro": "Ancient Shield is a Shield item which can be crafted and equipped by the Player. It grants 2200 Shield while equipped and has 22,000 durability. It is the highest tier of Shield in the game.",
+  "description": "Strange shield made with Paldium technology. It automatically repairs itself after not taking damage for a while.",
+  "item_type": "Armor",
+  "subtype": "Shield",
+  "rarity": "Legendary",
+  "weight": 5.0,
+  "technology": "Ancient Shield",
+  "ammo": [],
+  "qualities": {
+   "Legendary": {
+    "sell": 1929840.0,
+    "durability": 22000.0
+   }
+  },
+  "top_defense": null,
+  "top_durability": null,
+  "ingredients": [
+   {
+    "name": "Ancient Civilization Parts",
+    "count": 50
+   },
+   {
+    "name": "Paldium Fragment",
+    "count": 250
+   },
+   {
+    "name": "Soralite Ingot",
+    "count": 30
+   },
+   {
+    "name": "AI Core",
+    "count": 5
+   },
+   {
+    "name": "Ancient Civilization Core",
+    "count": 30
+   }
+  ],
+  "icon": "/icons/ancient_shield.png"
+ },
+ {
   "title": "Axel Hat",
   "slug": "axel-hat",
   "category": "Armor",

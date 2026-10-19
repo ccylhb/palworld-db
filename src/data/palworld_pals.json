@@ -2744,12 +2744,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Grass Support Whistle +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -3012,12 +3006,6 @@
      "min": 1,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Grass Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -17486,12 +17474,6 @@
      "min": 1,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Ice Resistance +2",
-     "min": 1,
-     "max": 1,
-     "chance": 1.0
     }
    ]
   },
@@ -17863,18 +17845,6 @@
      "min": 4,
      "max": 6,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Earth Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
-    },
-    {
-     "name": "Ring of Freight +2",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -27577,12 +27547,6 @@
      "min": 3,
      "max": 5,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Fire Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -27693,12 +27657,6 @@
      "min": 3,
      "max": 5,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Ice Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -29916,12 +29874,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Dragon Resistance +2",
-     "min": 1,
-     "max": 1,
-     "chance": 1.0
     }
    ]
   },
@@ -36526,12 +36478,6 @@
      "min": 6,
      "max": 8,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Ice Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -36677,12 +36623,6 @@
      "min": 6,
      "max": 8,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Grass Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
