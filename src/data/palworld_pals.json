@@ -3528,12 +3528,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Dark Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -10944,6 +10938,10 @@
    {
     "name": "Solar Blast",
     "level": 50
+   },
+   {
+    "name": "Wind Burst",
+    "level": 70
    }
   ],
   "internal_name": "FlowerRabbit",
@@ -13420,6 +13418,10 @@
    {
     "name": "Rock Lance",
     "level": 50
+   },
+   {
+    "name": "Rocky Impact",
+    "level": 70
    }
   ],
   "internal_name": "Gorilla_Ground",
@@ -13481,12 +13483,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Earth Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -13606,6 +13602,10 @@
    {
     "name": "Pal Blast",
     "level": 50
+   },
+   {
+    "name": "Holy Burst",
+    "level": 70
    }
   ],
   "internal_name": "NaughtyCat",
@@ -14373,6 +14373,10 @@
    {
     "name": "Dark Laser",
     "level": 50
+   },
+   {
+    "name": "Dark Whisp",
+    "level": 70
    }
   ],
   "internal_name": "HadesBird",
@@ -14434,12 +14438,6 @@
      "min": 4,
      "max": 6,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Dark Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -14501,6 +14499,10 @@
    {
     "name": "Thunderstorm",
     "level": 50
+   },
+   {
+    "name": "Thunder Rail",
+    "level": 70
    }
   ],
   "internal_name": "HadesBird_Electric",
@@ -16325,7 +16327,7 @@
   ],
   "pal_size": "M",
   "partner_skill_name": "Mystical Black Magic",
-  "partner_skill_desc": "While in party, Neutral Pals drop 40% more items when defeated. Also has a 10% chance to prevent Pal Sphere consumption when thrown. (Does not stack)",
+  "partner_skill_desc": "While in party, Neutral Pals drop more items when defeated. Also has a chance to prevent Pal Sphere consumption when thrown. (Does not stack)",
   "work_suitability": [
    {
     "name": "Handiwork",
@@ -16368,6 +16370,10 @@
    {
     "name": "Dark Laser",
     "level": 50
+   },
+   {
+    "name": "Dark Whisp",
+    "level": 70
    }
   ],
   "internal_name": "CatMage",
@@ -16435,12 +16441,6 @@
      "min": 2,
      "max": 4,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Dark Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -16510,6 +16510,10 @@
    {
     "name": "Fire Ball",
     "level": 50
+   },
+   {
+    "name": "Dark Whisp",
+    "level": 70
    }
   ],
   "internal_name": "CatMage_Fire",
@@ -16583,12 +16587,6 @@
      "min": 1,
      "max": 2,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Fire Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -18498,6 +18496,10 @@
    {
     "name": "Dark Laser",
     "level": 50
+   },
+   {
+    "name": "Dark Whsip",
+    "level": 70
    }
   ],
   "internal_name": "LizardMan",
@@ -18565,12 +18567,6 @@
      "min": 1,
      "max": 1,
      "chance": 1.0
-    },
-    {
-     "name": "Ring of Dark Resistance",
-     "min": 1,
-     "max": 1,
-     "chance": 5.0
     }
    ]
   },
@@ -18639,6 +18635,10 @@
    {
     "name": "Fire Ball",
     "level": 50
+   },
+   {
+    "name": "Thunderstorm",
+    "level": 70
    }
   ],
   "internal_name": "LizardMan_Fire",
@@ -25068,6 +25068,10 @@
    {
     "name": "Aqua Surge",
     "level": 50
+   },
+   {
+    "name": "Diamond Rain",
+    "level": 70
    }
   ],
   "internal_name": "IceSeal",
@@ -25117,12 +25121,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ice Support Whistle +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -28023,6 +28021,10 @@
    {
     "name": "Solar Blast",
     "level": 50
+   },
+   {
+    "name": "Wind Burst",
+    "level": 70
    }
   ],
   "internal_name": "RobinHood",
@@ -28090,12 +28092,6 @@
      "min": 2,
      "max": 4,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Grass Resistance",
-     "min": 1,
-     "max": 1,
-     "chance": 5.0
     }
    ]
   },
@@ -28169,6 +28165,10 @@
    {
     "name": "Rock Lance",
     "level": 50
+   },
+   {
+    "name": "Rocky Impact",
+    "level": 70
    }
   ],
   "internal_name": "RobinHood_Ground",
@@ -32854,6 +32854,10 @@
    {
     "name": "Apocalypse",
     "level": 50
+   },
+   {
+    "name": "Dark Whisp",
+    "level": 70
    }
   ],
   "internal_name": "PurpleSpider",
@@ -32915,12 +32919,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Dark Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
@@ -35053,12 +35051,6 @@
      "min": 1,
      "max": 2,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Neutral Resistance",
-     "min": 1,
-     "max": 1,
-     "chance": 5.0
     }
    ]
   },
@@ -35754,7 +35746,7 @@
   ],
   "pal_size": "S",
   "partner_skill_name": "Hidden Dark Energy",
-  "partner_skill_desc": "While in party, increases Defense of Dark Pals by (15~30)%. (Does not stack)",
+  "partner_skill_desc": "While in party, increases Defense of Dark Pals by %. (Does not stack)",
   "work_suitability": [
    {
     "name": "Handiwork",
@@ -35914,6 +35906,10 @@
    {
     "name": "Dragon Meteor",
     "level": 50
+   },
+   {
+    "name": "Holy Burst",
+    "level": 70
    }
   ],
   "internal_name": "FoxMage",
@@ -35975,12 +35971,6 @@
      "min": 4,
      "max": 6,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Fire Resistance",
-     "min": 1,
-     "max": 1,
-     "chance": 5.0
     }
    ]
   },
@@ -36046,6 +36036,10 @@
    {
     "name": "Apocalypse",
     "level": 50
+   },
+   {
+    "name": "Dark Whisp",
+    "level": 70
    }
   ],
   "internal_name": "FoxMage_Dark",
@@ -36107,12 +36101,6 @@
      "min": 2,
      "max": 3,
      "chance": 100.0
-    },
-    {
-     "name": "Ring of Dark Resistance +1",
-     "min": 1,
-     "max": 1,
-     "chance": 3.0
     }
    ]
   },
